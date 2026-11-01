@@ -1,0 +1,14 @@
+{
+    "uuid": "a4410780-a26a-49c0-b261-f373853f5fd0",
+    "words": [
+        "fiction",
+        "novel",
+        "genre",
+        "literary device",
+        "narrative"
+    ],
+    "relationship": "A storytelling form can evolve into various genres.",
+    "elapsed_time": 11.790419578552246,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

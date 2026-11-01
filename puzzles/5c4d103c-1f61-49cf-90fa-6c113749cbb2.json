@@ -1,0 +1,14 @@
+{
+    "uuid": "5c4d103c-1f61-49cf-90fa-6c113749cbb2",
+    "words": [
+        "cinema",
+        "movie",
+        "actor",
+        "scriptwriter",
+        "director"
+    ],
+    "relationship": "This is a group of five words related to entertainment where one word leads or influences another.",
+    "elapsed_time": 12.134035348892212,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

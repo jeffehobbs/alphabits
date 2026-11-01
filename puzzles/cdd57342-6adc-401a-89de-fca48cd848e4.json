@@ -1,0 +1,14 @@
+{
+    "uuid": "cdd57342-6adc-401a-89de-fca48cd848e4",
+    "words": [
+        "script",
+        "stage",
+        "lighting",
+        "sound",
+        "actor"
+    ],
+    "relationship": "The words are all components or aspects of creating a captivating and engaging experience for an audience.",
+    "elapsed_time": 16.169771671295166,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1c5f9efb-fb03-4b47-89dc-7154477073fb",
+    "words": [
+        "omen",
+        "foreshadowing",
+        "suspense",
+        "mystery",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear in stories to create tension, suspense, or a sense of foreboding. They can be used to hint at future events or to build a mysterious atmosphere.",
+    "elapsed_time": 23.026381015777588,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

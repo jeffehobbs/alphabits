@@ -1,0 +1,14 @@
+{
+    "uuid": "ddf8a9af-6d11-46f2-b1be-9a1cc1b3f8e6",
+    "words": [
+        "piano",
+        "rock",
+        "jazz",
+        "Bach",
+        "Mozart"
+    ],
+    "relationship": "instrument, genre, style, artist, composer",
+    "elapsed_time": 7.494132995605469,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

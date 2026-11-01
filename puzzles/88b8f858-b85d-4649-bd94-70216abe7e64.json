@@ -1,0 +1,14 @@
+{
+    "uuid": "88b8f858-b85d-4649-bd94-70216abe7e64",
+    "words": [
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Piano",
+        "Violin"
+    ],
+    "relationship": "Instruments used to create sound",
+    "elapsed_time": 10.72719693183899,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

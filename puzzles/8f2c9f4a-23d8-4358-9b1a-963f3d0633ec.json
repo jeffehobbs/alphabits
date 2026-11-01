@@ -1,0 +1,14 @@
+{
+    "uuid": "8f2c9f4a-23d8-4358-9b1a-963f3d0633ec",
+    "words": [
+        "beat",
+        "rhythm",
+        "melody",
+        "harmony",
+        "tempo"
+    ],
+    "relationship": "These terms all describe aspects of how sound is organized and structured over time, creating a sense of rhythm and form.",
+    "elapsed_time": 20.718775987625122,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9b82cc9f-3eb9-4927-b8ab-00ec763b1437",
+    "words": [
+        "rock",
+        "jazz",
+        "blues",
+        "classical",
+        "pop"
+    ],
+    "relationship": "These words all relate to different forms of music genres that are often performed at live concerts.",
+    "elapsed_time": 11.315518617630005,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

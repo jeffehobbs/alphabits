@@ -1,0 +1,14 @@
+{
+    "uuid": "b3eb525d-6d5b-428c-9655-1e210731e14f",
+    "words": [
+        "experiment",
+        "hypothesis",
+        "observation",
+        "theory",
+        "data"
+    ],
+    "relationship": "The process of observing and analyzing phenomena using systematic methods to understand the natural world. It often involves experimentation, data collection, and the development of theories to explain how things work.",
+    "elapsed_time": 19.438535690307617,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

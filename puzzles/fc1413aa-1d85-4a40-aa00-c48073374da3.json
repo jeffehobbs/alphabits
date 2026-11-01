@@ -1,0 +1,14 @@
+{
+    "uuid": "fc1413aa-1d85-4a40-aa00-c48073374da3",
+    "words": [
+        "Quark",
+        "Lepton",
+        "Hadron",
+        "Fermion",
+        "Boson"
+    ],
+    "relationship": "These are all terms used within physics to describe interactions at a subatomic level.",
+    "elapsed_time": 10.69643783569336,
+    "model": "phi3:latest",
+    "topic": "science"
+}

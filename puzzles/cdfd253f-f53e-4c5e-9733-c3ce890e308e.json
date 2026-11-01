@@ -1,0 +1,14 @@
+{
+    "uuid": "cdfd253f-f53e-4c5e-9733-c3ce890e308e",
+    "words": [
+        "narrative",
+        "worldbuilding",
+        "character",
+        "atmosphere",
+        "resonance"
+    ],
+    "relationship": "These terms all describe different aspects of creating and experiencing stories \u2013 from the initial concept and the building of a world, to the way that world is presented to an audience, and finally, the emotional response it evokes.",
+    "elapsed_time": 16.962724447250366,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

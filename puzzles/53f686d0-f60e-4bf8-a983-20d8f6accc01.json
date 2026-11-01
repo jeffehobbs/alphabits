@@ -1,0 +1,14 @@
+{
+    "uuid": "53f686d0-f60e-4bf8-a983-20d8f6accc01",
+    "words": [
+        "guitar",
+        "drums",
+        "piano",
+        "violin",
+        "bass"
+    ],
+    "relationship": "In this musical world, different instruments play their unique sounds to create harmony within a band or an orchestra.",
+    "elapsed_time": 15.468669891357422,
+    "model": "phi3:latest",
+    "topic": "music"
+}

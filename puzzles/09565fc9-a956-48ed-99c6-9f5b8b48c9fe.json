@@ -1,0 +1,14 @@
+{
+    "uuid": "09565fc9-a956-48ed-99c6-9f5b8b48c9fe",
+    "words": [
+        "melody",
+        "rhythm",
+        "tempo",
+        "harmony",
+        "chord"
+    ],
+    "relationship": "Musicians create harmonies by playing multiple notes simultaneously.",
+    "elapsed_time": 13.972227334976196,
+    "model": "phi3:latest",
+    "topic": "music"
+}

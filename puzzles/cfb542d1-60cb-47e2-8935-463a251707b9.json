@@ -1,0 +1,14 @@
+{
+    "uuid": "cfb542d1-60cb-47e2-8935-463a251707b9",
+    "words": [
+        "ocean",
+        "sea",
+        "lake",
+        "river",
+        "bay"
+    ],
+    "relationship": "Ocean, Sea, Lake, River, Bay",
+    "elapsed_time": 3.986546277999878,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

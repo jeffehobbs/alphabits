@@ -1,0 +1,14 @@
+{
+    "uuid": "09449e83-5161-4449-ad5e-76c1a92d612e",
+    "words": [
+        "erosion",
+        "weathering",
+        "deposition",
+        "landscape",
+        "geomorphology"
+    ],
+    "relationship": "These terms all describe aspects of how landforms are shaped over long periods due to natural forces.",
+    "elapsed_time": 12.138005495071411,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

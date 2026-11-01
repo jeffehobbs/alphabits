@@ -1,0 +1,14 @@
+{
+    "uuid": "1cdbe795-5d8e-401f-9bb3-f2a802485315",
+    "words": [
+        "stage",
+        "audience",
+        "performance",
+        "actor",
+        "theater"
+    ],
+    "relationship": "The following words are all commonly associated with live performances where a person or group presents a planned sequence of actions or artistic expression to an audience.",
+    "elapsed_time": 14.309596538543701,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

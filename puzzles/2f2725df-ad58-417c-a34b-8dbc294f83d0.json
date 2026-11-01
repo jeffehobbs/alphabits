@@ -1,0 +1,14 @@
+{
+    "uuid": "2f2725df-ad58-417c-a34b-8dbc294f83d0",
+    "words": [
+        "Renaissance",
+        "Printing Press",
+        "Humanism",
+        "Artistic Innovation",
+        "European Society"
+    ],
+    "relationship": "[In chronological order] A significant event leads to [a cultural change], which influences [the development of a new technology or art form], that becomes symbolic for an era, and ultimately shapes society's understanding of history.",
+    "elapsed_time": 16.923084020614624,
+    "model": "phi3:latest",
+    "topic": "history"
+}

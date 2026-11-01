@@ -1,0 +1,14 @@
+{
+    "uuid": "1e51fe66-213e-410f-91fd-a32ece8e9174",
+    "words": [
+        "stage",
+        "spotlight",
+        "microphone",
+        "soundcheck",
+        "backstage"
+    ],
+    "relationship": "All of these are things you might find at a concert.",
+    "elapsed_time": 4.662949800491333,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

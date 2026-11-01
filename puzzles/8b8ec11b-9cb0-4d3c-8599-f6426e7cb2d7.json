@@ -1,0 +1,14 @@
+{
+    "uuid": "8b8ec11b-9cb0-4d3c-8599-f6426e7cb2d7",
+    "words": [
+        "drama",
+        "music",
+        "comedy",
+        "theater",
+        "performance"
+    ],
+    "relationship": "The items in this list are all ways to present stories or performances to an audience, often for the purpose of amusement or to convey information. They can be experienced individually or together, and often involve a performer or performers engaging with a crowd.",
+    "elapsed_time": 24.741981267929077,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

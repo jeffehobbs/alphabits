@@ -1,0 +1,14 @@
+{
+    "uuid": "9df99a85-5189-4a18-a9df-a3084dc3a0e4",
+    "words": [
+        "novel",
+        "poetry",
+        "drama",
+        "fiction",
+        "non-fiction"
+    ],
+    "relationship": "Literature encompasses various forms of written expressions that often delve into human experiences through narratives, dialogues and themes.",
+    "elapsed_time": 16.823843955993652,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "94da5821-c578-4a24-aba2-17bdde4bba20",
+    "words": [
+        "delta",
+        "bay",
+        "lagoon",
+        "estuary",
+        "fjord"
+    ],
+    "relationship": "These 5 geographical features are all types of natural landforms that are created by the movement of water. They can be found on land or underwater and vary in size, shape, and depth.",
+    "elapsed_time": 11.464559316635132,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

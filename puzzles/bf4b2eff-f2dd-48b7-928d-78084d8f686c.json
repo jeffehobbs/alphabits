@@ -1,0 +1,14 @@
+{
+    "uuid": "bf4b2eff-f2dd-48b7-928d-78084d8f686c",
+    "words": [
+        "jazz",
+        "guitar",
+        "sheet music",
+        "harmonica",
+        "blues"
+    ],
+    "relationship": "<music_genres> are different styles of <musical_instruments>, which can be played using specific types of musical notation, creating unique and diverse sounds that have been passed down through generations.",
+    "elapsed_time": 10.337132692337036,
+    "model": "phi3:latest",
+    "topic": "music"
+}

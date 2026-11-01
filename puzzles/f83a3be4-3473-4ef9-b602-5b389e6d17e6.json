@@ -1,0 +1,14 @@
+{
+    "uuid": "f83a3be4-3473-4ef9-b602-5b389e6d17e6",
+    "words": [
+        "strategy",
+        "tactics",
+        "positioning",
+        "advantage",
+        "competition"
+    ],
+    "relationship": "These terms all describe aspects of a competitive activity where an athlete attempts to gain an advantage over an opponent, often involving strategic movement and skillful execution to achieve a desired outcome.",
+    "elapsed_time": 16.875648260116577,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

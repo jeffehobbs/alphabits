@@ -1,0 +1,14 @@
+{
+    "uuid": "1ad40ac8-6416-4b53-81cc-3d1fe7b38ccd",
+    "words": [
+        "screen",
+        "plot",
+        "audience",
+        "narrative",
+        "cinematography"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating and immersive story, whether it's through visual presentation or narrative content.",
+    "elapsed_time": 12.505502700805664,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

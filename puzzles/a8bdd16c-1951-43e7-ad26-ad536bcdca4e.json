@@ -1,0 +1,14 @@
+{
+    "uuid": "a8bdd16c-1951-43e7-ad26-ad536bcdca4e",
+    "words": [
+        "telescope",
+        "data",
+        "experiment",
+        "observation",
+        "analysis"
+    ],
+    "relationship": "The process of observing and analyzing data to draw conclusions about the natural world often involves using specific tools and techniques to gather information. These methods can be applied to understand everything from the smallest particles to the largest cosmic structures.",
+    "elapsed_time": 22.594491004943848,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

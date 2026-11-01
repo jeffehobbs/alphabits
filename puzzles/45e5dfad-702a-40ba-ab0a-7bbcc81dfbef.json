@@ -1,0 +1,14 @@
+{
+    "uuid": "45e5dfad-702a-40ba-ab0a-7bbcc81dfbef",
+    "words": [
+        "Imagery",
+        "Symbolism",
+        "Theme",
+        "Narrative",
+        "Tone"
+    ],
+    "relationship": "These terms all describe elements that contribute to creating a compelling and immersive reading experience, focusing on the emotional impact and the way a story draws the reader in.",
+    "elapsed_time": 17.213568449020386,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

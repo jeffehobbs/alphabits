@@ -1,0 +1,14 @@
+{
+    "uuid": "9f9b8188-a05c-4ce4-864b-8206248900b7",
+    "words": [
+        "mountains",
+        "rivers",
+        "climate",
+        "elevation",
+        "terrain"
+    ],
+    "relationship": "These terms all describe features found on the surface of the Earth, often influencing human activity and settlement patterns. They are frequently studied together to understand landscapes and environmental conditions.",
+    "elapsed_time": 15.350812911987305,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

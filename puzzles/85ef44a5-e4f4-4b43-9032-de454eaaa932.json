@@ -1,0 +1,14 @@
+{
+    "uuid": "85ef44a5-e4f4-4b43-9032-de454eaaa932",
+    "words": [
+        "harmony",
+        "melody",
+        "rhythm",
+        "tempo",
+        "chord"
+    ],
+    "relationship": "These terms all describe different aspects of how a piece of audio is created and experienced, from its fundamental building blocks to the overall impression it leaves on a listener.",
+    "elapsed_time": 13.40746808052063,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

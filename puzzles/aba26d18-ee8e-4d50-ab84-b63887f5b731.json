@@ -1,0 +1,14 @@
+{
+    "uuid": "aba26d18-ee8e-4d50-ab84-b63887f5b731",
+    "words": [
+        "rate",
+        "change",
+        "trend",
+        "variable",
+        "measurement"
+    ],
+    "relationship": "These terms all describe how things change over time, often through predictable patterns and measurements. One involves tracking alterations, another focuses on the rate of those changes, a third looks at the overall trend, and the final one examines the individual components that contribute to the movement.",
+    "elapsed_time": 16.813255548477173,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

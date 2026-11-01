@@ -1,0 +1,14 @@
+{
+    "uuid": "0e07844a-0ddd-429d-8a98-4d0fc25481a6",
+    "words": [
+        "painting",
+        "sculpture",
+        "music",
+        "dance",
+        "literature"
+    ],
+    "relationship": "Artistic expression through various mediums.",
+    "elapsed_time": 13.622284173965454,
+    "model": "phi3:latest",
+    "topic": "art"
+}

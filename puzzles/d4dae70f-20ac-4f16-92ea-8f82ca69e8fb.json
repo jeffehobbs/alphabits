@@ -1,0 +1,14 @@
+{
+    "uuid": "d4dae70f-20ac-4f16-92ea-8f82ca69e8fb",
+    "words": [
+        "Thermodynamics",
+        "Electromagnetism",
+        "Quantum Mechanics",
+        "Relativity",
+        "Nuclear Physics"
+    ],
+    "relationship": "All these concepts are types of energy.",
+    "elapsed_time": 7.541575908660889,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

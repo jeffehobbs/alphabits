@@ -1,0 +1,14 @@
+{
+    "uuid": "5468381e-1e03-4ddd-8980-be02fc6d1667",
+    "words": [
+        "scorecard",
+        "statistics",
+        "data analysis",
+        "performance evaluation",
+        "ranking"
+    ],
+    "relationship": "scorecard, statistics, data analysis, performance evaluation, ranking",
+    "elapsed_time": 11.581995248794556,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

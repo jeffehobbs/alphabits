@@ -1,0 +1,14 @@
+{
+    "uuid": "17fd1f00-fc09-4e4b-a4c3-a3149bb1a7ba",
+    "words": [
+        "perspective",
+        "shadow",
+        "color",
+        "composition",
+        "texture"
+    ],
+    "relationship": "The words are all techniques used to create visual effects and illusions on a surface, often involving manipulating light and color to evoke emotion or represent something beyond the literal.",
+    "elapsed_time": 20.60122799873352,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

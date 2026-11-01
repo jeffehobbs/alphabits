@@ -1,0 +1,14 @@
+{
+    "uuid": "1c1f4426-4b7f-411c-8b1d-55cf46fc6daf",
+    "words": [
+        "Stenciling",
+        "Screen printing",
+        "Silkscreening",
+        "Screening",
+        "Tinting"
+    ],
+    "relationship": "These five words are connected because they all describe different techniques or methods used by artists to create their works.",
+    "elapsed_time": 12.07215929031372,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

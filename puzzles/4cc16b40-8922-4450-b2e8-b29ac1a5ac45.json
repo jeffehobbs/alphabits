@@ -1,0 +1,14 @@
+{
+    "uuid": "4cc16b40-8922-4450-b2e8-b29ac1a5ac45",
+    "words": [
+        "movies",
+        "books",
+        "music",
+        "video_games",
+        "podcasts"
+    ],
+    "relationship": "The connection is based on a medium or platform where these activities take place.",
+    "elapsed_time": 5.492762804031372,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

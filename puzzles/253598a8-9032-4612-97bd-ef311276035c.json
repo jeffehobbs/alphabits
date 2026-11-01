@@ -1,0 +1,14 @@
+{
+    "uuid": "253598a8-9032-4612-97bd-ef311276035c",
+    "words": [
+        "author",
+        "writing process",
+        "multiculturalism",
+        "narrative development",
+        "literary devices"
+    ],
+    "relationship": "A writer creates stories through language while immersing themselves in different cultures to enrich their narratives.",
+    "elapsed_time": 11.011265277862549,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

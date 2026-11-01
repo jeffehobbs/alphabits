@@ -1,0 +1,14 @@
+{
+    "uuid": "8deaa916-a540-4bd6-b6f7-3bab66862b58",
+    "words": [
+        "band",
+        "song",
+        "group",
+        "instruments",
+        "performance"
+    ],
+    "relationship": "A group of people comes together to create music by playing an instrument or singing.",
+    "elapsed_time": 4.807168960571289,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

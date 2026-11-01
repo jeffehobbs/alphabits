@@ -1,0 +1,14 @@
+{
+    "uuid": "c7f2c76a-65e0-4add-80aa-ab0ec88280dd",
+    "words": [
+        "Primary Source",
+        "Interpretation",
+        "Bias",
+        "Chronology",
+        "Evidence"
+    ],
+    "relationship": "These terms all describe the process of recording and interpreting events from the past, often with biases and varying levels of accuracy depending on the source and the time period in which the account was created.",
+    "elapsed_time": 16.865044355392456,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

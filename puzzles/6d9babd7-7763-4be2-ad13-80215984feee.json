@@ -1,0 +1,13 @@
+{
+    "uuid": "6d9babd7-7763-4be2-ad13-80215984feee",
+    "words": [
+        "impressionism",
+        "expressionism",
+        "cubism",
+        "surrealism"
+    ],
+    "relationship": "Artistic expression is often shaped by cultural traditions that are passed down through generations.",
+    "elapsed_time": 14.707282543182373,
+    "model": "phi3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c667522c-9664-4219-942c-3cb96e9c7e41",
+    "words": [
+        "broadcast",
+        "television network",
+        "airwaves",
+        "antenna",
+        "TV"
+    ],
+    "relationship": "A television show is broadcasted through airwaves which then reach a household's TV set.",
+    "elapsed_time": 15.924533128738403,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

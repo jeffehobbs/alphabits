@@ -1,0 +1,14 @@
+{
+    "uuid": "d2d4ff29-46db-49d6-8951-75a292a69af3",
+    "words": [
+        "mutation",
+        "evolution",
+        "adaptation",
+        "variation",
+        "selection"
+    ],
+    "relationship": "These terms all describe how things change over time, often involving measurement and analysis of those shifts to understand underlying processes or predict future states.",
+    "elapsed_time": 12.682181358337402,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

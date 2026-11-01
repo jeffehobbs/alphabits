@@ -1,0 +1,14 @@
+{
+    "uuid": "beb80a2b-6c19-4116-8ecf-b9967753601f",
+    "words": [
+        "Plot",
+        "Character",
+        "Setting",
+        "Theme",
+        "Symbolism"
+    ],
+    "relationship": "These 5 words are connected because they describe different aspects of creating and interpreting written stories.",
+    "elapsed_time": 8.488125562667847,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

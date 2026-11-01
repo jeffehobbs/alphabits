@@ -1,0 +1,14 @@
+{
+    "uuid": "490eec3b-8ba8-4473-8c68-d8513573b57d",
+    "words": [
+        "shot",
+        "accuracy",
+        "distance",
+        "target",
+        "performance"
+    ],
+    "relationship": "These terms all describe aspects of a competition where an athlete attempts to move a ball or object through a designated area, often with the goal of scoring points or achieving a certain distance.",
+    "elapsed_time": 17.000315189361572,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

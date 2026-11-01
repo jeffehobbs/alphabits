@@ -1,0 +1,14 @@
+{
+    "uuid": "19c0d7a4-3698-4a97-a483-cc7717bd10c9",
+    "words": [
+        "conquest",
+        "dynasty",
+        "empire",
+        "military",
+        "culture"
+    ],
+    "relationship": "These concepts are all associated with the rise and fall of large empires, often involving military conquest, political maneuvering, and shifts in cultural dominance.",
+    "elapsed_time": 20.52489471435547,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

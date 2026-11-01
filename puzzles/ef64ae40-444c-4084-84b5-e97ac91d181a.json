@@ -1,0 +1,14 @@
+{
+    "uuid": "ef64ae40-444c-4084-84b5-e97ac91d181a",
+    "words": [
+        "lake",
+        "river",
+        "ocean",
+        "stream",
+        "pond"
+    ],
+    "relationship": "They are all found in or near water.",
+    "elapsed_time": 6.392475128173828,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

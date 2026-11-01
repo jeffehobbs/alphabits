@@ -1,0 +1,14 @@
+{
+    "uuid": "adf51cab-b2b7-49c6-971a-52ced24e5742",
+    "words": [
+        "shoot",
+        "pass",
+        "score",
+        "defend",
+        "compete"
+    ],
+    "relationship": "These terms describe actions performed by athletes during a competition to achieve victory.",
+    "elapsed_time": 18.022324800491333,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a13c7054-7b88-4adb-a31b-896f11a4dd69",
+    "words": [
+        "Industrial Revolution",
+        "World War II",
+        "Albert Einstein",
+        "Scientific advancneres",
+        "Global politics"
+    ],
+    "relationship": "[A period of time] led to [a significant event], which resulted in [an important person's birth or influence]. This individual had a major impact on society, leading to changes that shaped [another aspect related to history].",
+    "elapsed_time": 23.14595627784729,
+    "model": "phi3:latest",
+    "topic": "history"
+}

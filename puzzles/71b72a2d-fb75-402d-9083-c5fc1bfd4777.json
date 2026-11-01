@@ -1,0 +1,14 @@
+{
+    "uuid": "71b72a2d-fb75-402d-9083-c5fc1bfd4777",
+    "words": [
+        "narrative",
+        "drama",
+        "audience",
+        "characters",
+        "plot"
+    ],
+    "relationship": "These terms all describe aspects of experiencing enjoyment and excitement through a performance or story.",
+    "elapsed_time": 13.65303659439087,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

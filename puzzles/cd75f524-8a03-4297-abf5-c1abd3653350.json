@@ -1,0 +1,14 @@
+{
+    "uuid": "cd75f524-8a03-4297-abf5-c1abd3653350",
+    "words": [
+        "Roots",
+        "Soil",
+        "Water",
+        "Sunlight",
+        "Leaves"
+    ],
+    "relationship": "These words all describe elements vital to the process of plant growth, specifically how they interact to create sustenance.",
+    "elapsed_time": 12.177261590957642,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

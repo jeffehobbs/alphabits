@@ -1,0 +1,14 @@
+{
+    "uuid": "4539f4cd-82de-4088-80c1-f00f36efe73f",
+    "words": [
+        "river",
+        "lake",
+        "stream",
+        "waterfall",
+        "creek"
+    ],
+    "relationship": "A river feeds into an ocean.",
+    "elapsed_time": 9.961207151412964,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

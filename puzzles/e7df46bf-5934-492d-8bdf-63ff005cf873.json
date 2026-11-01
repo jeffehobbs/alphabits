@@ -1,0 +1,14 @@
+{
+    "uuid": "e7df46bf-5934-492d-8bdf-63ff005cf873",
+    "words": [
+        "delta",
+        "estuary",
+        "fjord",
+        "lagoon",
+        "bay"
+    ],
+    "relationship": "These words are all types of landforms that are formed by water",
+    "elapsed_time": 7.714787244796753,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

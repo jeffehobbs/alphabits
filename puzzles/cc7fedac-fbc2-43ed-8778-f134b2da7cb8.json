@@ -1,0 +1,13 @@
+{
+    "uuid": "cc7fedac-fbc2-43ed-8778-f134b2da7cb8",
+    "words": [
+        "Industrial Revolution",
+        "Urbanization",
+        "Social Change",
+        "Class Struggle"
+    ],
+    "relationship": "A connection or association among several historical events",
+    "elapsed_time": 21.99203133583069,
+    "model": "phi3:latest",
+    "topic": "history"
+}

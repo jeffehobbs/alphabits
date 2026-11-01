@@ -1,0 +1,14 @@
+{
+    "uuid": "1b2aad26-e797-4994-ab42-1e42fd2f7e19",
+    "words": [
+        "genre",
+        "style",
+        "location",
+        "instrumentation",
+        "performance"
+    ],
+    "relationship": "a band's sound is influenced by its genre, style, location, instrumentation, and performance",
+    "elapsed_time": 8.574459075927734,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

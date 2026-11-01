@@ -1,0 +1,14 @@
+{
+    "uuid": "99a526a5-ef0b-47d4-bd6d-6e05ea66900b",
+    "words": [
+        "latitude",
+        "longitude",
+        "elevation",
+        "climate",
+        "population"
+    ],
+    "relationship": "These terms all describe different aspects of how people and things are located and organized across the Earth's surface, often involving patterns of distribution and interaction.",
+    "elapsed_time": 13.905978679656982,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

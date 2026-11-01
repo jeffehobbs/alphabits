@@ -1,0 +1,14 @@
+{
+    "uuid": "c7813907-5c59-4a7d-8838-070af7d94737",
+    "words": [
+        "author",
+        "book",
+        "novel",
+        "writer",
+        "publisher"
+    ],
+    "relationship": "author, book, novel, writer, publisher",
+    "elapsed_time": 4.296410083770752,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

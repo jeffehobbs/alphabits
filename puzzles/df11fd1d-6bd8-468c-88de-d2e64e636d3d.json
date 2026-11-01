@@ -1,0 +1,13 @@
+{
+    "uuid": "df11fd1d-6bd8-468c-88de-d2e64e636d3d",
+    "words": [
+        "famine",
+        "industrialization",
+        "nationalism",
+        "rural poverty"
+    ],
+    "relationship": "The historical events of this era heavily influenced political movements across Europe.",
+    "elapsed_time": 10.417831897735596,
+    "model": "phi3:latest",
+    "topic": "history"
+}

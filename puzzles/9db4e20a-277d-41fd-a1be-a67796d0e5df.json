@@ -1,0 +1,14 @@
+{
+    "uuid": "9db4e20a-277d-41fd-a1be-a67796d0e5df",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "composition",
+        "pitch"
+    ],
+    "relationship": "These concepts all describe aspects of creating and performing sound. One involves arranging notes, another involves the physical act of producing sound, a third is a specific type of musical arrangement, a fourth is a way to organize a sequence of sounds, and the last is a fundamental element of sound itself.",
+    "elapsed_time": 25.825237274169922,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

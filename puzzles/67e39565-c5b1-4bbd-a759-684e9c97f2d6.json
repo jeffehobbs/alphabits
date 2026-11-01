@@ -1,0 +1,14 @@
+{
+    "uuid": "67e39565-c5b1-4bbd-a759-684e9c97f2d6",
+    "words": [
+        "Archive",
+        "Primary",
+        "Source",
+        "Interpretation",
+        "Evidence"
+    ],
+    "relationship": "These terms all describe the process of documenting and interpreting the past, often involving the analysis of evidence and the reconstruction of events from a bygone era.",
+    "elapsed_time": 16.48888087272644,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

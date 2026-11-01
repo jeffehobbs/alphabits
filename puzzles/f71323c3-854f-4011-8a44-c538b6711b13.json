@@ -1,0 +1,14 @@
+{
+    "uuid": "f71323c3-854f-4011-8a44-c538b6711b13",
+    "words": [
+        "hypothesis",
+        "experimentation",
+        "observation",
+        "data analysis",
+        "conclusion"
+    ],
+    "relationship": "Science is an iterative process where theories are tested, refined, or discarded based on evidence gathered through experimentation and observation.",
+    "elapsed_time": 9.380576372146606,
+    "model": "phi3:latest",
+    "topic": "science"
+}

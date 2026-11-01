@@ -1,0 +1,14 @@
+{
+    "uuid": "03413747-b9d8-4284-9444-d0bcdd6bf0b9",
+    "words": [
+        "Plot",
+        "Theme",
+        "Character",
+        "Setting",
+        "Imagery"
+    ],
+    "relationship": "These terms all describe different aspects of how a story is created and experienced, focusing on the imaginative construction of a narrative and the emotional impact it has on a reader.",
+    "elapsed_time": 16.409992456436157,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

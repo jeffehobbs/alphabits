@@ -1,0 +1,14 @@
+{
+    "uuid": "c0434b40-326f-4884-b131-f5c3c4ee652d",
+    "words": [
+        "paint",
+        "sculpt",
+        "draw",
+        "etch",
+        "print"
+    ],
+    "relationship": "The words all describe techniques used to create visual representations, often involving manipulation of materials to form images. They can be applied to various mediums and are fundamental to artistic expression.",
+    "elapsed_time": 21.31851363182068,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

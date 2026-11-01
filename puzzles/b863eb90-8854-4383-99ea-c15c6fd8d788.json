@@ -1,0 +1,14 @@
+{
+    "uuid": "b863eb90-8854-4383-99ea-c15c6fd8d788",
+    "words": [
+        "soil",
+        "insects",
+        "flowers",
+        "birds",
+        "ecosystem"
+    ],
+    "relationship": "The first word is an abiotic component of nature that provides habitats for various organisms; these living beings interact with one another and their surrthy within a specific area, creating interdependent relationships.",
+    "elapsed_time": 15.176988124847412,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

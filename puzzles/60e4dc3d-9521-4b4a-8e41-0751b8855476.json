@@ -1,0 +1,14 @@
+{
+    "uuid": "60e4dc3d-9521-4b4a-8e41-0751b8855476",
+    "words": [
+        "Jazz",
+        "Piano",
+        "Double Bass",
+        "Drums",
+        "Saxophone"
+    ],
+    "relationship": "(a genre of) Music is often (characterized by) a specific set of instruments that are used to create its unique sound and style.",
+    "elapsed_time": 16.58287286758423,
+    "model": "phi3:latest",
+    "topic": "music"
+}

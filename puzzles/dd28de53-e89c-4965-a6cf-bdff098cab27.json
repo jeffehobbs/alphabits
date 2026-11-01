@@ -1,0 +1,14 @@
+{
+    "uuid": "dd28de53-e89c-4965-a6cf-bdff098cab27",
+    "words": [
+        "team",
+        "competition",
+        "match",
+        "athlete",
+        "victory"
+    ],
+    "relationship": "team, competition, match, athlete, victory",
+    "elapsed_time": 6.54976749420166,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "70faa0a9-d68f-4d96-b523-5953a146a6d1",
+    "words": [
+        "Delta",
+        "Bay",
+        "Fjord",
+        "Inlet",
+        "Gulf"
+    ],
+    "relationship": "These geographical terms are all types of natural features found on land.",
+    "elapsed_time": 4.635913133621216,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "5e87033b-e811-42c1-8192-7982279d025f",
+    "words": [
+        "empire",
+        "monarchy",
+        "dynasty",
+        "conquest",
+        "legacy"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of powerful societies, often involving conquest, governance, and cultural legacy.",
+    "elapsed_time": 20.510084867477417,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

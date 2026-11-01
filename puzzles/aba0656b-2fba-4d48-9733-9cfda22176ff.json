@@ -1,0 +1,14 @@
+{
+    "uuid": "aba0656b-2fba-4d48-9733-9cfda22176ff",
+    "words": [
+        "basket",
+        "dribble",
+        "slam dunk",
+        "rebound",
+        "teamwork"
+    ],
+    "relationship": "These terms are all associated with basketball.",
+    "elapsed_time": 10.544654846191406,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

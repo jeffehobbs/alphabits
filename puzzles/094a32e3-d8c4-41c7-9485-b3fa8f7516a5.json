@@ -1,0 +1,14 @@
+{
+    "uuid": "094a32e3-d8c4-41c7-9485-b3fa8f7516a5",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "photography",
+        "ceramics"
+    ],
+    "relationship": "The terms all describe aspects of creating a visual representation, often involving skill and intention, and can be found in various forms of creative expression.",
+    "elapsed_time": 21.333398580551147,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8501aa50-9d4a-45a8-a58c-d5851f8b3be8",
+    "words": [
+        "growth",
+        "decay",
+        "evolution",
+        "transformation",
+        "process"
+    ],
+    "relationship": "The words all describe aspects of how things change over time, often in predictable patterns. They are fundamental concepts in understanding processes and transformations.",
+    "elapsed_time": 10.843341827392578,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

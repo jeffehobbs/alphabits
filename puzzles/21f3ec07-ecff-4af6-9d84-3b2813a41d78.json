@@ -1,0 +1,14 @@
+{
+    "uuid": "21f3ec07-ecff-4af6-9d84-3b2813a41d78",
+    "words": [
+        "monarchy",
+        "democracy",
+        "empire",
+        "autocracy",
+        "oligarchy"
+    ],
+    "relationship": "In historical contexts, power dynamics often play out within political relationships as rulers seek to maintain control over their subjects.",
+    "elapsed_time": 11.901658296585083,
+    "model": "phi3:latest",
+    "topic": "history"
+}

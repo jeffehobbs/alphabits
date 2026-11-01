@@ -1,0 +1,14 @@
+{
+    "uuid": "146c6692-3fab-4262-88e6-98a16c4e1682",
+    "words": [
+        "defense",
+        "strategy",
+        "positioning",
+        "obstacle",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a game where a player attempts to move a small object through a designated area, often with the goal of scoring points by successfully navigating obstacles and defenses.",
+    "elapsed_time": 16.71177053451538,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

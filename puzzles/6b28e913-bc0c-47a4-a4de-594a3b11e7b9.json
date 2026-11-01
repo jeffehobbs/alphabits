@@ -1,0 +1,14 @@
+{
+    "uuid": "6b28e913-bc0c-47a4-a4de-594a3b11e7b9",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "positioning",
+        "tactics"
+    ],
+    "relationship": "These terms all describe aspects of a competition where a team attempts to gain an advantage over their opponents through strategic positioning and skillful execution, ultimately striving to achieve a higher score or position.",
+    "elapsed_time": 14.562848567962646,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

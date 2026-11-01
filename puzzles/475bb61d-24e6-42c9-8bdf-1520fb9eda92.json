@@ -1,0 +1,14 @@
+{
+    "uuid": "475bb61d-24e6-42c9-8bdf-1520fb9eda92",
+    "words": [
+        "pass",
+        "kick",
+        "throw",
+        "shoot",
+        "dribble"
+    ],
+    "relationship": "These terms describe actions performed to advance a ball across a playing field, often with the goal of scoring points.",
+    "elapsed_time": 19.8431293964386,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

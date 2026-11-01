@@ -1,0 +1,14 @@
+{
+    "uuid": "4f8e81ef-eab2-4911-a3d3-d5d92bcde4cf",
+    "words": [
+        "Revolution",
+        "Rebellion",
+        "Uprising",
+        "Insurrection",
+        "Protest"
+    ],
+    "relationship": "They are all associated with significant events or periods of time.",
+    "elapsed_time": 7.834350347518921,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

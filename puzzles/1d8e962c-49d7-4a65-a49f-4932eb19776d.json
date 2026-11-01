@@ -1,0 +1,14 @@
+{
+    "uuid": "1d8e962c-49d7-4a65-a49f-4932eb19776d",
+    "words": [
+        "volcano",
+        "tectonic plate",
+        "magma chamber",
+        "lava flow",
+        "caldera"
+    ],
+    "relationship": "These terms are all associated with landforms formed by volcanic activity",
+    "elapsed_time": 11.771987676620483,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "9a062157-f6e6-49cd-83a6-3e3bc1ece0b3",
+    "words": [
+        "evolution",
+        "adaptation",
+        "mutation",
+        "genetics",
+        "natural selection"
+    ],
+    "relationship": "cause-and-effect",
+    "elapsed_time": 12.148914098739624,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

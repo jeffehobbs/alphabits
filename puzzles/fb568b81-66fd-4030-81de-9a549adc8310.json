@@ -1,0 +1,14 @@
+{
+    "uuid": "fb568b81-66fd-4030-81de-9a549adc8310",
+    "words": [
+        "concert",
+        "stage",
+        "audience",
+        "performance",
+        "sound engineer"
+    ],
+    "relationship": "These elements are commonly found together within an entertainment venue to create a complete experience for patrons.",
+    "elapsed_time": 12.514787912368774,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

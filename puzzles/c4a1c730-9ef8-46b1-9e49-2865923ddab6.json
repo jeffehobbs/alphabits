@@ -1,0 +1,14 @@
+{
+    "uuid": "c4a1c730-9ef8-46b1-9e49-2865923ddab6",
+    "words": [
+        "Evolution",
+        "Fossil record",
+        "Geological time scale",
+        "Plate tectonics",
+        "Rock formations"
+    ],
+    "relationship": "These 5 words are connected by their similarity in meaning, all being concepts that describe a type of change or movement.",
+    "elapsed_time": 7.479213237762451,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

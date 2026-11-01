@@ -1,0 +1,14 @@
+{
+    "uuid": "114f65e7-3d31-4b6b-9ca3-8232e08ccad3",
+    "words": [
+        "theme",
+        "motif",
+        "interpretation",
+        "design",
+        "recurrence"
+    ],
+    "relationship": "These terms all describe different aspects of how a story\u2019s meaning is constructed and how a reader experiences it. One focuses on the underlying, often hidden, intention of the author. Another describes the deliberate use of elements to create a specific effect. The third refers to the subjective interpretation a person brings to a work. The fourth concerns the deliberate arrangement of components to build a particular impression. And the last describes a pattern of repetition or recurrence within a text.",
+    "elapsed_time": 25.151405334472656,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

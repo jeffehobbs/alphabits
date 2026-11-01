@@ -1,0 +1,14 @@
+{
+    "uuid": "62706219-6187-4a4b-bfa2-532f33f0954f",
+    "words": [
+        "basketball",
+        "soccer",
+        "tennis",
+        "swimming",
+        "track and field"
+    ],
+    "relationship": "Athletes compete against one another using their skills to win a match or tournament",
+    "elapsed_time": 14.58806848526001,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

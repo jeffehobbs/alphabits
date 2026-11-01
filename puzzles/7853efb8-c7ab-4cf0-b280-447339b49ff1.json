@@ -1,0 +1,14 @@
+{
+    "uuid": "7853efb8-c7ab-4cf0-b280-447339b49ff1",
+    "words": [
+        "character",
+        "plot",
+        "theme",
+        "setting",
+        "symbol"
+    ],
+    "relationship": "In this collection of literary terms, certain concepts are interconnected as they describe various aspects or elements within a narrative.",
+    "elapsed_time": 12.92798638343811,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c17adab3-bbcc-4aee-9ae1-28574f8eb982",
+    "words": [
+        "pitcher",
+        "catcher",
+        "umpire",
+        "first baseman",
+        "shortstop"
+    ],
+    "relationship": "team",
+    "elapsed_time": 6.640482664108276,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

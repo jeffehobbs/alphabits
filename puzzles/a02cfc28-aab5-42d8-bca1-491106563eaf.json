@@ -1,0 +1,14 @@
+{
+    "uuid": "a02cfc28-aab5-42d8-bca1-491106563eaf",
+    "words": [
+        "mountains",
+        "erosion",
+        "plate tectonics",
+        "valleys",
+        "uplift"
+    ],
+    "relationship": "These terms all describe features found on the Earth's surface and are often studied together to understand how landscapes are formed and change over time.",
+    "elapsed_time": 23.23287296295166,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

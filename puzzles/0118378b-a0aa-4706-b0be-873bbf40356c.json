@@ -1,0 +1,14 @@
+{
+    "uuid": "0118378b-a0aa-4706-b0be-873bbf40356c",
+    "words": [
+        "Exodus",
+        "Mesopotamia",
+        "Indus Valley",
+        "Akkadian Empire",
+        "Hyksos"
+    ],
+    "relationship": "These are all significant historical events or periods related to ancient civilizations.",
+    "elapsed_time": 12.168030023574829,
+    "model": "phi3:latest",
+    "topic": "history"
+}

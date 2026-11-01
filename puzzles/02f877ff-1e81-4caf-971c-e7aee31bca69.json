@@ -1,0 +1,14 @@
+{
+    "uuid": "02f877ff-1e81-4caf-971c-e7aee31bca69",
+    "words": [
+        "stream",
+        "mountains",
+        "plateau",
+        "desert",
+        "ocean"
+    ],
+    "relationship": "A river flows through mountains until it reaches an ocean where its water is evaporated due to sunlight.",
+    "elapsed_time": 15.630569219589233,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

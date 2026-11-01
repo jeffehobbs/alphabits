@@ -1,0 +1,14 @@
+{
+    "uuid": "ef5fce13-16b8-4124-94d3-519774bb627b",
+    "words": [
+        "Renaissance",
+        "Reformation",
+        "Enlightenment",
+        "Industrialization",
+        "Scientific Revolution"
+    ],
+    "relationship": "The relationship is based on the idea that one event or concept can be the cause of another, leading to a chain reaction.",
+    "elapsed_time": 9.318174123764038,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

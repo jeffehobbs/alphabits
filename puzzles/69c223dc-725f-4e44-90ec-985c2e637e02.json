@@ -1,0 +1,14 @@
+{
+    "uuid": "69c223dc-725f-4e44-90ec-985c2e637e02",
+    "words": [
+        "map",
+        "satellite",
+        "topography",
+        "elevation",
+        "coordinates"
+    ],
+    "relationship": "These concepts all describe different ways to understand and represent the Earth's surface, from a bird's-eye view to a detailed depiction.",
+    "elapsed_time": 20.46149778366089,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

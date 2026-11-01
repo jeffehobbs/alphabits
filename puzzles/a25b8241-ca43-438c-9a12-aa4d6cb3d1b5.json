@@ -1,0 +1,14 @@
+{
+    "uuid": "a25b8241-ca43-438c-9a12-aa4d6cb3d1b5",
+    "words": [
+        "script",
+        "narrative",
+        "plot",
+        "character",
+        "theme"
+    ],
+    "relationship": "These terms all describe different aspects of creating and experiencing a captivating story, from the initial concept to the final impact on the audience.",
+    "elapsed_time": 11.749736547470093,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

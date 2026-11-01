@@ -1,0 +1,14 @@
+{
+    "uuid": "2cbd8fe4-3fb0-4bc7-8842-43d3f5882f05",
+    "words": [
+        "mountain",
+        "peak",
+        "erosion",
+        "ridge",
+        "valley"
+    ],
+    "relationship": "These terms all describe features of the Earth\u2019s surface and how they are shaped by natural forces over long periods of time. One is a large, elevated landform, another is a smaller, similar feature, a third is a process that creates them, the fourth is the result of that process, and the fifth describes the overall landform that is formed.",
+    "elapsed_time": 19.876757621765137,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

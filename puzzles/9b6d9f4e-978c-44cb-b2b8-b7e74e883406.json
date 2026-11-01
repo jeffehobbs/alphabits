@@ -1,0 +1,13 @@
+{
+    "uuid": "9b6d9f4e-978c-44cb-b2b8-b7e74e883406",
+    "words": [
+        "television",
+        "movie",
+        "music",
+        "concerts"
+    ],
+    "relationship": "Words: Television (T), Movie (M), Music (Mo), Concerts (C) - Relationship: These forms of entertainment are all different ways people can enjoy cultural and artistic experiences, whether it be through the screen or live performance.",
+    "elapsed_time": 16.373759269714355,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

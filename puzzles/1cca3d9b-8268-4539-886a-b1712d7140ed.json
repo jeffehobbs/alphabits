@@ -1,0 +1,14 @@
+{
+    "uuid": "1cca3d9b-8268-4539-886a-b1712d7140ed",
+    "words": [
+        "basketball",
+        "team",
+        "players",
+        "collaborate",
+        "win"
+    ],
+    "relationship": "A basketball team consists of players who collaborate to win games.",
+    "elapsed_time": 11.032664060592651,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

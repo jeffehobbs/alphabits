@@ -1,0 +1,14 @@
+{
+    "uuid": "212c7dc7-277a-42c3-b5a4-4e47243bf109",
+    "words": [
+        "Ecosystem",
+        "Biodiversity",
+        "Conservation",
+        "Ecology",
+        "Species"
+    ],
+    "relationship": "These concepts are all about studying living things. They help us understand how they grow, interact, and adapt to their environments.",
+    "elapsed_time": 8.910617589950562,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

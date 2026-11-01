@@ -1,0 +1,14 @@
+{
+    "uuid": "222196e3-7683-4d4a-b5cb-144babb1647b",
+    "words": [
+        "script",
+        "actor",
+        "theater",
+        "audience",
+        "drama"
+    ],
+    "relationship": "These terms all describe different ways people consume stories and performances, often involving an audience experiencing vicarious emotions and imaginative journeys.",
+    "elapsed_time": 15.159626960754395,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

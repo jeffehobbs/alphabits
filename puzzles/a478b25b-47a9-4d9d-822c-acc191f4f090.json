@@ -1,0 +1,14 @@
+{
+    "uuid": "a478b25b-47a9-4d9d-822c-acc191f4f090",
+    "words": [
+        "Photosynthesis",
+        "Respiration",
+        "Decomposition",
+        "Transpiration",
+        "Evaporation"
+    ],
+    "relationship": "They are all connected by a common process that involves water, sunlight, and energy from the sun.",
+    "elapsed_time": 7.638918876647949,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4351f204-c1a1-4c8f-b793-e6cf1b31b666",
+    "words": [
+        "mutation",
+        "genetics",
+        "inheritance",
+        "variation",
+        "evolution"
+    ],
+    "relationship": "These concepts all involve the study of how living things change over time, often through inherited traits and the impact of the environment on those traits.",
+    "elapsed_time": 12.7312650680542,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "eed3420b-5ff9-4ff8-8094-cedb33e18dff",
+    "words": [
+        "omen",
+        "foreshadowing",
+        "suspense",
+        "mystery",
+        "intrigue"
+    ],
+    "relationship": "These concepts often appear in stories to build suspense and intrigue, hinting at hidden meanings or foreshadowing future events. They can create a sense of unease or mystery for the audience.",
+    "elapsed_time": 16.517587661743164,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

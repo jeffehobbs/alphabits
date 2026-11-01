@@ -1,0 +1,14 @@
+{
+    "uuid": "11b0967f-8af1-4b49-a1b3-26e197542090",
+    "words": [
+        "harmony",
+        "melody",
+        "chord",
+        "composition",
+        "texture"
+    ],
+    "relationship": "These terms all describe aspects of how a piece of music is created and perceived, particularly focusing on the arrangement and layering of sounds to build a rich and complex sonic experience. One element is the foundation upon which others are constructed, another is the process of adding and modifying those elements, while the third is the overall result of this work.  Finally, the last element is the way the listener experiences and interprets this combined effect.",
+    "elapsed_time": 22.329833984375,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

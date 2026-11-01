@@ -1,0 +1,14 @@
+{
+    "uuid": "8086d632-2610-467b-bc69-8e4f4ec6de03",
+    "words": [
+        "empire",
+        "dynasty",
+        "conquest",
+        "culture",
+        "innovation"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of powerful societies, often involving conflict, expansion, and the development of complex systems of governance and cultural expression. They frequently appear in narratives about major turning points in human civilization.",
+    "elapsed_time": 25.169540405273438,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

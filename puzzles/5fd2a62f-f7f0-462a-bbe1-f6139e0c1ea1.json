@@ -1,0 +1,14 @@
+{
+    "uuid": "5fd2a62f-f7f0-462a-bbe1-f6139e0c1ea1",
+    "words": [
+        "forest",
+        "river",
+        "sunlight",
+        "plants",
+        "animals"
+    ],
+    "relationship": "These concepts are all interconnected parts of a thriving ecosystem. One provides sustenance for the others, and their presence often indicates a healthy environment.",
+    "elapsed_time": 13.505461931228638,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d8884e0c-7fd0-4848-a8cb-210d47a45754",
+    "words": [
+        "Napoleon",
+        "Mongol",
+        "British",
+        "Spanish",
+        "Portuguese"
+    ],
+    "relationship": "empire conquest colonialism",
+    "elapsed_time": 6.995421886444092,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

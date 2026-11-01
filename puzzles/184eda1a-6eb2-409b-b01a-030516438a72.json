@@ -1,0 +1,14 @@
+{
+    "uuid": "184eda1a-6eb2-409b-b01a-030516438a72",
+    "words": [
+        "momentum",
+        "strategy",
+        "score",
+        "execution",
+        "performance"
+    ],
+    "relationship": "These terms all describe aspects of a team's performance and strategic advantage. One focuses on the physical exertion and skill involved, another on the tactical decisions made during a match, a third on the overall score and success, a fourth on the ability to maintain control and momentum, and the final one on the continuous process of striving for victory.",
+    "elapsed_time": 18.733527660369873,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

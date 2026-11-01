@@ -1,0 +1,14 @@
+{
+    "uuid": "eb96cbdc-d7d0-46c1-a9cd-ae9facdf123a",
+    "words": [
+        "mountains",
+        "rivers",
+        "climate",
+        "vegetation",
+        "erosion"
+    ],
+    "relationship": "These terms all describe features found on the surface of the Earth, often influencing climate and human activity. They are interconnected in how they shape landscapes and ecosystems.",
+    "elapsed_time": 14.939338684082031,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "363a669e-c05c-4cf8-a5e4-d537750abcaf",
+    "words": [
+        "rhythm",
+        "harmony",
+        "melody",
+        "form",
+        "dynamics"
+    ],
+    "relationship": "The following words are all components of a musical performance, often working together to create a cohesive and engaging experience for the listener. One provides the foundational rhythmic structure, another adds harmonic depth, a third provides melodic content, a fourth shapes the overall form, and the last enhances the emotional impact.",
+    "elapsed_time": 19.281241416931152,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

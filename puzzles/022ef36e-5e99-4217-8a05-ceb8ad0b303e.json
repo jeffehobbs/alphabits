@@ -1,0 +1,14 @@
+{
+    "uuid": "022ef36e-5e99-4217-8a05-ceb8ad0b303e",
+    "words": [
+        "composition",
+        "perspective",
+        "subject",
+        "technique",
+        "aesthetic"
+    ],
+    "relationship": "These terms all describe different ways a creator can transform an initial concept or material into a finished, aesthetically pleasing work. One focuses on the process of making, another on the overall visual impact, a third on the subject matter, a fourth on the skill involved, and the final one on the emotional response a piece evokes.",
+    "elapsed_time": 24.766149044036865,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

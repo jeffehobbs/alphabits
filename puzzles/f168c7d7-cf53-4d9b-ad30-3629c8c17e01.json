@@ -1,0 +1,14 @@
+{
+    "uuid": "f168c7d7-cf53-4d9b-ad30-3629c8c17e01",
+    "words": [
+        "movies",
+        "concerts",
+        "comedy acts",
+        "dance performances",
+        "play productions"
+    ],
+    "relationship": "This group of five words represents different forms or aspects related to entertainment experiences that people seek out for pleasure.",
+    "elapsed_time": 14.32621955871582,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

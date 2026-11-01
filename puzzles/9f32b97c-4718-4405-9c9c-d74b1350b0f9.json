@@ -1,0 +1,14 @@
+{
+    "uuid": "9f32b97c-4718-4405-9c9c-d74b1350b0f9",
+    "words": [
+        "atom",
+        "molecule",
+        "reaction",
+        "bonding",
+        "catalyst"
+    ],
+    "relationship": "These terms are all part of chemistry.",
+    "elapsed_time": 10.408570528030396,
+    "model": "phi3:latest",
+    "topic": "science"
+}

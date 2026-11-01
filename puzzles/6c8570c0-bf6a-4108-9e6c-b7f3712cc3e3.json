@@ -1,0 +1,14 @@
+{
+    "uuid": "6c8570c0-bf6a-4108-9e6c-b7f3712cc3e3",
+    "words": [
+        "coast",
+        "landform",
+        "beach",
+        "cliff",
+        "estuary"
+    ],
+    "relationship": "A coastal area has various types of landforms that can affect its environment.",
+    "elapsed_time": 11.3245849609375,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

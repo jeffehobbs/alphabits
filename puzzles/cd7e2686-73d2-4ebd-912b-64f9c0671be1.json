@@ -1,0 +1,14 @@
+{
+    "uuid": "cd7e2686-73d2-4ebd-912b-64f9c0671be1",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "positioning",
+        "tactics"
+    ],
+    "relationship": "These terms all describe aspects of a game where a player or team attempts to gain an advantage by skillfully maneuvering a ball or object through a defined space, often with the goal of scoring points.",
+    "elapsed_time": 14.327650785446167,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

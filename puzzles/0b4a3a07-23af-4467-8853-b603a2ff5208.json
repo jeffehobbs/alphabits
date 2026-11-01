@@ -1,0 +1,14 @@
+{
+    "uuid": "0b4a3a07-23af-4467-8853-b603a2ff5208",
+    "words": [
+        "erosion",
+        "valley",
+        "delta",
+        "landscape",
+        "deposition"
+    ],
+    "relationship": "These terms all describe different aspects of how landforms are shaped and altered over long periods by natural processes like water and wind.",
+    "elapsed_time": 12.103647947311401,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

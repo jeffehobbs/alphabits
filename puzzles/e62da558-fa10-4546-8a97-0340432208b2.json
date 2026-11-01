@@ -1,0 +1,14 @@
+{
+    "uuid": "e62da558-fa10-4546-8a97-0340432208b2",
+    "words": [
+        "player",
+        "coach",
+        "training",
+        "competition",
+        "team"
+    ],
+    "relationship": "A group of players competing together on an organized sports team.",
+    "elapsed_time": 12.420852184295654,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

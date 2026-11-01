@@ -1,0 +1,14 @@
+{
+    "uuid": "752069d3-3fe6-499c-a897-7a381728d6d4",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "formation",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a competition where a team attempts to score points by successfully maneuvering an object towards a designated area, often involving strategic positioning and coordinated effort.",
+    "elapsed_time": 13.863457441329956,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

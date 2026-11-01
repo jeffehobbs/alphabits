@@ -1,0 +1,14 @@
+{
+    "uuid": "0a79020d-4bec-409f-9fd0-f51035824400",
+    "words": [
+        "roots",
+        "soil",
+        "decay",
+        "bacteria",
+        "fungi"
+    ],
+    "relationship": "These elements are crucial for the process of decomposition, where organic matter breaks down and returns nutrients to the soil, supporting new plant growth.",
+    "elapsed_time": 13.143854141235352,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

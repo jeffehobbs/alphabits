@@ -1,0 +1,14 @@
+{
+    "uuid": "0ed151af-8003-4ec9-ab8e-4e640f17f9d9",
+    "words": [
+        "act",
+        "scripted performance",
+        "audience engagement",
+        "emotional response",
+        "applause"
+    ],
+    "relationship": "These are different aspects of an entertainment experience where one leads to another.",
+    "elapsed_time": 15.88807988166809,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

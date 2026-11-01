@@ -1,0 +1,14 @@
+{
+    "uuid": "a1299ce9-0aa5-44dc-8271-ea4c311798de",
+    "words": [
+        "tree",
+        "leaf",
+        "branch",
+        "sapling",
+        "soil"
+    ],
+    "relationship": "a group of interconnected elements within an ecosystem",
+    "elapsed_time": 9.017440557479858,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

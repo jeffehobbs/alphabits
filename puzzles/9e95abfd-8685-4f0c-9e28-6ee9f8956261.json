@@ -1,0 +1,14 @@
+{
+    "uuid": "9e95abfd-8685-4f0c-9e28-6ee9f8956261",
+    "words": [
+        "lake",
+        "sea",
+        "ocean",
+        "river",
+        "wetland"
+    ],
+    "relationship": "These geographical terms are all names of bodies of water: lakes, seas, oceans, rivers, and wetlands.",
+    "elapsed_time": 9.049598932266235,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

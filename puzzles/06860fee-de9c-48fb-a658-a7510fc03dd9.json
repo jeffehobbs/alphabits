@@ -1,0 +1,14 @@
+{
+    "uuid": "06860fee-de9c-48fb-a658-a7510fc03dd9",
+    "words": [
+        "Strategy",
+        "Tactics",
+        "Execution",
+        "Momentum",
+        "Discipline"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s overall performance and success, focusing on how well they execute a strategy and maintain a competitive advantage throughout a match or competition.",
+    "elapsed_time": 16.949470043182373,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

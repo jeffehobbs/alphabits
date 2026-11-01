@@ -1,0 +1,14 @@
+{
+    "uuid": "7e20e86b-eb71-42c3-9e00-9b3ee76ccaf4",
+    "words": [
+        "screen",
+        "film",
+        "plot",
+        "scene",
+        "drama"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story through a visual medium, often involving a narrative and emotional investment from the audience.",
+    "elapsed_time": 11.715266227722168,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

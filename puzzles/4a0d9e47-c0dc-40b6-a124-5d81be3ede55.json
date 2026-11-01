@@ -1,0 +1,14 @@
+{
+    "uuid": "4a0d9e47-c0dc-40b6-a124-5d81be3ede55",
+    "words": [
+        "movies",
+        "theater",
+        "music",
+        "books",
+        "games"
+    ],
+    "relationship": "The items in this list are all common ways people spend their leisure time, often involving storytelling, performance, or shared experiences designed to evoke emotion or amusement.",
+    "elapsed_time": 14.154823780059814,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

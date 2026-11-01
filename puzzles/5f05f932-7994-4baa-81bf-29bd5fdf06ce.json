@@ -1,0 +1,14 @@
+{
+    "uuid": "5f05f932-7994-4baa-81bf-29bd5fdf06ce",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "setting",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear together when analyzing stories, particularly those exploring character development and plot progression. They describe elements that contribute to a narrative's structure and the unfolding of events.",
+    "elapsed_time": 15.148537874221802,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

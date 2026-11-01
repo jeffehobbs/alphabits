@@ -1,0 +1,14 @@
+{
+    "uuid": "74b06260-4252-4a99-9851-4e58a668db21",
+    "words": [
+        "Evaporation",
+        "Condensation",
+        "Fog",
+        "Clouds",
+        "Precipitation"
+    ],
+    "relationship": "These words are connected by a process where one is created from another through a series of transformations.",
+    "elapsed_time": 13.34388017654419,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

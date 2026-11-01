@@ -1,0 +1,14 @@
+{
+    "uuid": "385568e2-62b0-4937-98c9-cbea521ec84d",
+    "words": [
+        "Impasto",
+        "Texture",
+        "Brushwork",
+        "Sculpture",
+        "Abstract"
+    ],
+    "relationship": "related",
+    "elapsed_time": 7.475534677505493,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "06fe2efb-b145-4685-bfe2-af376b38c0b1",
+    "words": [
+        "ensemble",
+        "casting director",
+        "screenplay",
+        "actors",
+        "director"
+    ],
+    "relationship": "A popular group of actors who perform together in movies and television shows.",
+    "elapsed_time": 11.999574422836304,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

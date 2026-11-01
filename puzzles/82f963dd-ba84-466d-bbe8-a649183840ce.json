@@ -1,0 +1,14 @@
+{
+    "uuid": "82f963dd-ba84-466d-bbe8-a649183840ce",
+    "words": [
+        "Nile",
+        "Sudan",
+        "Egypt",
+        "Red Sea",
+        "Mediterranean"
+    ],
+    "relationship": "A river flows through multiple countries before reaching an ocean.",
+    "elapsed_time": 14.306715488433838,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

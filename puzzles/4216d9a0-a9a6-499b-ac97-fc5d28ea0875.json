@@ -1,0 +1,14 @@
+{
+    "uuid": "4216d9a0-a9a6-499b-ac97-fc5d28ea0875",
+    "words": [
+        "Delta",
+        "Fjord",
+        "Canyon",
+        "Isthmus",
+        "Gulf"
+    ],
+    "relationship": "These geographical features are all types of landforms created by natural forces, such as water or ice.",
+    "elapsed_time": 8.156872987747192,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

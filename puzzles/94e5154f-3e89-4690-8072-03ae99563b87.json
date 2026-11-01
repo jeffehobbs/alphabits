@@ -1,0 +1,14 @@
+{
+    "uuid": "94e5154f-3e89-4690-8072-03ae99563b87",
+    "words": [
+        "Tactics",
+        "Strategy",
+        "Execution",
+        "Analysis",
+        "Adaptation"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and strategy, focusing on how players interact and contribute to achieving a collective goal. One focuses on the physical exertion, another on the tactical decisions made, a third on the individual skills needed, a fourth on the overall strategic plan, and finally on the continuous evaluation and adjustment required for success.",
+    "elapsed_time": 25.076773166656494,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

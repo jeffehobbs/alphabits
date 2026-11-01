@@ -1,0 +1,14 @@
+{
+    "uuid": "63212a9a-1ae8-4249-8a4e-bf3e2c3191cc",
+    "words": [
+        "tribes",
+        "kingdoms",
+        "empires",
+        "monarchies",
+        "democraries"
+    ],
+    "relationship": "The evolution of human societies has been marked by significant changes in governance structures from tribal systems to empires, with each transition leading to more centralized forms of control and organization.",
+    "elapsed_time": 18.545568466186523,
+    "model": "phi3:latest",
+    "topic": "history"
+}

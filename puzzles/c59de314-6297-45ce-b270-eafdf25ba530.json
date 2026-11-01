@@ -1,0 +1,14 @@
+{
+    "uuid": "c59de314-6297-45ce-b270-eafdf25ba530",
+    "words": [
+        "Imagery",
+        "Symbolism",
+        "Metaphor",
+        "Tone",
+        "Narrative"
+    ],
+    "relationship": "These terms all describe elements that contribute to the immersive experience a reader has while engaging with a narrative, focusing on the creation of vivid imagery and emotional impact within the story.",
+    "elapsed_time": 17.044402360916138,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

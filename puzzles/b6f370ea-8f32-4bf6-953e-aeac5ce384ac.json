@@ -1,0 +1,14 @@
+{
+    "uuid": "b6f370ea-8f32-4bf6-953e-aeac5ce384ac",
+    "words": [
+        "brushstroke",
+        "color theory",
+        "composition",
+        "texture",
+        "perspective"
+    ],
+    "relationship": "A set of techniques used by artists to create visual art",
+    "elapsed_time": 10.32009768486023,
+    "model": "phi3:latest",
+    "topic": "art"
+}

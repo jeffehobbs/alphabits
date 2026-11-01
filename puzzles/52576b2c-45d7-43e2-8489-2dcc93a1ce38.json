@@ -1,0 +1,14 @@
+{
+    "uuid": "52576b2c-45d7-43e2-8489-2dcc93a1ce38",
+    "words": [
+        "conquest",
+        "dynasty",
+        "infrastructure",
+        "taxation",
+        "military"
+    ],
+    "relationship": "These concepts are all associated with the rise and fall of powerful empires and the ways they maintained control over vast territories and populations.",
+    "elapsed_time": 20.273123502731323,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

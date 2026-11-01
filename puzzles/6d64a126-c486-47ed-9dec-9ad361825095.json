@@ -1,0 +1,14 @@
+{
+    "uuid": "6d64a126-c486-47ed-9dec-9ad361825095",
+    "words": [
+        "audience",
+        "performance",
+        "event",
+        "venue",
+        "spectator"
+    ],
+    "relationship": "a type of event where people pay money to watch others perform or compete in various activities",
+    "elapsed_time": 8.41823124885559,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

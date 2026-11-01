@@ -1,0 +1,14 @@
+{
+    "uuid": "55a05035-cee9-48f0-a365-c8b1fa92fc4c",
+    "words": [
+        "athlete",
+        "match",
+        "tournament",
+        "coach",
+        "fan"
+    ],
+    "relationship": "A player competes against another team to win a championship",
+    "elapsed_time": 10.391019821166992,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

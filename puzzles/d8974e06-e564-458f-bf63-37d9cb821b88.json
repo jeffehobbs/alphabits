@@ -1,0 +1,14 @@
+{
+    "uuid": "d8974e06-e564-458f-bf63-37d9cb821b88",
+    "words": [
+        "song",
+        "composer",
+        "note",
+        "lyric",
+        "melody"
+    ],
+    "relationship": "A person creates one using a combination of two things: an instrument and sounds.",
+    "elapsed_time": 8.14851427078247,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

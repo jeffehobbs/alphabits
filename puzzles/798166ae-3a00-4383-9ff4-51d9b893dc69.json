@@ -1,0 +1,14 @@
+{
+    "uuid": "798166ae-3a00-4383-9ff4-51d9b893dc69",
+    "words": [
+        "Chronology",
+        "Sources",
+        "Interpretation",
+        "Evidence",
+        "Analysis"
+    ],
+    "relationship": "These terms all describe the process of documenting and studying past events, often focusing on the actions and decisions of individuals and groups within those events, and how those events shaped the world we live in today.",
+    "elapsed_time": 17.45410132408142,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

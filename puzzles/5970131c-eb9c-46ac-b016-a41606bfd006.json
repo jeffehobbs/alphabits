@@ -1,0 +1,14 @@
+{
+    "uuid": "5970131c-eb9c-46ac-b016-a41606bfd006",
+    "words": [
+        "Industrial Revolution",
+        "Roman Empire Collapse",
+        "French Revolution",
+        "Civil Rights Movement",
+        "World War II"
+    ],
+    "relationship": "These historical events led to significant societal changes.",
+    "elapsed_time": 15.637136697769165,
+    "model": "phi3:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7a12b359-7cae-49fc-b5a3-33e6b5f4820d",
+    "words": [
+        "trees",
+        "soil",
+        "sunlight",
+        "rain",
+        "animals"
+    ],
+    "relationship": "These are all things that are found in a forest ecosystem and are often interconnected.",
+    "elapsed_time": 19.530184507369995,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "51ca21e9-babe-48a2-a2ae-ac7fdcbdcf2a",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "mosaic",
+        "photography"
+    ],
+    "relationship": "The items in this list are all ways to create a visual representation of something, often using skill and imagination. They can be applied to a surface and result in a finished product.",
+    "elapsed_time": 15.631427764892578,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

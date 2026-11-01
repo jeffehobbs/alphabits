@@ -1,0 +1,14 @@
+{
+    "uuid": "87104bfe-748f-42a3-872e-95bd7d73d391",
+    "words": [
+        "Strategy",
+        "Tactics",
+        "Positioning",
+        "Execution",
+        "Momentum"
+    ],
+    "relationship": "These terms all describe aspects of a competition where an athlete attempts to gain an advantage over their rivals through skillful execution and strategic positioning, ultimately aiming for the highest score or position.",
+    "elapsed_time": 17.387603044509888,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

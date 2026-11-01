@@ -1,0 +1,14 @@
+{
+    "uuid": "cf131a43-32e1-41ef-be9c-53ceb25c083c",
+    "words": [
+        "revolution",
+        "ideology",
+        "empire",
+        "dynasty",
+        "conflict"
+    ],
+    "relationship": "These concepts often arise during periods of significant societal upheaval and transformation, frequently involving power struggles and shifts in belief systems. They are key elements in understanding how societies evolve and adapt to new realities.",
+    "elapsed_time": 29.30703592300415,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

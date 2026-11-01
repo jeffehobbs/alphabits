@@ -1,0 +1,14 @@
+{
+    "uuid": "e590a542-949d-4d98-8683-68db77e578d4",
+    "words": [
+        "sketch",
+        "composition",
+        "texture",
+        "palette",
+        "rendering"
+    ],
+    "relationship": "These terms all describe different ways an artist can manipulate and transform a surface to create a new image or design. One focuses on the initial mark, another on the overall composition, a third on the method of application, a fourth on the effect of the finished work, and the final one on the quality of the result.",
+    "elapsed_time": 18.969003438949585,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

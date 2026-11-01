@@ -1,0 +1,14 @@
+{
+    "uuid": "c9c50ee6-87c6-4909-b93c-d8875fda2af3",
+    "words": [
+        "Thermodynamics",
+        "Kinetics",
+        "Electromagnetism",
+        "Mechanics",
+        "Chemistry"
+    ],
+    "relationship": "All are types of energy.",
+    "elapsed_time": 7.314311742782593,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

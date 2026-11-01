@@ -1,0 +1,13 @@
+{
+    "uuid": "beda55e8-222d-42d6-8d0c-398c2fc9fee2",
+    "words": [
+        "team",
+        "coach",
+        "strategy",
+        "practice"
+    ],
+    "relationship": "A team's performance is directly related to their coach.",
+    "elapsed_time": 6.167281150817871,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

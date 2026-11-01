@@ -1,0 +1,14 @@
+{
+    "uuid": "2db6f79c-d263-4a27-8333-feaa6c5d23e1",
+    "words": [
+        "observation",
+        "experiment",
+        "hypothesis",
+        "theory",
+        "data"
+    ],
+    "relationship": "The words are all connected to the study of the natural world and how things change over time. They describe processes and observations used to understand the universe.",
+    "elapsed_time": 15.348375082015991,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

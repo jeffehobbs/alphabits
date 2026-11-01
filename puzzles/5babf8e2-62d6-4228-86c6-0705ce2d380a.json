@@ -1,0 +1,14 @@
+{
+    "uuid": "5babf8e2-62d6-4228-86c6-0705ce2d380a",
+    "words": [
+        "Revolution",
+        "Tyranny",
+        "Resistance",
+        "Regime",
+        "Overthrow"
+    ],
+    "relationship": "These terms describe the process of a powerful group gaining control of a nation, often through force or manipulation, leading to a shift in governance and societal structures.",
+    "elapsed_time": 15.07131576538086,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

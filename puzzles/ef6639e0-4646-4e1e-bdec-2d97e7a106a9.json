@@ -1,0 +1,14 @@
+{
+    "uuid": "ef6639e0-4646-4e1e-bdec-2d97e7a106a9",
+    "words": [
+        "Imperialism",
+        "Colonialism",
+        "Nationalism",
+        "Sovereignty",
+        "Empires"
+    ],
+    "relationship": "These words are connected through historical events and figures that shaped the world's major power dynamics.",
+    "elapsed_time": 8.640326261520386,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

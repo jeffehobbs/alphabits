@@ -1,0 +1,14 @@
+{
+    "uuid": "b8c4b3a5-14c6-410a-a50b-2db85fd1054f",
+    "words": [
+        "pitcher",
+        "batter",
+        "fielder",
+        "umpire",
+        "shortstop"
+    ],
+    "relationship": "teamwork",
+    "elapsed_time": 5.483222961425781,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

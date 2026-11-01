@@ -1,0 +1,14 @@
+{
+    "uuid": "cba433fa-e504-41b7-ae4e-e5ba943bea31",
+    "words": [
+        "mutation",
+        "genetics",
+        "evolution",
+        "variation",
+        "inheritance"
+    ],
+    "relationship": "These terms all describe processes by which living organisms change over time, often through inherited variations and natural selection.",
+    "elapsed_time": 11.398737907409668,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

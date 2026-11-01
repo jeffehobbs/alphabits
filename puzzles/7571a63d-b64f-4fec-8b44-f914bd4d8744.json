@@ -1,0 +1,14 @@
+{
+    "uuid": "7571a63d-b64f-4fec-8b44-f914bd4d8744",
+    "words": [
+        "Cause",
+        "Consequence",
+        "Interpretation",
+        "Context",
+        "Legacy"
+    ],
+    "relationship": "These terms all describe the process of examining the past to understand how events unfolded and their impact on the present. One focuses on the actions of individuals, another on the broader circumstances, a third on the consequences, a fourth on the attempts to interpret these events, and finally, on the way those interpretations shift over time.",
+    "elapsed_time": 23.370901346206665,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

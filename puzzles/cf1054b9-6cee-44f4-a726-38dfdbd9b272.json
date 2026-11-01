@@ -1,0 +1,14 @@
+{
+    "uuid": "cf1054b9-6cee-44f4-a726-38dfdbd9b272",
+    "words": [
+        "canvas",
+        "brush",
+        "painter",
+        "color",
+        "art"
+    ],
+    "relationship": "A group of things that are connected by being used together to create something.",
+    "elapsed_time": 7.976221799850464,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

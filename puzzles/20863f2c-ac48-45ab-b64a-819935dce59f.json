@@ -1,0 +1,14 @@
+{
+    "uuid": "20863f2c-ac48-45ab-b64a-819935dce59f",
+    "words": [
+        "River",
+        "Creek",
+        "Stream",
+        "Lake",
+        "Ocean"
+    ],
+    "relationship": "These terms are all associated with bodies of water.",
+    "elapsed_time": 15.75353455543518,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

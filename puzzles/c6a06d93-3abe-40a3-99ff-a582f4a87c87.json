@@ -1,0 +1,14 @@
+{
+    "uuid": "c6a06d93-3abe-40a3-99ff-a582f4a87c87",
+    "words": [
+        "forest",
+        "garden",
+        "meadow",
+        "wildlife",
+        "ecosystem"
+    ],
+    "relationship": "They are often found together in ecosystems and play crucial roles in maintaining the balance of their surroundings.",
+    "elapsed_time": 5.834123611450195,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

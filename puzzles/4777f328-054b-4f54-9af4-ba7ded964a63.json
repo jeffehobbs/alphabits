@@ -1,0 +1,13 @@
+{
+    "uuid": "4777f328-054b-4f54-9af4-ba7ded964a63",
+    "words": [
+        "hypothesis",
+        "experiment",
+        "data collection",
+        "conclusion"
+    ],
+    "relationship": "The first four terms are directly connected through their roles or functions within a scientific experimentation process.",
+    "elapsed_time": 14.81827449798584,
+    "model": "phi3:latest",
+    "topic": "science"
+}

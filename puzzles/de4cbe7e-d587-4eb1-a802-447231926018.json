@@ -1,0 +1,14 @@
+{
+    "uuid": "de4cbe7e-d587-4eb1-a802-447231926018",
+    "words": [
+        "sound",
+        "frequency",
+        "amplitude",
+        "resonance",
+        "harmony"
+    ],
+    "relationship": "Music is created through sound waves which are produced by instruments or human voices as a form of expression.",
+    "elapsed_time": 8.23855972290039,
+    "model": "phi3:latest",
+    "topic": "music"
+}

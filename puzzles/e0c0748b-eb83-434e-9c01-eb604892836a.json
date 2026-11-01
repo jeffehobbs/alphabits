@@ -1,0 +1,14 @@
+{
+    "uuid": "e0c0748b-eb83-434e-9c01-eb604892836a",
+    "words": [
+        "Narrative",
+        "Authoritative",
+        "Discourse",
+        "Tone",
+        "Persona"
+    ],
+    "relationship": "Author, Book, Genre, Plot, Story",
+    "elapsed_time": 8.780298471450806,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

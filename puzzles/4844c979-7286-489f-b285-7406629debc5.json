@@ -1,0 +1,14 @@
+{
+    "uuid": "4844c979-7286-489f-b285-7406629debc5",
+    "words": [
+        "biology",
+        "chemistry",
+        "physics",
+        "astronomy",
+        "geology"
+    ],
+    "relationship": "The process of examining the natural world, often involving observation, experimentation, and the development of explanations for phenomena.",
+    "elapsed_time": 25.39287805557251,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

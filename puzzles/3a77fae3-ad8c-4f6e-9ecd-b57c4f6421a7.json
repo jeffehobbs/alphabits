@@ -1,0 +1,14 @@
+{
+    "uuid": "3a77fae3-ad8c-4f6e-9ecd-b57c4f6421a7",
+    "words": [
+        "farming",
+        "hunting",
+        "gathering",
+        "fishing",
+        "herding"
+    ],
+    "relationship": "These terms all describe different ways humans have historically interacted with and utilized the natural world for sustenance and survival.",
+    "elapsed_time": 19.644121646881104,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

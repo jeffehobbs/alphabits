@@ -1,0 +1,14 @@
+{
+    "uuid": "611f17d7-f105-4489-a8b6-b6214e30c853",
+    "words": [
+        "river",
+        "stream",
+        "creek",
+        "brook",
+        "waterfall"
+    ],
+    "relationship": "The given words are all different types of bodies of water.",
+    "elapsed_time": 14.856786727905273,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

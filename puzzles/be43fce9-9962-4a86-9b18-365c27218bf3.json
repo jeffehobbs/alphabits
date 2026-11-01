@@ -1,0 +1,14 @@
+{
+    "uuid": "be43fce9-9962-4a86-9b18-365c27218bf3",
+    "words": [
+        "Pitch",
+        "Tempo",
+        "Rhythm",
+        "Harmony",
+        "Melody"
+    ],
+    "relationship": "(Words) are essential components of (Music). They come together to create a harmonious sound.",
+    "elapsed_time": 11.746759414672852,
+    "model": "phi3:latest",
+    "topic": "music"
+}

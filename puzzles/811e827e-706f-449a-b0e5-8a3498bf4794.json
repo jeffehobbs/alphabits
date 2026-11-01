@@ -1,0 +1,14 @@
+{
+    "uuid": "811e827e-706f-449a-b0e5-8a3498bf4794",
+    "words": [
+        "Fauvism",
+        "Impressionism",
+        "Watercolor",
+        "Vincent van Gogh",
+        "Expressionism"
+    ],
+    "relationship": "style, technique, medium, artist, skill",
+    "elapsed_time": 7.4455296993255615,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

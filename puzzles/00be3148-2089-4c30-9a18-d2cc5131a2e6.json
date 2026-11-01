@@ -1,0 +1,14 @@
+{
+    "uuid": "00be3148-2089-4c30-9a18-d2cc5131a2e6",
+    "words": [
+        "evolution",
+        "adaptation",
+        "mutation",
+        "genetic variation",
+        "natural selection"
+    ],
+    "relationship": "evolution, adaptation, mutation, genetic variation, natural selection",
+    "elapsed_time": 8.434711694717407,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

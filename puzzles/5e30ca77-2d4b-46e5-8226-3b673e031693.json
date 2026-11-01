@@ -1,0 +1,14 @@
+{
+    "uuid": "5e30ca77-2d4b-46e5-8226-3b673e031693",
+    "words": [
+        "Rebellion",
+        "Revolution",
+        "Uprising",
+        "Resistance",
+        "Insurrection"
+    ],
+    "relationship": "A group of people led by a charismatic leader seeks power and independence from an existing authority.",
+    "elapsed_time": 8.150639057159424,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

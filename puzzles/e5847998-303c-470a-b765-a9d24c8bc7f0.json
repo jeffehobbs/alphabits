@@ -1,0 +1,14 @@
+{
+    "uuid": "e5847998-303c-470a-b765-a9d24c8bc7f0",
+    "words": [
+        "telescope",
+        "microscope",
+        "spectrum",
+        "data",
+        "hypothesis"
+    ],
+    "relationship": "The process of observing and gathering information about the natural world often involves using tools to extend our senses and analyze data to form explanations.",
+    "elapsed_time": 25.066649913787842,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

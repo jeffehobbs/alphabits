@@ -1,0 +1,14 @@
+{
+    "uuid": "1366d18a-1e79-44b9-baa4-997e11ff77f0",
+    "words": [
+        "seeds",
+        "sunlight",
+        "water",
+        "air",
+        "soil"
+    ],
+    "relationship": "Things that are needed for growth",
+    "elapsed_time": 6.738824844360352,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

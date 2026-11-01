@@ -1,0 +1,14 @@
+{
+    "uuid": "5958df4b-bc98-41e6-8eff-feed19ea5e39",
+    "words": [
+        "coach",
+        "strategies",
+        "player",
+        "performance",
+        "practice"
+    ],
+    "relationship": "'The coach's strategies directly impact player performance during practice sessions.'",
+    "elapsed_time": 14.565343618392944,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

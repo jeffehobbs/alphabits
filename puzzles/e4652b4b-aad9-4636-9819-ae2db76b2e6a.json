@@ -1,0 +1,14 @@
+{
+    "uuid": "e4652b4b-aad9-4636-9819-ae2db76b2e6a",
+    "words": [
+        "Cordillera",
+        "Bolivia",
+        "Amazonian Rainforest",
+        "Gold Mines",
+        "Tiwanaku Empire"
+    ],
+    "relationship": "(1) A region known for its rich deposits of gold mines (2) The indigenous people that have lived there for centuries and their unique culture, which includes traditional songs about mining practices (3) This country shares a border with the world's second-larginest rainforest ecosystem on one side and extends into this desert region to its northwest. It has become an important hub in global trade due to various resources available from both regions.",
+    "elapsed_time": 23.0528302192688,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

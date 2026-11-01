@@ -1,0 +1,14 @@
+{
+    "uuid": "7b9534a0-b99c-4794-aa6c-a9c4515d4133",
+    "words": [
+        "erosion",
+        "sediment",
+        "valley",
+        "deposition",
+        "landscape"
+    ],
+    "relationship": "These terms all describe processes that contribute to the gradual transformation of a landscape over extended periods, shaped by forces like water, wind, and time.",
+    "elapsed_time": 14.271528482437134,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

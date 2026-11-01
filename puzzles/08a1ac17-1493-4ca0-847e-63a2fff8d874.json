@@ -1,0 +1,14 @@
+{
+    "uuid": "08a1ac17-1493-4ca0-847e-63a2fff8d874",
+    "words": [
+        "Formation",
+        "Tactics",
+        "Strategy",
+        "Positioning",
+        "Coordination"
+    ],
+    "relationship": "These terms all describe aspects of a competitive event where a team attempts to gain an advantage over another, often through skillful maneuvering and strategic positioning to ultimately score points or achieve a desired outcome.",
+    "elapsed_time": 16.77481770515442,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

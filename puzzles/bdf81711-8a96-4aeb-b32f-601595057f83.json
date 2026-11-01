@@ -1,0 +1,14 @@
+{
+    "uuid": "bdf81711-8a96-4aeb-b32f-601595057f83",
+    "words": [
+        "actor",
+        "director",
+        "writer",
+        "producer",
+        "critic"
+    ],
+    "relationship": "A person in one field often works alongside or collaborates with individuals in another field, leading to cross-pollination of ideas, skills, and resources.",
+    "elapsed_time": 9.201447248458862,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

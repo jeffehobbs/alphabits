@@ -1,0 +1,14 @@
+{
+    "uuid": "97c0094b-4942-4912-b159-ac17c7031e35",
+    "words": [
+        "rock",
+        "sand",
+        "dirt",
+        "pebbles",
+        "gravel"
+    ],
+    "relationship": "These 5 natural elements are all formed from the same source material.",
+    "elapsed_time": 7.862873792648315,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

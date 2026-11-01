@@ -1,0 +1,14 @@
+{
+    "uuid": "b73eabe6-5605-4746-8cc7-8772d3327f69",
+    "words": [
+        "script",
+        "narrative",
+        "plot",
+        "character",
+        "dialogue"
+    ],
+    "relationship": "These terms all describe aspects of creating and experiencing stories \u2013 from the initial concept and design to the final presentation and audience reaction.",
+    "elapsed_time": 12.158215284347534,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

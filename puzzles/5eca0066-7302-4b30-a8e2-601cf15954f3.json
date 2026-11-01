@@ -1,0 +1,14 @@
+{
+    "uuid": "5eca0066-7302-4b30-a8e2-601cf15954f3",
+    "words": [
+        "system",
+        "variable",
+        "feedback",
+        "equilibrium",
+        "response"
+    ],
+    "relationship": "These terms all describe how changes in one aspect of a system can trigger a chain of reactions that ultimately lead to a different state or outcome. It's about understanding cause and effect within complex processes, often involving feedback loops and interconnected elements.",
+    "elapsed_time": 16.034017086029053,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

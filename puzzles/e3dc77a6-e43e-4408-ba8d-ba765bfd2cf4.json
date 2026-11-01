@@ -1,0 +1,14 @@
+{
+    "uuid": "e3dc77a6-e43e-4408-ba8d-ba765bfd2cf4",
+    "words": [
+        "Biology",
+        "Botany",
+        "Zoology",
+        "Anatomy",
+        "Morphology"
+    ],
+    "relationship": "These five words are all types of scientific fields that study the structure and organization of living things. They can be grouped into two main categories: one that focuses on the internal structure, and another that looks at the external characteristics.",
+    "elapsed_time": 12.264450550079346,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

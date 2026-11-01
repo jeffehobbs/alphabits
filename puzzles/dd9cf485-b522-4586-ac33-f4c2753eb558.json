@@ -1,0 +1,14 @@
+{
+    "uuid": "dd9cf485-b522-4586-ac33-f4c2753eb558",
+    "words": [
+        "elevation",
+        "topography",
+        "relief",
+        "terrain",
+        "altitude"
+    ],
+    "relationship": "These concepts all describe different ways to understand the Earth's surface and the patterns found on it. They are often used together to analyze spatial data and create maps.",
+    "elapsed_time": 21.937906980514526,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

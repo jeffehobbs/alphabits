@@ -1,0 +1,14 @@
+{
+    "uuid": "f86b91d8-ad0c-421a-8ebd-18bcc332928a",
+    "words": [
+        "Canvas",
+        "Oil",
+        "Brushes",
+        "Palette",
+        "Paints"
+    ],
+    "relationship": "A medium is used to create a work of art.",
+    "elapsed_time": 7.24267053604126,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

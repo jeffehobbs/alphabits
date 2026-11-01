@@ -1,0 +1,14 @@
+{
+    "uuid": "96498480-afaf-4f02-95b4-dce317f19d06",
+    "words": [
+        "drama",
+        "stage",
+        "audience",
+        "script",
+        "performance"
+    ],
+    "relationship": "The words all describe aspects of creating and presenting compelling performances to an audience, often involving storytelling and captivating attention.",
+    "elapsed_time": 18.338085651397705,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

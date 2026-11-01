@@ -1,0 +1,14 @@
+{
+    "uuid": "63dee3bc-aef0-45b6-b513-58ad9b8af59e",
+    "words": [
+        "Athlete",
+        "Competition",
+        "Performance",
+        "Recognition",
+        "Peers"
+    ],
+    "relationship": "When an athlete performs exceptionally well during a competition, they receive recognition from their peers.",
+    "elapsed_time": 12.021639585494995,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

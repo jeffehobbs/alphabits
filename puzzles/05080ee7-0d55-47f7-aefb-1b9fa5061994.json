@@ -1,0 +1,14 @@
+{
+    "uuid": "05080ee7-0d55-47f7-aefb-1b9fa5061994",
+    "words": [
+        "trees",
+        "soil",
+        "sunlight",
+        "rain",
+        "animals"
+    ],
+    "relationship": "The words all describe elements found in a forest ecosystem and often interact with each other. One is a vital part of the structure, another is a source of sustenance, a third is a key component of the cycle of life and decay, a fourth is a crucial element for growth, and the last is a major contributor to the overall environment.",
+    "elapsed_time": 17.877454042434692,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

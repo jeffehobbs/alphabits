@@ -1,0 +1,14 @@
+{
+    "uuid": "5c80e676-6f17-41a8-8edd-5818f2469382",
+    "words": [
+        "Tennis",
+        "Basketball",
+        "Soccer",
+        "Golf",
+        "Baseball"
+    ],
+    "relationship": "A common thread among these words is that they are all related to the physical act of moving an object from one place to another.",
+    "elapsed_time": 9.679870843887329,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

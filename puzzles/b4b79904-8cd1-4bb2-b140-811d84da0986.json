@@ -1,0 +1,14 @@
+{
+    "uuid": "b4b79904-8cd1-4bb2-b140-811d84da0986",
+    "words": [
+        "basketball",
+        "gymnastics",
+        "football",
+        "golf",
+        "tennis"
+    ],
+    "relationship": "Team sport, Physical activity, Competition, Equipment, Venue",
+    "elapsed_time": 5.481882810592651,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

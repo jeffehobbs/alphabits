@@ -1,0 +1,14 @@
+{
+    "uuid": "5457ebba-bdb1-470d-9d83-c58f17231af3",
+    "words": [
+        "band",
+        "concert",
+        "gig",
+        "jam",
+        "session"
+    ],
+    "relationship": "a group of musicians perform together",
+    "elapsed_time": 7.24259352684021,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

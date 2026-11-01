@@ -1,0 +1,12 @@
+{
+    "uuid": "6ea6bb98-6572-460e-8ddb-b2c8282e6154",
+    "words": [
+        "Perspective",
+        "Shading",
+        "Hatching"
+    ],
+    "relationship": "(The first word is used by an artist to create visual effects or illusions on a flat surface like paper or canvas, while the second and third ones are techniques that enhance these effects.)",
+    "elapsed_time": 13.331931829452515,
+    "model": "phi3:latest",
+    "topic": "art"
+}

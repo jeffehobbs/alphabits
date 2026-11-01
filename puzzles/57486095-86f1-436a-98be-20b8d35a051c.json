@@ -1,0 +1,14 @@
+{
+    "uuid": "57486095-86f1-436a-98be-20b8d35a051c",
+    "words": [
+        "script",
+        "actor",
+        "audience",
+        "drama",
+        "performance"
+    ],
+    "relationship": "These terms all describe different aspects of creating and experiencing enjoyment through imaginative stories and performances.",
+    "elapsed_time": 9.387627363204956,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d0ea4745-7575-4a59-89c2-6109d38202b2",
+    "words": [
+        "orchestra",
+        "ensemble",
+        "band",
+        "choir",
+        "concert"
+    ],
+    "relationship": "A group of musicians come together to create an ensemble that performs a specific genre.",
+    "elapsed_time": 7.980129718780518,
+    "model": "phi3:latest",
+    "topic": "music"
+}

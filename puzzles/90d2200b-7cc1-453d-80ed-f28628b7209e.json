@@ -1,0 +1,14 @@
+{
+    "uuid": "90d2200b-7cc1-453d-80ed-f28628b7209e",
+    "words": [
+        "training",
+        "strength",
+        "endurance",
+        "agility",
+        "flexibility"
+    ],
+    "relationship": "These terms describe actions taken to improve physical capabilities and performance in athletic endeavors.",
+    "elapsed_time": 15.092511653900146,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "57febde0-a71f-4a12-b0a1-21e237c33449",
+    "words": [
+        "pass",
+        "shoot",
+        "dribble",
+        "kick",
+        "throw"
+    ],
+    "relationship": "These terms all describe actions performed by athletes to advance a ball towards a designated area, often involving physical exertion and strategic positioning.",
+    "elapsed_time": 21.275466203689575,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

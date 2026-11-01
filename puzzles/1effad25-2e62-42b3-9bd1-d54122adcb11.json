@@ -1,0 +1,14 @@
+{
+    "uuid": "1effad25-2e62-42b3-9bd1-d54122adcb11",
+    "words": [
+        "hue",
+        "shadow",
+        "composition",
+        "perspective",
+        "value"
+    ],
+    "relationship": "These concepts are all fundamental elements artists consider when creating a visual work. They describe aspects of how light and color interact to create form, mood, and visual impact.",
+    "elapsed_time": 27.626364946365356,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

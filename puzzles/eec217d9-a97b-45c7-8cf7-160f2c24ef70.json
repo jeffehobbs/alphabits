@@ -1,0 +1,14 @@
+{
+    "uuid": "eec217d9-a97b-45c7-8cf7-160f2c24ef70",
+    "words": [
+        "mountain",
+        "valley",
+        "river",
+        "lake",
+        "delta"
+    ],
+    "relationship": "These five words are associated with a particular feature of the Earth's surface that can be found on land and is formed by the movement of water.",
+    "elapsed_time": 9.18461298942566,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

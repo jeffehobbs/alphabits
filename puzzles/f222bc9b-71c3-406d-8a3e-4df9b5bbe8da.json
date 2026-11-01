@@ -1,0 +1,14 @@
+{
+    "uuid": "f222bc9b-71c3-406d-8a3e-4df9b5bbe8da",
+    "words": [
+        "musician",
+        "guitarist",
+        "bassist",
+        "drummer",
+        "composer"
+    ],
+    "relationship": "A band is composed of different instruments which produce various sounds to create a harmonious musical performance.",
+    "elapsed_time": 16.179868459701538,
+    "model": "phi3:latest",
+    "topic": "music"
+}

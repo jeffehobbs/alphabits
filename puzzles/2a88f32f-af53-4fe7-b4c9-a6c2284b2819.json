@@ -1,0 +1,14 @@
+{
+    "uuid": "2a88f32f-af53-4fe7-b4c9-a6c2284b2819",
+    "words": [
+        "metabolism",
+        "photosynthesis",
+        "transpiration",
+        "respiration",
+        "fermentation"
+    ],
+    "relationship": "processes that occur within an organism",
+    "elapsed_time": 6.913038730621338,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e2ee44f7-af50-490e-90e2-f20dcae1fa7c",
+    "words": [
+        "shot",
+        "accuracy",
+        "distance",
+        "basket",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a player\u2019s performance when attempting to score points by propelling an object through a hoop \u2013 focusing on accuracy, speed, and the overall outcome of the action.",
+    "elapsed_time": 18.00169587135315,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

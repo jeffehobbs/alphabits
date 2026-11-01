@@ -1,0 +1,14 @@
+{
+    "uuid": "fead8230-4a1e-4da9-8f3e-26bc73996dbb",
+    "words": [
+        "forest",
+        "ecosystem",
+        "habitat",
+        "flora",
+        "fauna"
+    ],
+    "relationship": "(trees provide shelter for birds)",
+    "elapsed_time": 10.369622230529785,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

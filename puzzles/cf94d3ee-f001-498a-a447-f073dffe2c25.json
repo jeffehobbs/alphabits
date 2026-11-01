@@ -1,0 +1,14 @@
+{
+    "uuid": "cf94d3ee-f001-498a-a447-f073dffe2c25",
+    "words": [
+        "instrumentalism",
+        "melody",
+        "harmony",
+        "rhythm",
+        "timbre"
+    ],
+    "relationship": "(all of these terms are used by musicians to describe different aspects or qualities related to sound production in music.)",
+    "elapsed_time": 15.063318729400635,
+    "model": "phi3:latest",
+    "topic": "music"
+}

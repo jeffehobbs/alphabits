@@ -1,0 +1,14 @@
+{
+    "uuid": "98b366fd-aaab-4c8e-a2ac-06c66a75b919",
+    "words": [
+        "soccer",
+        "basketball",
+        "passing",
+        "teamwork",
+        "goal"
+    ],
+    "relationship": "In team sports like soccer or basketball, passing helps players move the ball closer to the goal while maintaining possession.",
+    "elapsed_time": 15.602352142333984,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

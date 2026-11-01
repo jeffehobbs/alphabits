@@ -1,0 +1,14 @@
+{
+    "uuid": "21d17612-ae6f-4e5d-9579-aca514a615ac",
+    "words": [
+        "metamorphosis",
+        "transformation",
+        "evolution",
+        "mutation",
+        "development"
+    ],
+    "relationship": "a process by which something changes from one form to another",
+    "elapsed_time": 7.8482279777526855,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

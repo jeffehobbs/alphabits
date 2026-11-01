@@ -1,0 +1,14 @@
+{
+    "uuid": "9fb8be98-de33-4d48-aace-dcbe325d0681",
+    "words": [
+        "Composition",
+        "Texture",
+        "Emotion",
+        "Technique",
+        "Impression"
+    ],
+    "relationship": "These terms all describe different aspects of how an artist creates and viewers perceive a work. One focuses on the initial design, another on the surface qualities, a third on the emotional impact, a fourth on the skill involved, and the final one on the overall impression or feeling evoked.",
+    "elapsed_time": 20.18144178390503,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

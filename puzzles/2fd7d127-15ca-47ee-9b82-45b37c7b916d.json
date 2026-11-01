@@ -1,0 +1,13 @@
+{
+    "uuid": "2fd7d127-15ca-47ee-9b82-45b37c7b916d",
+    "words": [
+        "event",
+        "person",
+        "cause-anddependent relationship",
+        "society"
+    ],
+    "relationship": "This term refers to how different events or people are connected throughout history.",
+    "elapsed_time": 12.568578720092773,
+    "model": "phi3:latest",
+    "topic": "history"
+}

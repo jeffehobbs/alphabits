@@ -1,0 +1,14 @@
+{
+    "uuid": "c0020d11-5326-48fb-b792-f99a2688ba1e",
+    "words": [
+        "plateau",
+        "canyon",
+        "valley",
+        "mountain",
+        "island"
+    ],
+    "relationship": "They are all names of natural features found on Earth's surface.",
+    "elapsed_time": 7.796565532684326,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

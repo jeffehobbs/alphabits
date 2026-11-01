@@ -1,0 +1,14 @@
+{
+    "uuid": "a8afdea5-8672-4d15-be91-ce79c0db4825",
+    "words": [
+        "Rebellion",
+        "Revolution",
+        "Regime",
+        "Transition",
+        "Legacy"
+    ],
+    "relationship": "These terms all describe different stages or aspects of a significant event that unfolded over a prolonged period, ultimately leading to a transformative shift in power and control.",
+    "elapsed_time": 17.647803783416748,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

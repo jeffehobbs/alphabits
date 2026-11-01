@@ -1,0 +1,14 @@
+{
+    "uuid": "0f915cc5-3826-40b8-a9d6-3e77d04bce69",
+    "words": [
+        "Seedling",
+        "Sprout",
+        "Tender",
+        "Vine",
+        "Flower"
+    ],
+    "relationship": "These five words are all connected by the concept of growth. They describe different stages or types of growth that occur in various natural environments.",
+    "elapsed_time": 9.929707527160645,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

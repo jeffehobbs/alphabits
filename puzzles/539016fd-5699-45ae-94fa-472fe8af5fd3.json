@@ -1,0 +1,13 @@
+{
+    "uuid": "539016fd-5699-45ae-94fa-472fe8af5fd3",
+    "words": [
+        "Observation",
+        "Hypothesis",
+        "Experiment",
+        ","
+    ],
+    "relationship": "Science is an organized way of understanding natural phenomena by making observations, forming hypotheses or theories to explain those observations and then testing these ideas through experiments.",
+    "elapsed_time": 18.317041158676147,
+    "model": "phi3:latest",
+    "topic": "science"
+}

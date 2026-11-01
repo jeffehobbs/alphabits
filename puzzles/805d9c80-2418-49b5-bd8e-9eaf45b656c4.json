@@ -1,0 +1,14 @@
+{
+    "uuid": "805d9c80-2418-49b5-bd8e-9eaf45b656c4",
+    "words": [
+        "theater",
+        "concert hall",
+        "music festival",
+        "open-air amphitheater",
+        "circus tent"
+    ],
+    "relationship": ". They are all types of venues where live performances or shows take place.",
+    "elapsed_time": 12.48458480834961,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

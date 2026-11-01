@@ -1,0 +1,14 @@
+{
+    "uuid": "dd29f087-e1da-4cc6-8b2e-cdf4b0d9b6cd",
+    "words": [
+        "Defense",
+        "Offense",
+        "Strategy",
+        "Positioning",
+        "Tactics"
+    ],
+    "relationship": "These terms all describe aspects of a competitive game where a player or team strives to gain an advantage over their opponent, often involving strategic positioning and skillful execution to ultimately achieve a desired outcome, like scoring a point or winning the match.",
+    "elapsed_time": 20.43006134033203,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

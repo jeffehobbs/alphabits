@@ -1,0 +1,14 @@
+{
+    "uuid": "16c6662f-9081-456f-91d6-e96f4cbdbd7a",
+    "words": [
+        "guitar",
+        "piano",
+        "violin",
+        "cello",
+        "drum"
+    ],
+    "relationship": "These are terms often used together when discussing musical instruments.",
+    "elapsed_time": 15.842061281204224,
+    "model": "phi3:latest",
+    "topic": "music"
+}

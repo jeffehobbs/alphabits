@@ -1,0 +1,14 @@
+{
+    "uuid": "4014c578-b0cb-428b-979f-62c4ff30b76f",
+    "words": [
+        "Roman Empire",
+        "Inquisition",
+        "Medieval Period",
+        "Crusades",
+        "The Holocaust"
+    ],
+    "relationship": "The 'relationship' between the words is that they are all types of events or periods that people can be part of or participate in.",
+    "elapsed_time": 9.398627281188965,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

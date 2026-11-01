@@ -1,0 +1,14 @@
+{
+    "uuid": "3fe1ffbf-202a-4521-bb8c-74ef4fd7cbd8",
+    "words": [
+        "observation",
+        "measurement",
+        "data",
+        "analysis",
+        "interpretation"
+    ],
+    "relationship": "These terms all describe the process of observing and recording changes in a system over time, often with the goal of understanding how it evolves and reacts to external influences.",
+    "elapsed_time": 14.003042697906494,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

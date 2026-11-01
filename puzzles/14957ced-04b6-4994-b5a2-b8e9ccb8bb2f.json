@@ -1,0 +1,14 @@
+{
+    "uuid": "14957ced-04b6-4994-b5a2-b8e9ccb8bb2f",
+    "words": [
+        " microscope",
+        " telescope",
+        " spectrometer",
+        " calorimeter",
+        " gravimeter"
+    ],
+    "relationship": "They are all types of objects that can be used to study or manipulate matter.",
+    "elapsed_time": 4.964388132095337,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

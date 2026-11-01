@@ -1,0 +1,14 @@
+{
+    "uuid": "7b656b2f-62a6-4449-a8d9-548406ae262c",
+    "words": [
+        "Chaos",
+        "Sensitivity",
+        "Iteration",
+        "Dynamics",
+        "Systems"
+    ],
+    "relationship": "These terms all describe processes where a small change in initial conditions can lead to drastically different outcomes over time, often exhibiting unpredictable behavior.",
+    "elapsed_time": 14.192355394363403,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

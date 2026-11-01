@@ -1,0 +1,14 @@
+{
+    "uuid": "d1314f2e-186b-4a4f-94bf-6b5fddef6650",
+    "words": [
+        "agility",
+        "dribbling",
+        "strategy",
+        "footwork",
+        "maneuvering"
+    ],
+    "relationship": "These terms all describe a crucial aspect of a game where a player attempts to gain an advantage by skillfully maneuvering around an opponent, often involving quick changes in direction and deceptive movements to outsmart them and ultimately score.",
+    "elapsed_time": 16.182482957839966,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

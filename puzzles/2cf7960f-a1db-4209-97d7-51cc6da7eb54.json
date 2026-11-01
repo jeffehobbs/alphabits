@@ -1,0 +1,14 @@
+{
+    "uuid": "2cf7960f-a1db-4209-97d7-51cc6da7eb54",
+    "words": [
+        "dynasty",
+        "conquest",
+        "empire",
+        "legacy",
+        "monarchy"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large empires and the power structures that governed them. They often appear in narratives about political dominance, societal organization, and the legacies left behind.",
+    "elapsed_time": 17.303539037704468,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

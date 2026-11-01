@@ -1,0 +1,14 @@
+{
+    "uuid": "27fb4839-c8bc-4ad0-934f-5f5d25ea6b71",
+    "words": [
+        "script",
+        "performance",
+        "audience",
+        "stage",
+        "drama"
+    ],
+    "relationship": "These terms all describe different aspects of a shared, immersive experience where an audience is captivated by a narrative unfolding before them, often involving actors and a carefully constructed setting.",
+    "elapsed_time": 15.8563711643219,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

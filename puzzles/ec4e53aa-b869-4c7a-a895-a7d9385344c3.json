@@ -1,0 +1,14 @@
+{
+    "uuid": "ec4e53aa-b869-4c7a-a895-a7d9385344c3",
+    "words": [
+        "television",
+        "actors",
+        "live performance",
+        "stage play",
+        "special"
+    ],
+    "relationship": "A television show features actors who perform live on stage during its special performances.",
+    "elapsed_time": 15.543853044509888,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

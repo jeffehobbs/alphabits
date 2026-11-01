@@ -1,0 +1,14 @@
+{
+    "uuid": "077fcee4-04dd-458f-af31-be390f20c31c",
+    "words": [
+        "pass",
+        "shoot",
+        "dribble",
+        "block",
+        "defend"
+    ],
+    "relationship": "These terms describe actions taken by a player to gain an advantage over an opponent, often involving physical exertion and strategic positioning.",
+    "elapsed_time": 21.608096837997437,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

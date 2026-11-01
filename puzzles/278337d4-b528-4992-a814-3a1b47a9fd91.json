@@ -1,0 +1,14 @@
+{
+    "uuid": "278337d4-b528-4992-a814-3a1b47a9fd91",
+    "words": [
+        "Atlantic",
+        "Pirate",
+        "Hurricane",
+        "Caribbean",
+        "Island"
+    ],
+    "relationship": "The relationship is based on geographical location. The first word refers to a large body of water that separates continents. The second word is a common destination for people traveling by ship or boat. The third word is often used to describe something that happens to the sea or its inhabitants in this particular region. The fourth word has been the site of many historical events and trade routes. The fifth word refers to the people who have lived on islands with these bodies of water.",
+    "elapsed_time": 16.70771837234497,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

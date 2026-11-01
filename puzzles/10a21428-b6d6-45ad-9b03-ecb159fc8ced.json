@@ -1,0 +1,14 @@
+{
+    "uuid": "10a21428-b6d6-45ad-9b03-ecb159fc8ced",
+    "words": [
+        "Imagery",
+        "Symbolism",
+        "Theme",
+        "Tone",
+        "Narrative"
+    ],
+    "relationship": "These terms all describe elements that contribute to the immersive and emotional impact a storyteller creates for a reader, focusing on how a narrative evokes feeling and understanding.",
+    "elapsed_time": 17.028474807739258,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

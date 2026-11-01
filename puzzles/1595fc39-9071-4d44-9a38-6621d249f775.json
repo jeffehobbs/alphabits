@@ -1,0 +1,14 @@
+{
+    "uuid": "1595fc39-9071-4d44-9a38-6621d249f775",
+    "words": [
+        "Impressionism",
+        "Post-impressionism",
+        "Fauvism",
+        "Expressionism",
+        "Cubism"
+    ],
+    "relationship": "A style of painting characterized by bold brushstrokes and vibrant color choices.",
+    "elapsed_time": 12.140908479690552,
+    "model": "phi3:latest",
+    "topic": "art"
+}

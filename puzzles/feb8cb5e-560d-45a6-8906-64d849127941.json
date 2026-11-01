@@ -1,0 +1,14 @@
+{
+    "uuid": "feb8cb5e-560d-45a6-8906-64d849127941",
+    "words": [
+        "forest",
+        "river",
+        "soil",
+        "sun",
+        "plants"
+    ],
+    "relationship": "These concepts are all interconnected aspects of the Earth's environment and the processes that sustain life. They often occur together and influence each other.",
+    "elapsed_time": 14.187402725219727,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

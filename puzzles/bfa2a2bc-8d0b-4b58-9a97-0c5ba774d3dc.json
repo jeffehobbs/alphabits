@@ -1,0 +1,13 @@
+{
+    "uuid": "bfa2a2bc-8d0b-4b58-9a97-0c5ba774d3dc",
+    "words": [
+        "painter",
+        "landscape painting",
+        "forest hiking trip",
+        "brush strokes"
+    ],
+    "relationship": "Artists often draw inspiration from nature to create their work.",
+    "elapsed_time": 11.527717351913452,
+    "model": "phi3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "e0c9d539-0865-4dc2-a8b9-5c39fd94c762",
+    "words": [
+        "Civil War",
+        "Reconstruction Era",
+        "Jim Crow Laws",
+        "Abolition Movement",
+        "Slave Rebellions"
+    ],
+    "relationship": "The historical events are interconnected",
+    "elapsed_time": 13.465035676956177,
+    "model": "phi3:latest",
+    "topic": "history"
+}

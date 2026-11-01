@@ -1,0 +1,14 @@
+{
+    "uuid": "a1e35398-eaad-4cfe-9458-b14ee9d15a80",
+    "words": [
+        "play",
+        "musical",
+        "comedy",
+        "dance",
+        "theater"
+    ],
+    "relationship": "a series of events typically with a beginning, middle, and end; often features music, dance, or comedy performances.",
+    "elapsed_time": 7.694605350494385,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

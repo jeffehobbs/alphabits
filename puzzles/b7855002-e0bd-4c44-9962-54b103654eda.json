@@ -1,0 +1,14 @@
+{
+    "uuid": "b7855002-e0bd-4c44-9962-54b103654eda",
+    "words": [
+        "script",
+        "actor",
+        "stage",
+        "dialogue",
+        "audience"
+    ],
+    "relationship": "These terms all describe aspects of creating and experiencing stories, whether through visual mediums or performance, often involving a narrative and evoking an emotional response in an audience.",
+    "elapsed_time": 14.769160747528076,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c0ab2e7d-0ba1-42ea-9fbb-f2bb45db3c11",
+    "words": [
+        "river",
+        "stream",
+        "creek",
+        "waterway",
+        "estuary"
+    ],
+    "relationship": "The selected set of terms are interconnected as they all pertain to different aspects of physical geography.",
+    "elapsed_time": 15.52957558631897,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

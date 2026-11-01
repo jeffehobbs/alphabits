@@ -1,0 +1,14 @@
+{
+    "uuid": "b6f0278b-afde-4c8c-864d-12d0e8c813e0",
+    "words": [
+        "genre",
+        "narrative",
+        "style",
+        "themes",
+        "symbolism"
+    ],
+    "relationship": "These terms are commonly used together when discussing different types of written works.",
+    "elapsed_time": 14.49327826499939,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

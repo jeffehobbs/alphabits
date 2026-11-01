@@ -1,0 +1,14 @@
+{
+    "uuid": "3a2c6db5-13c3-4032-9e6a-3e79f77321a4",
+    "words": [
+        "Archaeology",
+        "Sources",
+        "Interpretation",
+        "Evidence",
+        "Analysis"
+    ],
+    "relationship": "These terms all describe the process of examining the past to understand how events shaped the present, often involving investigation, interpretation, and reconstruction of what occurred, and the biases that might have influenced the accounts.",
+    "elapsed_time": 18.045191764831543,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

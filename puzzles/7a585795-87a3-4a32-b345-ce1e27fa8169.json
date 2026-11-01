@@ -1,0 +1,14 @@
+{
+    "uuid": "7a585795-87a3-4a32-b345-ce1e27fa8169",
+    "words": [
+        "sketching",
+        "contour drawing",
+        "perspective rendering",
+        "painting",
+        "artist"
+    ],
+    "relationship": "(The first word is an essential skill for creating art; it involves using lines to form shapes) The second term describes a type of these skills that often convey movement, while the third refers to techniques used by this style in representing three-dimensional forms on flat surfaces. Fourthly, (the fifth element represents individuals who create visual arts and share their work with others.)",
+    "elapsed_time": 31.48609209060669,
+    "model": "phi3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "20cecf71-3b2b-45c1-bb15-10ff800d4c9e",
+    "words": [
+        "erosion",
+        "landscape",
+        "sediment",
+        "topography",
+        "relief"
+    ],
+    "relationship": "These terms all describe different aspects of the land's surface and how it changes over time, influenced by natural processes and human activity.",
+    "elapsed_time": 12.504862546920776,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

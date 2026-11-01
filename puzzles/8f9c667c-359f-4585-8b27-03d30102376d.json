@@ -1,0 +1,12 @@
+{
+    "uuid": "8f9c667c-359f-4585-8b27-03d30102376d",
+    "words": [
+        "river",
+        "plants",
+        "wildlife"
+    ],
+    "relationship": "A river provides water for plants along its banks while supporting diverse wildlife that feeds on these vegetation.",
+    "elapsed_time": 13.690226316452026,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3f029161-024b-43e6-bfcd-3e868e679105",
+    "words": [
+        "Pitch",
+        "Ball",
+        "Bat",
+        "Field",
+        "Umpire"
+    ],
+    "relationship": "The team uses these elements to gain an advantage over their opponents.",
+    "elapsed_time": 7.352374315261841,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

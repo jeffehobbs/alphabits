@@ -1,0 +1,14 @@
+{
+    "uuid": "b499bf99-3b95-4e3c-8a1c-3fa7bda06c35",
+    "words": [
+        "pass",
+        "shoot",
+        "dribble",
+        "defend",
+        "score"
+    ],
+    "relationship": "These terms all describe actions or movements performed by athletes during competition, often involving physical exertion and strategic positioning.",
+    "elapsed_time": 13.607040405273438,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

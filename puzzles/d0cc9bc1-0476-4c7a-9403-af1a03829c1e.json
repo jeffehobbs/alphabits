@@ -1,0 +1,14 @@
+{
+    "uuid": "d0cc9bc1-0476-4c7a-9403-af1a03829c1e",
+    "words": [
+        "ominous",
+        "foreshadowing",
+        "suspense",
+        "dread",
+        "anticipation"
+    ],
+    "relationship": "These concepts often appear in stories to build suspense and create a sense of foreboding, hinting at something negative that is about to happen. They are tools authors use to keep readers engaged and on edge.",
+    "elapsed_time": 27.31002187728882,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

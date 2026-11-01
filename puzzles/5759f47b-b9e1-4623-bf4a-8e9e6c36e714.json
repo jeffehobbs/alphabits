@@ -1,0 +1,14 @@
+{
+    "uuid": "5759f47b-b9e1-4623-bf4a-8e9e6c36e714",
+    "words": [
+        "drama",
+        "music",
+        "stage",
+        "performance",
+        "storytelling"
+    ],
+    "relationship": "The words are all aspects of creating a captivating experience for an audience, often involving skilled individuals working together to evoke emotion and tell a story.",
+    "elapsed_time": 21.07552671432495,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

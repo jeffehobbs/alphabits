@@ -1,0 +1,14 @@
+{
+    "uuid": "24808880-a3de-40ca-9549-d9f4f93ef12d",
+    "words": [
+        "Imperialism",
+        "Colonialism",
+        "Nationalism",
+        "Totalitarianism",
+        "Dictatorship"
+    ],
+    "relationship": "the 'related' concept involves the rise and fall of powerful leaders who sought to expand their territory through conquest.",
+    "elapsed_time": 9.535351991653442,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

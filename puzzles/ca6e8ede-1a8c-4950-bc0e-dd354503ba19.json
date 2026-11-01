@@ -1,0 +1,14 @@
+{
+    "uuid": "ca6e8ede-1a8c-4950-bc0e-dd354503ba19",
+    "words": [
+        "seed",
+        "root",
+        "leaf",
+        "flower",
+        "fruit"
+    ],
+    "relationship": "These terms describe a cyclical process of growth, decay, and renewal within a living system.",
+    "elapsed_time": 11.703845977783203,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

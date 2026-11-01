@@ -1,0 +1,14 @@
+{
+    "uuid": "cabc4eb0-188f-4972-a316-e6ff26747f9e",
+    "words": [
+        "erosion",
+        "deposition",
+        "weathering",
+        "landscape",
+        "relief"
+    ],
+    "relationship": "These terms all describe aspects of how landforms are shaped and changed over long periods by natural forces like water and wind.",
+    "elapsed_time": 12.923781394958496,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c1a9bd22-64ee-4fea-bd8a-83d055ca73c0",
+    "words": [
+        "script",
+        "actor",
+        "audience",
+        "stage",
+        "review"
+    ],
+    "relationship": "These terms all describe different aspects of a live performance, from the initial idea to the final audience reaction.",
+    "elapsed_time": 11.780919790267944,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

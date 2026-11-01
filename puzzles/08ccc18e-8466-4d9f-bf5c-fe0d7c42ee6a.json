@@ -1,0 +1,14 @@
+{
+    "uuid": "08ccc18e-8466-4d9f-bf5c-fe0d7c42ee6a",
+    "words": [
+        "telescope",
+        "microscope",
+        "data",
+        "experiment",
+        "observation"
+    ],
+    "relationship": "The process of observing and analyzing the natural world often involves using tools to gather data and draw conclusions about how things work.",
+    "elapsed_time": 20.071491956710815,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

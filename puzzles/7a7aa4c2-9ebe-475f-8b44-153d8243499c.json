@@ -1,0 +1,14 @@
+{
+    "uuid": "7a7aa4c2-9ebe-475f-8b44-153d8243499c",
+    "words": [
+        "farming",
+        "irrigation",
+        "settlement",
+        "agriculture",
+        "civilization"
+    ],
+    "relationship": "These concepts all describe ways humans have historically interacted with and shaped the natural world for sustenance and survival.",
+    "elapsed_time": 19.76990270614624,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

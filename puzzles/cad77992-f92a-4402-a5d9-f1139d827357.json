@@ -1,0 +1,12 @@
+{
+    "uuid": "cad77992-f92a-4402-a5d9-f1139d827357",
+    "words": [
+        "melody",
+        "rhythm",
+        "harmony"
+    ],
+    "relationship": "(music) is an art form (creation), which can be expressed through various elements such as melody, rhythm and harmony.",
+    "elapsed_time": 11.354134321212769,
+    "model": "phi3:latest",
+    "topic": "music"
+}

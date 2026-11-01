@@ -1,0 +1,14 @@
+{
+    "uuid": "4a0f65b9-70fc-466b-93dd-cdddad313ae2",
+    "words": [
+        "Imagery",
+        "Symbolism",
+        "Metaphor",
+        "Setting",
+        "Tone"
+    ],
+    "relationship": "These terms all describe elements that contribute to creating a vivid and immersive experience for the reader, focusing on the sensory details and emotional impact of a story.",
+    "elapsed_time": 22.783692836761475,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

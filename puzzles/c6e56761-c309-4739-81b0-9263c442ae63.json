@@ -1,0 +1,13 @@
+{
+    "uuid": "c6e56761-c309-4739-81b0-9263c442ae63",
+    "words": [
+        "mountain",
+        "plateau",
+        "valley",
+        "river"
+    ],
+    "relationship": "The first four terms are all types of landforms or physical features found on Earth's surface, while the fifth term is a body of water that can be associated with these formations.",
+    "elapsed_time": 13.711928367614746,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8aaa89e5-613f-4c61-8dcf-7739135f6a9c",
+    "words": [
+        "team",
+        "players",
+        "coach",
+        "competition",
+        "sport"
+    ],
+    "relationship": "team, players, coach, competition, sport",
+    "elapsed_time": 6.282414674758911,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

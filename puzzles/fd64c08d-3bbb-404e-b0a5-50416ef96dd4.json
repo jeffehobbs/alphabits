@@ -1,0 +1,14 @@
+{
+    "uuid": "fd64c08d-3bbb-404e-b0a5-50416ef96dd4",
+    "words": [
+        "forest",
+        "river",
+        "sun",
+        "soil",
+        "plants"
+    ],
+    "relationship": "These concepts are all interconnected aspects of the Earth's life-sustaining systems. One provides sustenance for the others, and their health is vital for the planet's overall well-being.  Changes in one often impact the others in a complex web of cause and effect.",
+    "elapsed_time": 22.400392293930054,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

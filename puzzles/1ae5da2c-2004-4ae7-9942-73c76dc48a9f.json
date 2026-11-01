@@ -1,0 +1,14 @@
+{
+    "uuid": "1ae5da2c-2004-4ae7-9942-73c76dc48a9f",
+    "words": [
+        "painting",
+        "drawing",
+        "sculpture",
+        "printmaking",
+        "carving"
+    ],
+    "relationship": "They are all connected by being methods of creating visual representations.",
+    "elapsed_time": 4.444646120071411,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

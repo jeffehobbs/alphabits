@@ -1,0 +1,14 @@
+{
+    "uuid": "121847a3-a091-4480-85f7-d15b063ebb1e",
+    "words": [
+        "delta",
+        "fjord",
+        "canyon",
+        "volcano",
+        "bay"
+    ],
+    "relationship": "landform features are often created by natural forces such as water erosion or volcanic activity.",
+    "elapsed_time": 8.892490863800049,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

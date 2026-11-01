@@ -1,0 +1,14 @@
+{
+    "uuid": "e8516e82-fe5a-4930-9a3d-9cfeed8e906b",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "photography",
+        "ceramics"
+    ],
+    "relationship": "The items in this list are all techniques used to create visual representations. They involve manipulating materials and applying skill to produce a final product.",
+    "elapsed_time": 20.635586738586426,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bc693a26-2093-4c6e-9e56-140ca8b00176",
+    "words": [
+        "line",
+        "impressionism",
+        "color theory",
+        "texture",
+        "brushstroke"
+    ],
+    "relationship": "The first word represents an element of visual arts while the remaining four are associated with artistic styles or movements.",
+    "elapsed_time": 15.155295372009277,
+    "model": "phi3:latest",
+    "topic": "art"
+}

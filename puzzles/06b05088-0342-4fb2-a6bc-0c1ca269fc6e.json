@@ -1,0 +1,14 @@
+{
+    "uuid": "06b05088-0342-4fb2-a6bc-0c1ca269fc6e",
+    "words": [
+        "atom",
+        "molecule",
+        "cell",
+        "organism",
+        "ecosystem"
+    ],
+    "relationship": "The relationship is one of hierarchical structure, where a larger concept encompasses smaller ones.",
+    "elapsed_time": 8.554336071014404,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

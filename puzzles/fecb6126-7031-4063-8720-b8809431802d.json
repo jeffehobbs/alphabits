@@ -1,0 +1,14 @@
+{
+    "uuid": "fecb6126-7031-4063-8720-b8809431802d",
+    "words": [
+        "chronology",
+        "artifact",
+        "interpretation",
+        "source",
+        "evidence"
+    ],
+    "relationship": "These terms all describe the process of examining past events to understand how they shaped the present, often involving analysis of primary sources and interpretations of different viewpoints.",
+    "elapsed_time": 13.456482887268066,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

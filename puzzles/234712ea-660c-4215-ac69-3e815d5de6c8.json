@@ -1,0 +1,14 @@
+{
+    "uuid": "234712ea-660c-4215-ac69-3e815d5de6c8",
+    "words": [
+        "Formation",
+        "Strategy",
+        "Tactics",
+        "Positioning",
+        "Coordination"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and success, focusing on the collective effort and the importance of strategic positioning to gain an advantage and ultimately, win the competition.",
+    "elapsed_time": 18.057478666305542,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

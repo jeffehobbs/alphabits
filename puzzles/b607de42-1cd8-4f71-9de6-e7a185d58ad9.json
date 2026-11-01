@@ -1,0 +1,14 @@
+{
+    "uuid": "b607de42-1cd8-4f71-9de6-e7a185d58ad9",
+    "words": [
+        "phenotype",
+        "genotype",
+        "inheritance",
+        "variation",
+        "evolution"
+    ],
+    "relationship": "These terms all describe different aspects of how living things change and adapt over time, often driven by inherited traits and environmental pressures. One focuses on the observable characteristics, another on the underlying genetic code, a third on the process of passing on these traits, a fourth on the gradual shifts in populations, and finally on the way these changes can lead to new forms.",
+    "elapsed_time": 20.819382905960083,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

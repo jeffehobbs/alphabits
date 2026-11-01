@@ -1,0 +1,14 @@
+{
+    "uuid": "527e92f2-54c4-4c72-ad7b-5579a6d5d2f9",
+    "words": [
+        "basketball",
+        "player",
+        "scores",
+        "points",
+        "hoop"
+    ],
+    "relationship": "A basketball player scores points by shooting the ball into a hoop during games.",
+    "elapsed_time": 11.858030796051025,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

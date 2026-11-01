@@ -1,0 +1,14 @@
+{
+    "uuid": "b099bf38-0ebc-4227-b89c-c7aa9009bd25",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "instrument",
+        "composition"
+    ],
+    "relationship": "The words all describe aspects of creating and performing sound, often in a coordinated and structured way. They relate to the process of bringing an auditory experience to life.",
+    "elapsed_time": 15.046977281570435,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

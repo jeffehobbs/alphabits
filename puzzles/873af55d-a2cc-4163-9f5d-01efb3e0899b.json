@@ -1,0 +1,14 @@
+{
+    "uuid": "873af55d-a2cc-4163-9f5d-01efb3e0899b",
+    "words": [
+        "guitar",
+        "violin",
+        "drums",
+        "bass",
+        "piano"
+    ],
+    "relationship": "instrument",
+    "elapsed_time": 4.701331853866577,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2f543bd4-4edd-46aa-aed1-35f85bf32034",
+    "words": [
+        "music",
+        "dance",
+        "concert",
+        "party",
+        "movies"
+    ],
+    "relationship": "This is about enjoying oneself at social gatherings",
+    "elapsed_time": 14.6634521484375,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

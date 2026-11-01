@@ -1,0 +1,14 @@
+{
+    "uuid": "27bfcc33-17e4-4d2d-8013-71f593337292",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "setting",
+        "tone"
+    ],
+    "relationship": "author's intent",
+    "elapsed_time": 6.041460990905762,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

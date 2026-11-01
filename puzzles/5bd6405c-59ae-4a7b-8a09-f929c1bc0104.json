@@ -1,0 +1,14 @@
+{
+    "uuid": "5bd6405c-59ae-4a7b-8a09-f929c1bc0104",
+    "words": [
+        "score",
+        "judge",
+        "criteria",
+        "outcome",
+        "performance"
+    ],
+    "relationship": "These terms all describe different aspects of a competition where an athlete strives to achieve the highest possible score, often judged by an impartial observer and measured against a predetermined standard.",
+    "elapsed_time": 13.695518732070923,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

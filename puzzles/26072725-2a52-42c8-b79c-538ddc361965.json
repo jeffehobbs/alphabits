@@ -1,0 +1,14 @@
+{
+    "uuid": "26072725-2a52-42c8-b79c-538ddc361965",
+    "words": [
+        "Empire",
+        "Conquest",
+        "Colonization",
+        "Colonizers",
+        "Legacy"
+    ],
+    "relationship": "A group of events or periods that share common characteristics such as location, time period, and cause-and-effect relationships.",
+    "elapsed_time": 9.932771444320679,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

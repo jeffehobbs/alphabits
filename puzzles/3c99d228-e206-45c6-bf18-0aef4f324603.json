@@ -1,0 +1,14 @@
+{
+    "uuid": "3c99d228-e206-45c6-bf18-0aef4f324603",
+    "words": [
+        "Renaissance",
+        "Enlightenment",
+        "Industrial Revolution",
+        "French Revolution",
+        "Revolutionary War"
+    ],
+    "relationship": "The events of this period led to significant cultural shifts that influenced future generations.",
+    "elapsed_time": 15.896979093551636,
+    "model": "phi3:latest",
+    "topic": "history"
+}

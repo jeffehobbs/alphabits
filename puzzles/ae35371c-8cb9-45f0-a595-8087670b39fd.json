@@ -1,0 +1,14 @@
+{
+    "uuid": "ae35371c-8cb9-45f0-a595-8087670b39fd",
+    "words": [
+        "ovation",
+        "applause",
+        "standing ovation",
+        "performance",
+        "crowd"
+    ],
+    "relationship": "The words are all commonly found in the context of live performances, often used to describe the audience's reaction or the performer's skill.",
+    "elapsed_time": 21.785643815994263,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

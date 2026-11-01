@@ -1,0 +1,14 @@
+{
+    "uuid": "85ec7315-308f-4a00-9728-49c91059eda4",
+    "words": [
+        "Coach",
+        "Captain",
+        "Players",
+        "Tactics",
+        "Strategy"
+    ],
+    "relationship": "Team",
+    "elapsed_time": 9.725236654281616,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

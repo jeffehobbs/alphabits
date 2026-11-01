@@ -1,0 +1,14 @@
+{
+    "uuid": "c40005b2-f2ba-483b-b9ee-60179af8bcf8",
+    "words": [
+        "Basketball",
+        "Soccer",
+        "Baseball",
+        "Football",
+        "Hockey"
+    ],
+    "relationship": "A team of athletes competing against another group",
+    "elapsed_time": 14.582475185394287,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

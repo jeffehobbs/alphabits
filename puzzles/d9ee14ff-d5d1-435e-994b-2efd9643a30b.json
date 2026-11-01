@@ -1,0 +1,14 @@
+{
+    "uuid": "d9ee14ff-d5d1-435e-994b-2efd9643a30b",
+    "words": [
+        "Rebellion",
+        "Revolution",
+        "Ideology",
+        "Propaganda",
+        "Tyranny"
+    ],
+    "relationship": "These concepts often arise during periods of significant societal upheaval and transformation, frequently linked to power struggles and shifts in belief systems. They can be catalysts for both progress and destruction, shaping the course of civilizations.",
+    "elapsed_time": 17.009765625,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

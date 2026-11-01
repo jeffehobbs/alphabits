@@ -1,0 +1,14 @@
+{
+    "uuid": "1b22061f-7407-4c85-8ede-cdca2454945d",
+    "words": [
+        "Mountain",
+        "Village",
+        "Desert",
+        "Ocean",
+        "Island"
+    ],
+    "relationship": "They are all located on Earth's surface.",
+    "elapsed_time": 7.454749822616577,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

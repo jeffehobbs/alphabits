@@ -1,0 +1,14 @@
+{
+    "uuid": "86e8f67c-f20d-41d5-b834-013c6495e579",
+    "words": [
+        "Revolution",
+        "Empire",
+        "Kingdom",
+        "Civil War",
+        "Dynasty"
+    ],
+    "relationship": "These terms all describe periods of significant societal change and upheaval, often marked by conflict and transformation of power structures. They frequently involve shifts in governance, social norms, and cultural values, leaving lasting impacts on the course of civilization.",
+    "elapsed_time": 18.153457403182983,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

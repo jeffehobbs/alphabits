@@ -1,0 +1,14 @@
+{
+    "uuid": "04b9c0f8-734e-41de-9a06-5d89c0b1b550",
+    "words": [
+        "revolution",
+        "monarch",
+        "parliament",
+        "constitution",
+        "democracy"
+    ],
+    "relationship": "A historical timeline of events",
+    "elapsed_time": 10.965592622756958,
+    "model": "phi3:latest",
+    "topic": "history"
+}

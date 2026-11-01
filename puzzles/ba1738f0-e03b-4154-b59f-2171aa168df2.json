@@ -1,0 +1,14 @@
+{
+    "uuid": "ba1738f0-e03b-4154-b59f-2171aa168df2",
+    "words": [
+        "drama",
+        "music",
+        "stage",
+        "audience",
+        "performance"
+    ],
+    "relationship": "The words all describe aspects of creating and presenting captivating performances for an audience, often involving skilled individuals working together to evoke emotion and tell stories.",
+    "elapsed_time": 14.02715015411377,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

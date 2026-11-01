@@ -1,0 +1,14 @@
+{
+    "uuid": "b07c2fe7-f7df-4371-8d5c-097fa814ddfe",
+    "words": [
+        "composition",
+        "texture",
+        "palette",
+        "technique",
+        "representation"
+    ],
+    "relationship": "These terms all describe different aspects of the process of creating a visual representation from an initial concept or observation. One focuses on the underlying structure, another on the surface appearance, a third on the overall feeling, a fourth on the method of application, and the last on the way it is presented to the viewer.",
+    "elapsed_time": 19.5633647441864,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

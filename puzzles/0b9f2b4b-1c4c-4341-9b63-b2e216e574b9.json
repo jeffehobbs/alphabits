@@ -1,0 +1,14 @@
+{
+    "uuid": "0b9f2b4b-1c4c-4341-9b63-b2e216e574b9",
+    "words": [
+        "team",
+        "player",
+        "win",
+        "game",
+        "score"
+    ],
+    "relationship": "team, player, win, game, score",
+    "elapsed_time": 4.488800287246704,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

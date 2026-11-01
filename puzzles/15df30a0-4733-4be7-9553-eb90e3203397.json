@@ -1,0 +1,14 @@
+{
+    "uuid": "15df30a0-4733-4be7-9553-eb90e3203397",
+    "words": [
+        "valley",
+        "mountain",
+        "erosion",
+        "delta",
+        "glacier"
+    ],
+    "relationship": "These terms all describe aspects of how landforms are shaped by natural forces over long periods, involving erosion, deposition, and the movement of water and ice.",
+    "elapsed_time": 13.50729775428772,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

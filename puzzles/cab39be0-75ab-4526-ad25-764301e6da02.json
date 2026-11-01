@@ -1,0 +1,14 @@
+{
+    "uuid": "cab39be0-75ab-4526-ad25-764301e6da02",
+    "words": [
+        "chemical",
+        "physical",
+        "energy",
+        "reaction",
+        "transformation"
+    ],
+    "relationship": "The words all describe processes that involve changes in matter, often requiring energy input and resulting in new substances or states.",
+    "elapsed_time": 9.84797739982605,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

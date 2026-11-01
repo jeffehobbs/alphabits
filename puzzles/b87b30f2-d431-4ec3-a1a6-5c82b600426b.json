@@ -1,0 +1,14 @@
+{
+    "uuid": "b87b30f2-d431-4ec3-a1a6-5c82b600426b",
+    "words": [
+        "tempo",
+        "dynamics",
+        "tone",
+        "pitch",
+        "rhythm"
+    ],
+    "relationship": "These terms all describe aspects of a musical performance, particularly how it's delivered and perceived by an audience. One focuses on the physical act of playing, another on the precise execution of notes, a third on the overall quality and feeling of the sound, and the final two relate to how listeners experience and react to the sound.",
+    "elapsed_time": 19.698830127716064,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "36236388-a923-4d72-aeb9-18b31078afd1",
+    "words": [
+        "movies",
+        "books",
+        "music",
+        "video games",
+        "theater"
+    ],
+    "relationship": "{The first four elements are forms of media used to entertain people while they consume something that provides a sense of escape from reality.}",
+    "elapsed_time": 11.840107202529907,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

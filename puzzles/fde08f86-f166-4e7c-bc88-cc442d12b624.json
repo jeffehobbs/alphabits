@@ -1,0 +1,14 @@
+{
+    "uuid": "fde08f86-f166-4e7c-bc88-cc442d12b624",
+    "words": [
+        "Director",
+        "Film",
+        "Cinema",
+        "Watching",
+        "Entertainment"
+    ],
+    "relationship": "A movie director creates films which are screened at cinemas for people to watch as a form of entertainment.",
+    "elapsed_time": 8.686647653579712,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

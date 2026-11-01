@@ -1,0 +1,14 @@
+{
+    "uuid": "49f2dfe7-7a72-4624-b11c-09e52e301fde",
+    "words": [
+        "drama",
+        "stage",
+        "actor",
+        "audience",
+        "script"
+    ],
+    "relationship": "The following words are all commonly associated with creating and delivering captivating performances to an audience, often involving skilled individuals working together to evoke emotion and tell stories.",
+    "elapsed_time": 20.490779399871826,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

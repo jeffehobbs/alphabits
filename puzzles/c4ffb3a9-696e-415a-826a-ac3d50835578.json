@@ -1,0 +1,14 @@
+{
+    "uuid": "c4ffb3a9-696e-415a-826a-ac3d50835578",
+    "words": [
+        "movies",
+        "music",
+        "theater",
+        "games",
+        "books"
+    ],
+    "relationship": "The items in this list are all common ways people spend their leisure time and are often associated with feeling happy or escaping reality.",
+    "elapsed_time": 13.650161266326904,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "480b49de-1e53-4cf7-9aa6-0cdf82105b6b",
+    "words": [
+        "books",
+        "plays",
+        "movies"
+    ],
+    "relationship": "movies are often based on books which were previously adapted into plays.",
+    "elapsed_time": 5.842699766159058,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

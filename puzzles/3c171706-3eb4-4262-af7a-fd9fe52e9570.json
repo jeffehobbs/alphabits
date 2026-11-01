@@ -1,0 +1,14 @@
+{
+    "uuid": "3c171706-3eb4-4262-af7a-fd9fe52e9570",
+    "words": [
+        "observe",
+        "experiment",
+        "patterns",
+        "predictions",
+        "models"
+    ],
+    "relationship": "The process of examining the natural world using observation and experimentation often involves identifying patterns and making predictions about future events. This can lead to the development of models that explain how things work.",
+    "elapsed_time": 21.813655853271484,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

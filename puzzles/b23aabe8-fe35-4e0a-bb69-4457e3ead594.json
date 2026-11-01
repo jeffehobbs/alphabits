@@ -1,0 +1,14 @@
+{
+    "uuid": "b23aabe8-fe35-4e0a-bb69-4457e3ead594",
+    "words": [
+        "atom",
+        "molecule",
+        "element",
+        "matter",
+        "energy"
+    ],
+    "relationship": "These concepts are all fundamental to understanding the composition and behavior of matter and energy in the universe. They describe different states of existence and how they interact.",
+    "elapsed_time": 14.524054050445557,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

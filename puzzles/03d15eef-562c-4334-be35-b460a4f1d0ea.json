@@ -1,0 +1,13 @@
+{
+    "uuid": "03d15eef-562c-4334-be35-b460a4f1d0ea",
+    "words": [
+        "hypothesis",
+        "experiment",
+        "data analysis",
+        "conclusion"
+    ],
+    "relationship": "These words are all used by scientists to describe different aspects of their work.",
+    "elapsed_time": 11.232791423797607,
+    "model": "phi3:latest",
+    "topic": "science"
+}

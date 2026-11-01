@@ -1,0 +1,14 @@
+{
+    "uuid": "9d25cdd8-1d98-409d-8fb9-960e52890d46",
+    "words": [
+        "conductor",
+        "instrumentalist",
+        "harmony",
+        "melody",
+        "rhythm"
+    ],
+    "relationship": "A group of musicians coming together for practice or performance",
+    "elapsed_time": 14.15607476234436,
+    "model": "phi3:latest",
+    "topic": "music"
+}

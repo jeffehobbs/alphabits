@@ -1,0 +1,14 @@
+{
+    "uuid": "b04f3b9f-66f8-4880-82ef-eac7e1acdc04",
+    "words": [
+        "Revolution",
+        "Resistance",
+        "Uprising",
+        "Insurrection",
+        "Rebellion"
+    ],
+    "relationship": "These words are all connected through their association with a particular event or action.",
+    "elapsed_time": 8.18179440498352,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

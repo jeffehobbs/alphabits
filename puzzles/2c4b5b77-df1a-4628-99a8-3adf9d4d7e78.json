@@ -1,0 +1,14 @@
+{
+    "uuid": "2c4b5b77-df1a-4628-99a8-3adf9d4d7e78",
+    "words": [
+        "Gene",
+        "Nucleotide",
+        "DNA replication",
+        "Transcription",
+        "Protein synthesis"
+    ],
+    "relationship": "These are all fundamental concepts or tools used by scientists to study living organisms at a molecular level.",
+    "elapsed_time": 16.6582350730896,
+    "model": "phi3:latest",
+    "topic": "science"
+}

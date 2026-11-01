@@ -1,0 +1,14 @@
+{
+    "uuid": "68fe2a42-35ac-478f-a044-e9f586d5f43d",
+    "words": [
+        "Hockey",
+        "Speed Skating",
+        "Figure Skating",
+        "Luge",
+        "Bobsled"
+    ],
+    "relationship": "These sports are all played on ice.",
+    "elapsed_time": 8.013359069824219,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

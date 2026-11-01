@@ -1,0 +1,14 @@
+{
+    "uuid": "05506548-b762-472e-94c9-9f7c76be7dce",
+    "words": [
+        "river",
+        "ecosystem",
+        "habitats",
+        "species",
+        "water"
+    ],
+    "relationship": "A river flows through an ecosystem creating habitats for diverse species.",
+    "elapsed_time": 10.526394605636597,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

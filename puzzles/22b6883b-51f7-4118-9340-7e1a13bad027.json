@@ -1,0 +1,14 @@
+{
+    "uuid": "22b6883b-51f7-4118-9340-7e1a13bad027",
+    "words": [
+        "algae",
+        "coral",
+        "moss",
+        "lichen",
+        "fungi"
+    ],
+    "relationship": "A group of these living things can be found together, often in clusters or colonies.",
+    "elapsed_time": 8.405807733535767,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

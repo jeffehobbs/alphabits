@@ -1,0 +1,14 @@
+{
+    "uuid": "253db736-a9fb-4739-971b-b9636df125bc",
+    "words": [
+        "Revolution",
+        "Conflict",
+        "Regime",
+        "Transition",
+        "Legacy"
+    ],
+    "relationship": "These terms all describe the actions and consequences of significant events that dramatically altered the course of a nation or civilization, often involving power struggles, shifts in leadership, and widespread societal changes.",
+    "elapsed_time": 11.659070253372192,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "df01e432-d389-4b69-b71e-a931cb7c2f58",
+    "words": [
+        "valley",
+        "erosion",
+        "river",
+        "landscape",
+        "sediment"
+    ],
+    "relationship": "These terms all describe features found on the surface of the Earth, often related to the movement of water and the shaping of land over long periods.",
+    "elapsed_time": 10.339844942092896,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "939f2984-d77e-4bde-94d5-c8049a362e0d",
+    "words": [
+        "solo",
+        "duo",
+        "trio",
+        "quartet",
+        "quintet"
+    ],
+    "relationship": "The first word is an activity where people come together to watch performances such as music or dance routines; this can be a solo act, duo performance, trio showcase, quartet display, or quintet presentation.",
+    "elapsed_time": 15.872947692871094,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

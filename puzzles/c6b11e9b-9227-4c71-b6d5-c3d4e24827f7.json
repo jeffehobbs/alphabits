@@ -1,0 +1,14 @@
+{
+    "uuid": "c6b11e9b-9227-4c71-b6d5-c3d4e24827f7",
+    "words": [
+        "conformal",
+        "parallel",
+        "natural",
+        "artificial",
+        "dividing"
+    ],
+    "relationship": "These terms all describe different types of boundaries found on maps.",
+    "elapsed_time": 11.594207286834717,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

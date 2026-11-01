@@ -1,0 +1,14 @@
+{
+    "uuid": "51fba2fe-9f41-4a3e-beef-45fddea71d9b",
+    "words": [
+        "Drawing",
+        "Painting",
+        "Sculpture",
+        "Illustration",
+        "Photography"
+    ],
+    "relationship": "The first two words describe an aspect of visual art that involves creating images or objects using various materials such as paint, clay, and pencil; these concepts can be transformed into physical forms through a specific process mentioned in one of the other related terms. The last three items further expand on this idea by referring to different types of imagery created during this transformation.",
+    "elapsed_time": 19.40258002281189,
+    "model": "phi3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c23f938f-2a97-4f00-8874-dec2fde5f677",
+    "words": [
+        "portrait",
+        "landscape",
+        "still life",
+        "abstract art",
+        "surrealism"
+    ],
+    "relationship": "These terms all describe different types of paintings.",
+    "elapsed_time": 15.971629619598389,
+    "model": "phi3:latest",
+    "topic": "art"
+}

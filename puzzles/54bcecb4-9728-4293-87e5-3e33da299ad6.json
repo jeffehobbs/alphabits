@@ -1,0 +1,14 @@
+{
+    "uuid": "54bcecb4-9728-4293-87e5-3e33da299ad6",
+    "words": [
+        "pass",
+        "kick",
+        "shoot",
+        "dribble",
+        "tackle"
+    ],
+    "relationship": "These terms describe actions performed to advance a ball across a playing field, often with the goal of scoring points. They all involve physical exertion and strategic movement.",
+    "elapsed_time": 25.511987447738647,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "59754c95-2a8a-4b93-b6b9-5468acd54c89",
+    "words": [
+        "rhythm",
+        "melody",
+        "harmony",
+        "phrase",
+        "tempo"
+    ],
+    "relationship": "The following terms all describe aspects of how sound is organized in time. They relate to the structure and arrangement of musical phrases and how they build upon each other.",
+    "elapsed_time": 22.163073778152466,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

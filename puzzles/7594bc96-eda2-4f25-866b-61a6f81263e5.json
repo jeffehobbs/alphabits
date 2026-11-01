@@ -1,0 +1,14 @@
+{
+    "uuid": "7594bc96-eda2-4f25-866b-61a6f81263e5",
+    "words": [
+        "Imperialism",
+        "Colonialism",
+        "Empires",
+        "Patriarchy",
+        "Hegemony"
+    ],
+    "relationship": "Roman Empire influenced the development of",
+    "elapsed_time": 7.87137770652771,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

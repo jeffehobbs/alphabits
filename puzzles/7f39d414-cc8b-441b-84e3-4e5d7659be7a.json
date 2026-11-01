@@ -1,0 +1,14 @@
+{
+    "uuid": "7f39d414-cc8b-441b-84e3-4e5d7659be7a",
+    "words": [
+        "Revolution",
+        "Emperor",
+        "Rebellion",
+        "Dynasty",
+        "Conquest"
+    ],
+    "relationship": "These terms all describe significant shifts in power and control within a society, often triggered by conflict or upheaval, and ultimately shaping the course of events.",
+    "elapsed_time": 14.128834962844849,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

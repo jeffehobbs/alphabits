@@ -1,0 +1,14 @@
+{
+    "uuid": "f5be40ab-c60f-4a2c-ae59-326bc0e848d4",
+    "words": [
+        "guitar",
+        "solo",
+        "skill",
+        "performance",
+        "precision"
+    ],
+    "relationship": "A guitarist's skill level influences their ability to perform complex solos with precision.",
+    "elapsed_time": 12.07572317123413,
+    "model": "phi3:latest",
+    "topic": "music"
+}

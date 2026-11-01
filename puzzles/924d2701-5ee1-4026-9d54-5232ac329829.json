@@ -1,0 +1,14 @@
+{
+    "uuid": "924d2701-5ee1-4026-9d54-5232ac329829",
+    "words": [
+        "rhythm",
+        "melody",
+        "harmony",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "The following terms all describe aspects of how sound is organized and structured over time. They relate to the arrangement of musical elements to create a cohesive and intentional flow.",
+    "elapsed_time": 17.51179599761963,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

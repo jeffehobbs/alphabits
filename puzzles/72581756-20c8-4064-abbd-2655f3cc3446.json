@@ -1,0 +1,14 @@
+{
+    "uuid": "72581756-20c8-4064-abbd-2655f3cc3446",
+    "words": [
+        "Invasion",
+        "Resistance",
+        "War",
+        "Oppression",
+        "Revolution"
+    ],
+    "relationship": "a connection between people or groups who have shared a common experience or struggle over time",
+    "elapsed_time": 11.912488460540771,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

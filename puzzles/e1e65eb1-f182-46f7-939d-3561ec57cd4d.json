@@ -1,0 +1,14 @@
+{
+    "uuid": "e1e65eb1-f182-46f7-939d-3561ec57cd4d",
+    "words": [
+        "cell",
+        "molecule",
+        "element",
+        "rock",
+        "star"
+    ],
+    "relationship": "biology, chemistry, physics, geology, astronomy",
+    "elapsed_time": 6.97270941734314,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

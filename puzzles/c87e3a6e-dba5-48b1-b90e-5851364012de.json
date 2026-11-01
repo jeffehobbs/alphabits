@@ -1,0 +1,14 @@
+{
+    "uuid": "c87e3a6e-dba5-48b1-b90e-5851364012de",
+    "words": [
+        "wind",
+        "rain",
+        "clouds",
+        "sun",
+        "temperature"
+    ],
+    "relationship": "The words all describe aspects of the Earth's atmosphere and weather patterns.",
+    "elapsed_time": 19.510961055755615,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c68ee117-9816-41c7-9ccd-aeb091bc5e70",
+    "words": [
+        "Plateau",
+        "Mountain",
+        "Hill",
+        "Valley",
+        "Canyon"
+    ],
+    "relationship": "These geographical features are typically found near the surface of the Earth.",
+    "elapsed_time": 7.487381458282471,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

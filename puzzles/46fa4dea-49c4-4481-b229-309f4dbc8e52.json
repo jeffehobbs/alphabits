@@ -1,0 +1,14 @@
+{
+    "uuid": "46fa4dea-49c4-4481-b229-309f4dbc8e52",
+    "words": [
+        "guitar",
+        "violin",
+        "drums",
+        "piano",
+        "harmony"
+    ],
+    "relationship": "instruments are often played by musicians who compose the melodies",
+    "elapsed_time": 8.790873289108276,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

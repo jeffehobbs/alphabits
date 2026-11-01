@@ -1,0 +1,14 @@
+{
+    "uuid": "1d0f0941-fe65-4c1a-8050-b0c76b1de0ec",
+    "words": [
+        "Roman Empire",
+        "Middle Ages",
+        "Industrial Revolution",
+        "Feudalism",
+        "Capitalism"
+    ],
+    "relationship": "Influence of past events on future societies",
+    "elapsed_time": 7.847268342971802,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

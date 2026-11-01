@@ -1,0 +1,14 @@
+{
+    "uuid": "88277836-2e49-444e-ba58-40bef907ac14",
+    "words": [
+        "mass",
+        "weight",
+        "force",
+        "acceleration",
+        "Newton"
+    ],
+    "relationship": "These are all scientific terms used for different types of measurements.",
+    "elapsed_time": 11.26144289970398,
+    "model": "phi3:latest",
+    "topic": "science"
+}

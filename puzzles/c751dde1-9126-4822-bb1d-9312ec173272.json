@@ -1,0 +1,14 @@
+{
+    "uuid": "c751dde1-9126-4822-bb1d-9312ec173272",
+    "words": [
+        "lake",
+        "river",
+        "ocean",
+        "bay",
+        "delta"
+    ],
+    "relationship": "These five geographical terms are all associated with bodies of water.",
+    "elapsed_time": 7.33778190612793,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

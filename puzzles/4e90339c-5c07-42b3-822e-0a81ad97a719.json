@@ -1,0 +1,14 @@
+{
+    "uuid": "4e90339c-5c07-42b3-822e-0a81ad97a719",
+    "words": [
+        "urbanization",
+        "deforestation",
+        "agriculture",
+        "migration",
+        "pollution"
+    ],
+    "relationship": "These concepts all describe different ways humans interact with and modify the natural world, often leading to both benefits and negative consequences.",
+    "elapsed_time": 13.745267868041992,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

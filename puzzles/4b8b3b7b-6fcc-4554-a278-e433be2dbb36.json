@@ -1,0 +1,14 @@
+{
+    "uuid": "4b8b3b7b-6fcc-4554-a278-e433be2dbb36",
+    "words": [
+        "igneous",
+        "sedimentary",
+        "metamorphic",
+        "fossil",
+        "mineral"
+    ],
+    "relationship": "All these 5 words are types of rocks.",
+    "elapsed_time": 8.168318748474121,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

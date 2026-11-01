@@ -1,0 +1,14 @@
+{
+    "uuid": "8d03a2f5-dd79-40f7-a81a-9ee82dc6217f",
+    "words": [
+        "curiosity",
+        "experimentation",
+        "research",
+        "innovation",
+        "discovery"
+    ],
+    "relationship": "'scientific discovery' leads to 'technological advancement', which requires extensive research conducted by scientists using experiments as a method of investigation, and this process is driven by an innate human curiosity about understanding natural phenomena.",
+    "elapsed_time": 19.890127420425415,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "1b3adc24-46ba-4a09-99dc-39a7daed39b4",
+    "words": [
+        "script",
+        "performance",
+        "audience",
+        "narrative",
+        "adaptation"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story, from its initial creation to how it's received and enjoyed by an audience.",
+    "elapsed_time": 9.149545669555664,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

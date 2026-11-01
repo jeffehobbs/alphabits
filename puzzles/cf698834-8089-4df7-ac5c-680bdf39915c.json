@@ -1,0 +1,14 @@
+{
+    "uuid": "cf698834-8089-4df7-ac5c-680bdf39915c",
+    "words": [
+        "pharaoh",
+        "Egyptian",
+        "Rosetta Stone",
+        "Alexandria",
+        "Hieroglyphics"
+    ],
+    "relationship": "These historical terms are all related to ancient civilizations that had significant impacts on modern society.",
+    "elapsed_time": 16.804545164108276,
+    "model": "phi3:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "100c3238-7f52-4eba-be07-d6a95c8bd7e0",
+    "words": [
+        "plot",
+        "theme",
+        "narrative",
+        "imagery",
+        "style"
+    ],
+    "relationship": "These terms all describe aspects of a story's construction and impact on a reader's experience. One focuses on the deliberate arrangement of events, another on the emotional response a piece evokes, a third on the underlying meaning, a fourth on the imaginative world created, and the final one on the artful use of language to bring it to life.",
+    "elapsed_time": 20.297632455825806,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

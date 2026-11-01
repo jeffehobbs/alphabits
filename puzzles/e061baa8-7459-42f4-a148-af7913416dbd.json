@@ -1,0 +1,14 @@
+{
+    "uuid": "e061baa8-7459-42f4-a148-af7913416dbd",
+    "words": [
+        "Ferns",
+        "Mosses",
+        "Algae",
+        "Lichens",
+        "Coral"
+    ],
+    "relationship": "These 5 natural elements are often found together in certain ecosystems",
+    "elapsed_time": 8.309186220169067,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

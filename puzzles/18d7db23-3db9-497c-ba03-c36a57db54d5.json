@@ -1,0 +1,14 @@
+{
+    "uuid": "18d7db23-3db9-497c-ba03-c36a57db54d5",
+    "words": [
+        "Empire",
+        "Conquest",
+        "Expansion",
+        "Legitimacy",
+        "Administration"
+    ],
+    "relationship": "These terms all describe significant events or periods that led to the rise of a powerful nation and its subsequent dominance over a large area, often involving conquest, expansion, and the establishment of a centralized government.",
+    "elapsed_time": 18.739624738693237,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

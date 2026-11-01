@@ -1,0 +1,14 @@
+{
+    "uuid": "97a99826-0bea-4d77-bcc1-dca8b4991a5c",
+    "words": [
+        "Plot",
+        "Character",
+        "Theme",
+        "Setting",
+        "Dialogue"
+    ],
+    "relationship": "These terms all describe different aspects of the creative process involved in crafting a compelling narrative, from the initial concept to the final polished version.",
+    "elapsed_time": 15.567884683609009,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

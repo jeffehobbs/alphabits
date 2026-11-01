@@ -1,0 +1,14 @@
+{
+    "uuid": "9a22b612-ff8b-4f9f-82b9-304465758d0a",
+    "words": [
+        "Basketball",
+        "Football",
+        "Soccer",
+        "Hockey",
+        "Baseball"
+    ],
+    "relationship": "Team",
+    "elapsed_time": 6.888193845748901,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

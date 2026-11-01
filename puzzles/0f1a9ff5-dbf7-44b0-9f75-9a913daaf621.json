@@ -1,0 +1,14 @@
+{
+    "uuid": "0f1a9ff5-dbf7-44b0-9f75-9a913daaf621",
+    "words": [
+        "script",
+        "production",
+        "screenplay",
+        "director",
+        "film"
+    ],
+    "relationship": "These terms all describe different aspects of bringing a story to life on a screen, from the initial planning to the final presentation to the audience.",
+    "elapsed_time": 12.338994264602661,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

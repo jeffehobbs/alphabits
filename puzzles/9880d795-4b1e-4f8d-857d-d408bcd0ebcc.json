@@ -1,0 +1,14 @@
+{
+    "uuid": "9880d795-4b1e-4f8d-857d-d408bcd0ebcc",
+    "words": [
+        "pass",
+        "kick",
+        "shoot",
+        "dribble",
+        "tackle"
+    ],
+    "relationship": "These terms describe actions performed by athletes to advance a ball across a playing field, often involving physical exertion and strategic positioning.",
+    "elapsed_time": 20.308602333068848,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "695219f8-9a57-4739-9c60-8405fad8a6ab",
+    "words": [
+        "conquest",
+        "empire",
+        "trade",
+        "religion",
+        "architecture"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large empires, often involving conquest, expansion, and the spread of culture and governance.",
+    "elapsed_time": 21.079549551010132,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fdd24504-a38b-4dc0-9822-48913ef99d25",
+    "words": [
+        "beat",
+        "chords",
+        "notes",
+        "melody",
+        "song"
+    ],
+    "relationship": "A rhythm leads into harmonies which blend together to create melodies that flow through a composition.",
+    "elapsed_time": 12.256601333618164,
+    "model": "phi3:latest",
+    "topic": "music"
+}

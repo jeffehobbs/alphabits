@@ -1,0 +1,14 @@
+{
+    "uuid": "30a9f70d-a676-42a0-bbda-be04c0faa2b8",
+    "words": [
+        "texture",
+        "color",
+        "composition",
+        "perspective",
+        "light"
+    ],
+    "relationship": "The words are all concepts frequently explored and utilized by creators to evoke emotion and meaning in their work. They often involve manipulating visual elements to create a desired effect on the viewer.",
+    "elapsed_time": 21.4122474193573,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "777e1363-e6e4-4663-a1fd-22f80f5b5b2f",
+    "words": [
+        "Tennis",
+        "Golf",
+        "Cycling",
+        "Rugby",
+        "Soccer"
+    ],
+    "relationship": "They are all forms of competition where two or more people engage in physical activity to achieve a common goal, often with an emphasis on individual performance and winning.",
+    "elapsed_time": 9.769761085510254,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

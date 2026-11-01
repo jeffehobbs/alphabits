@@ -1,0 +1,14 @@
+{
+    "uuid": "7e65a93f-2f38-4091-958d-6b143824a264",
+    "words": [
+        "country",
+        "culture",
+        "language",
+        "history",
+        "values"
+    ],
+    "relationship": "A country is a political entity which usually consists of multiple regions or provinces that share common cultural traits such as language, history and values.",
+    "elapsed_time": 12.238667249679565,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

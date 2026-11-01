@@ -1,0 +1,14 @@
+{
+    "uuid": "87f6171c-8dfa-4704-a295-b1d760af0dfd",
+    "words": [
+        "Painter",
+        "Sculptor",
+        "Illustrator",
+        "Musician",
+        "Dancer"
+    ],
+    "relationship": "Artists often collaborate on projects to create unique pieces of art that incorporate different styles.",
+    "elapsed_time": 16.005823612213135,
+    "model": "phi3:latest",
+    "topic": "art"
+}

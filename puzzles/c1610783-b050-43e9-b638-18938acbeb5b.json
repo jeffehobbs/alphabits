@@ -1,0 +1,14 @@
+{
+    "uuid": "c1610783-b050-43e9-b638-18938acbeb5b",
+    "words": [
+        "narrative",
+        "storytelling",
+        "fiction",
+        "non-fiction",
+        "plot development"
+    ],
+    "relationship": "(1) A narrative form of writing (2) that tells a story or depicts life experiences through characters, dialogue and settings; these are often created with purpose to entertain or provide insight into human nature (3) which can be further categorized as either fictional tales crafted from the imagination or non-fictional accounts based on real events. Both types of narratives require skillful writing techniques for effective communication and connection with readers, including aspects such as plot development, characterization, point of view, tone, style etc.(4) The study of these written works involves understanding their structure (5) which includes elements like opening/closing chapters or stanzas in poetry; the way a story unfolds through events that are arranged to create interest and suspense. An effective narrative often employs literary devices such as foreshadowing, symbolism etc.(6) Some works of literature also contain recurring themes (7), which can reflect on universal human experiences or societal issues; these may be explored through various lenses like moral dilemmma, love and loss, power dynamics. A well-crafted narrative not only entertains but offers valuable insights into the complexities of life.",
+    "elapsed_time": 49.76823091506958,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

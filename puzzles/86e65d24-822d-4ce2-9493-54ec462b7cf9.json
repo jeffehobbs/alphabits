@@ -1,0 +1,14 @@
+{
+    "uuid": "86e65d24-822d-4ce2-9493-54ec462b7cf9",
+    "words": [
+        "team",
+        "player",
+        "coach",
+        "competition",
+        "victory"
+    ],
+    "relationship": "team, player, coach, competition, victory",
+    "elapsed_time": 6.617839097976685,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

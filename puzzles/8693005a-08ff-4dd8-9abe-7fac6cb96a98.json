@@ -1,0 +1,14 @@
+{
+    "uuid": "8693005a-08ff-4dd8-9abe-7fac6cb96a98",
+    "words": [
+        "concert",
+        "festival",
+        "comedy show",
+        "musical performance",
+        "theater"
+    ],
+    "relationship": "These terms all represent aspects of live performances or events that bring people together for enjoyment.",
+    "elapsed_time": 11.943191051483154,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fd977385-e69c-4b9b-ad6c-2c588f5d07ad",
+    "words": [
+        "atom",
+        "molecule",
+        "element",
+        "chemical",
+        "matter"
+    ],
+    "relationship": "These concepts are all involved in understanding the composition and behavior of matter, particularly at a fundamental level. They describe different aspects of how things are made up and how they interact.",
+    "elapsed_time": 26.537874937057495,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "605cd36d-06da-422f-8a47-82746ade5d0a",
+    "words": [
+        "theatre",
+        "cinema",
+        "concert",
+        "broadcast",
+        "immersive"
+    ],
+    "relationship": "These terms all describe different ways people consume stories \u2013 from experiencing a live performance to watching a recorded version, and the feeling of being deeply immersed within that experience.",
+    "elapsed_time": 12.80921483039856,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

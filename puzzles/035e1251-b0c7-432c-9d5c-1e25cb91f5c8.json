@@ -1,0 +1,14 @@
+{
+    "uuid": "035e1251-b0c7-432c-9d5c-1e25cb91f5c8",
+    "words": [
+        "atom",
+        "molecule",
+        "crystal",
+        "lattice",
+        "structure"
+    ],
+    "relationship": "These five words are connected through their study of the structure of matter.",
+    "elapsed_time": 7.848583221435547,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "aa172ec8-81a3-4b8f-8d1a-4131d2585a50",
+    "words": [
+        "football",
+        "soccer",
+        "team",
+        "player",
+        "opposition"
+    ],
+    "relationship": "A player on one team competes against another from opposing teams",
+    "elapsed_time": 15.939203023910522,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

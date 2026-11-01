@@ -1,0 +1,14 @@
+{
+    "uuid": "423529d6-7707-4b5c-b69c-d2b8998d2bdd",
+    "words": [
+        "delta",
+        "bay",
+        "coastline",
+        "river",
+        "delta"
+    ],
+    "relationship": "river delta bay coastline",
+    "elapsed_time": 7.508702993392944,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

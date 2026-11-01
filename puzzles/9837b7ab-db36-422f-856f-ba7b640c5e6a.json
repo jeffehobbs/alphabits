@@ -1,0 +1,14 @@
+{
+    "uuid": "9837b7ab-db36-422f-856f-ba7b640c5e6a",
+    "words": [
+        "monarchy",
+        "empire",
+        "conquest",
+        "dynasty",
+        "legacy"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of powerful societies, often involving conflict, expansion, and the development of complex systems of governance and culture. They frequently appear in narratives about empires and civilizations.",
+    "elapsed_time": 17.448647260665894,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "569d7f9e-dc2d-49e1-99fc-4fcace8ad89a",
+    "words": [
+        "drama",
+        "comedy",
+        "music",
+        "theater",
+        "cinema"
+    ],
+    "relationship": "The words all describe ways people can be amused or captivated, often involving performance or storytelling, and frequently enjoyed in a public setting.",
+    "elapsed_time": 26.918111324310303,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

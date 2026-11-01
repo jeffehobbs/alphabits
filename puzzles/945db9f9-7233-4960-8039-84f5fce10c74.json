@@ -1,0 +1,14 @@
+{
+    "uuid": "945db9f9-7233-4960-8039-84f5fce10c74",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "positioning",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a game where a team strives to score points by successfully maneuvering a ball past an opponent's defense, often involving strategic positioning and skillful execution.",
+    "elapsed_time": 13.295243501663208,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

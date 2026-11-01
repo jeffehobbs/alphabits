@@ -1,0 +1,14 @@
+{
+    "uuid": "e2346231-2200-4c22-a86d-f39e630a22eb",
+    "words": [
+        "tree",
+        "air",
+        "mushroom",
+        "butterfly",
+        "flower"
+    ],
+    "relationship": "a type of plant that provides oxygen, which is essential for human survival; a source of food for animals, and a key component in many ecosystems.",
+    "elapsed_time": 9.65304970741272,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

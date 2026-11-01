@@ -1,0 +1,14 @@
+{
+    "uuid": "2cad5a73-b8c3-4ade-a55f-4e4b483fe395",
+    "words": [
+        "Guitar",
+        "Harmony",
+        "Symphony",
+        "Sonata",
+        "Concerto"
+    ],
+    "relationship": "Instrument \u2192 Sound \u2192 Melody \u2192 Composition \u2192 Performance",
+    "elapsed_time": 7.420893907546997,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4c1c5baf-b13e-41f8-a3cf-7b967c4f9407",
+    "words": [
+        "atom",
+        "particle",
+        "element",
+        "force",
+        "matter"
+    ],
+    "relationship": "These concepts are all involved in understanding the fundamental building blocks of matter and how they interact to create everything around us. They describe the smallest particles and the forces that govern their behavior, and how these particles combine to form different substances.",
+    "elapsed_time": 26.573946237564087,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

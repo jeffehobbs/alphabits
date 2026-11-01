@@ -1,0 +1,14 @@
+{
+    "uuid": "0a3ac21b-f225-4d9e-a8ff-a8281309200a",
+    "words": [
+        "Funk",
+        "Soul",
+        "R&B",
+        "Jazz",
+        "Hip-Hop"
+    ],
+    "relationship": "They are all part of a musical genre.",
+    "elapsed_time": 4.722140073776245,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

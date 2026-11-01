@@ -1,0 +1,14 @@
+{
+    "uuid": "85faf5ce-6583-44b8-9fd1-44b39ad10cc3",
+    "words": [
+        "French Revolution",
+        "American Revolution",
+        "Industrial Revolution",
+        "Cultural Revolution",
+        "Russian Revolution"
+    ],
+    "relationship": "These events led to major societal changes which eventually resulted in revolutions.",
+    "elapsed_time": 15.25969123840332,
+    "model": "phi3:latest",
+    "topic": "history"
+}

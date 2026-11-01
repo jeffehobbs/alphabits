@@ -1,0 +1,14 @@
+{
+    "uuid": "02e2bf48-244a-4567-9a64-d1efc9784a8d",
+    "words": [
+        "geology",
+        "plate tectonics",
+        "volcano",
+        "earthquake",
+        "mountain"
+    ],
+    "relationship": "These five words are all concepts related to the study of the Earth's surface features.",
+    "elapsed_time": 8.522675275802612,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

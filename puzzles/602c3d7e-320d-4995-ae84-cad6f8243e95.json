@@ -1,0 +1,14 @@
+{
+    "uuid": "602c3d7e-320d-4995-ae84-cad6f8243e95",
+    "words": [
+        "producers",
+        "studios",
+        "theaters",
+        "networks",
+        "advertisers"
+    ],
+    "relationship": "production, distribution, exhibition, licensing, monetization",
+    "elapsed_time": 6.992720603942871,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

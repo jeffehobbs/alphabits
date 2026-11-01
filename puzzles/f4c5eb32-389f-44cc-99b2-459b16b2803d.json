@@ -1,0 +1,14 @@
+{
+    "uuid": "f4c5eb32-389f-44cc-99b2-459b16b2803d",
+    "words": [
+        "Sumerian",
+        "Cuneiform",
+        "Babylonian",
+        "Assyrian",
+        "Akkadian"
+    ],
+    "relationship": "One is a form of writing used by ancient civilizations to record events, while another refers to the study of these written records.",
+    "elapsed_time": 9.930514335632324,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

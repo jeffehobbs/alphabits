@@ -1,0 +1,14 @@
+{
+    "uuid": "f519f9f6-d3fe-451f-9344-433d2dd79f97",
+    "words": [
+        "Formation",
+        "Strategy",
+        "Tactics",
+        "Coordination",
+        "Execution"
+    ],
+    "relationship": "These terms all describe aspects of a team's performance and strategic advantage, focusing on how effectively players work together to achieve a winning outcome.",
+    "elapsed_time": 15.825659990310669,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

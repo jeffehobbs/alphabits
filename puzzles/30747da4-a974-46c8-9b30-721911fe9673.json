@@ -1,0 +1,14 @@
+{
+    "uuid": "30747da4-a974-46c8-9b30-721911fe9673",
+    "words": [
+        "Evolution",
+        "Mutation",
+        "Genetics",
+        "DNA",
+        "Heritability"
+    ],
+    "relationship": "They are all connected through a process of change or transformation.",
+    "elapsed_time": 5.978246212005615,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

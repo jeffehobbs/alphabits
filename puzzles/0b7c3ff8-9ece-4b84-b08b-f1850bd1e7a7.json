@@ -1,0 +1,14 @@
+{
+    "uuid": "0b7c3ff8-9ece-4b84-b08b-f1850bd1e7a7",
+    "words": [
+        "metals",
+        "silicones",
+        "plastics",
+        "ceramics",
+        "concretes"
+    ],
+    "relationship": "These words are all types of materials.",
+    "elapsed_time": 4.666781425476074,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

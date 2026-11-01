@@ -1,0 +1,13 @@
+{
+    "uuid": "b4db167e-3e74-472d-9dd6-26ffc8b0afd1",
+    "words": [
+        "pitch",
+        "rhythm",
+        "tempo",
+        "chord progression"
+    ],
+    "relationship": "(melody) flows through (harmony), giving life to a piece of music.",
+    "elapsed_time": 18.24022388458252,
+    "model": "phi3:latest",
+    "topic": "music"
+}

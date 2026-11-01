@@ -1,0 +1,14 @@
+{
+    "uuid": "8344c2aa-51ec-43e4-83c5-44ed3da04c8e",
+    "words": [
+        "Stage",
+        "Audience",
+        "Performance",
+        "Lights",
+        "Enthusiasm"
+    ],
+    "relationship": "These terms all describe aspects of a live performance, particularly focusing on the audience's experience and the performer's skill in captivating them.",
+    "elapsed_time": 13.77861475944519,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

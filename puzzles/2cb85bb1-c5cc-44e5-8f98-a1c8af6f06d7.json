@@ -1,0 +1,14 @@
+{
+    "uuid": "2cb85bb1-c5cc-44e5-8f98-a1c8af6f06d7",
+    "words": [
+        "ecosystem",
+        "biodiversity",
+        "conservation",
+        "habitat",
+        "sustainability"
+    ],
+    "relationship": "These words are connected by their association with the natural world.",
+    "elapsed_time": 7.369044303894043,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

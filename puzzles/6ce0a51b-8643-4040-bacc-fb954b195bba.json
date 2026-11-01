@@ -1,0 +1,14 @@
+{
+    "uuid": "6ce0a51b-8643-4040-bacc-fb954b195bba",
+    "words": [
+        "observation",
+        "experimentation",
+        "hypothesis formulation",
+        "data analysis",
+        "conclusion drawing"
+    ],
+    "relationship": "The following are interconnected concepts or elements within science: observation, experimentation, hypothesis formulation, data analysis, conclusion drawing.",
+    "elapsed_time": 16.016858100891113,
+    "model": "phi3:latest",
+    "topic": "science"
+}

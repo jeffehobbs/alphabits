@@ -1,0 +1,14 @@
+{
+    "uuid": "40b3ff71-0502-4ef9-915e-a555e9edebe4",
+    "words": [
+        "theater",
+        "concerts",
+        "music",
+        "TV",
+        "shows"
+    ],
+    "relationship": "movies TV shows concerts music theater",
+    "elapsed_time": 6.285353422164917,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

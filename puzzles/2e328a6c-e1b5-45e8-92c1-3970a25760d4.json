@@ -1,0 +1,14 @@
+{
+    "uuid": "2e328a6c-e1b5-45e8-92c1-3970a25760d4",
+    "words": [
+        "erosion",
+        "deposition",
+        "glacier",
+        "valley",
+        "delta"
+    ],
+    "relationship": "These terms all describe different aspects of how landforms are shaped and altered over time, primarily through the actions of water and ice.",
+    "elapsed_time": 12.904224157333374,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

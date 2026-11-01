@@ -1,0 +1,14 @@
+{
+    "uuid": "a6d5f113-12ea-41b6-942a-2ac90dcda91f",
+    "words": [
+        "mountain",
+        "river",
+        "source",
+        "melting",
+        "water"
+    ],
+    "relationship": "A river's source is often found high up on mountains where water originates from melting snow or ice.",
+    "elapsed_time": 11.770220756530762,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

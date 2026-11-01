@@ -1,0 +1,14 @@
+{
+    "uuid": "51cfcd70-fde8-48f8-a588-a6605f5598f0",
+    "words": [
+        "perspective",
+        "shadow",
+        "chiaroscuro",
+        "vanishing point",
+        "modeling"
+    ],
+    "relationship": "The following terms describe techniques used to create illusions of depth and space on a flat surface, often employed to make a scene appear more realistic or expansive.",
+    "elapsed_time": 21.750309467315674,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

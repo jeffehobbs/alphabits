@@ -1,0 +1,14 @@
+{
+    "uuid": "0adc2db3-591c-4928-b0fd-f09ae4c232ff",
+    "words": [
+        "forest",
+        "water",
+        "sunlight",
+        "soil",
+        "atmosphere"
+    ],
+    "relationship": "These concepts are all interconnected aspects of the Earth's life-sustaining systems. One is essential for the growth of many living things, another is a vital source of sustenance, a third is a crucial element in the cycle of existence, a fourth is a habitat for countless species, and the last is a fundamental force shaping the planet's climate and environment.",
+    "elapsed_time": 28.831133127212524,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

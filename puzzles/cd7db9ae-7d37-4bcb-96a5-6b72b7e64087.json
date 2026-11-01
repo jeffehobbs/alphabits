@@ -1,0 +1,14 @@
+{
+    "uuid": "cd7db9ae-7d37-4bcb-96a5-6b72b7e64087",
+    "words": [
+        "theater",
+        "music",
+        "comedy",
+        "cinema",
+        "performance"
+    ],
+    "relationship": "The following words are all commonly found in venues where people gather to be amused or captivated. They often describe aspects of the experience, the performers, or the atmosphere.",
+    "elapsed_time": 19.544227838516235,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

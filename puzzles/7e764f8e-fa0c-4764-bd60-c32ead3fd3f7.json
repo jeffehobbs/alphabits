@@ -1,0 +1,14 @@
+{
+    "uuid": "7e764f8e-fa0c-4764-bd60-c32ead3fd3f7",
+    "words": [
+        "tree",
+        "leaf",
+        "branch",
+        "root",
+        "soil"
+    ],
+    "relationship": "These 5 natural elements are often found together in an ecosystem.",
+    "elapsed_time": 11.377704620361328,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

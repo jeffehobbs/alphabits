@@ -1,0 +1,14 @@
+{
+    "uuid": "2f19da2e-ba3d-4d0a-8fc7-d45a0e81619f",
+    "words": [
+        "color",
+        "painting",
+        "artist",
+        "canvas",
+        "sketch"
+    ],
+    "relationship": "style",
+    "elapsed_time": 7.670485734939575,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c576a0c5-31d6-46f5-91d2-ff02276d2893",
+    "words": [
+        "research",
+        "hypothesis",
+        "experiment",
+        "variables",
+        "data"
+    ],
+    "relationship": "Scientific research relies on experimentation to test hypotheses.",
+    "elapsed_time": 10.63776707649231,
+    "model": "phi3:latest",
+    "topic": "science"
+}

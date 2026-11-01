@@ -1,0 +1,14 @@
+{
+    "uuid": "697aefdf-467d-4d7f-9c27-98f8b5e29856",
+    "words": [
+        "Plein air",
+        "Impressionism",
+        "Landscape painting",
+        "Outdoor drawing",
+        "Sketching outdoors"
+    ],
+    "relationship": "They are all forms of creative expression.",
+    "elapsed_time": 7.443301439285278,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

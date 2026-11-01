@@ -1,0 +1,14 @@
+{
+    "uuid": "cbe45909-270f-4e3f-9982-02c7be4f90ad",
+    "words": [
+        "erosion",
+        "weathering",
+        "landscape",
+        "geomorphology",
+        "altitudinal"
+    ],
+    "relationship": "These terms all describe aspects of how landforms are shaped and changed over long periods, primarily due to natural processes like erosion and weathering.",
+    "elapsed_time": 13.445022583007812,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

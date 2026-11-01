@@ -1,0 +1,14 @@
+{
+    "uuid": "945f6936-0c9d-4ccc-a389-59b00bc23c5a",
+    "words": [
+        "theatre",
+        "music",
+        "dance",
+        "film",
+        "comedian"
+    ],
+    "relationship": "[Entertainment] is an industry where various forms of [performances], such as acting or singing, are showcased to a live audience for enjoyment and amusement.",
+    "elapsed_time": 18.004743814468384,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

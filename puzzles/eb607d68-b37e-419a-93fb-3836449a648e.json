@@ -1,0 +1,14 @@
+{
+    "uuid": "eb607d68-b37e-419a-93fb-3836449a648e",
+    "words": [
+        "movie",
+        "play",
+        "book",
+        "song",
+        "game"
+    ],
+    "relationship": "They are all things people pay money for.",
+    "elapsed_time": 6.353235244750977,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

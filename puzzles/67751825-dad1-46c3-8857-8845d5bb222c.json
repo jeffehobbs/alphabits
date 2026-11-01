@@ -1,0 +1,14 @@
+{
+    "uuid": "67751825-dad1-46c3-8857-8845d5bb222c",
+    "words": [
+        "pass",
+        "score",
+        "defend",
+        "rebound",
+        "assist"
+    ],
+    "relationship": "These actions are commonly performed by athletes during a game to achieve a positive outcome.",
+    "elapsed_time": 22.523662328720093,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

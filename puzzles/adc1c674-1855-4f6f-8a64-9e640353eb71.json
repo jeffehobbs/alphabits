@@ -1,0 +1,14 @@
+{
+    "uuid": "adc1c674-1855-4f6f-8a64-9e640353eb71",
+    "words": [
+        "shot",
+        "block",
+        "dunk",
+        "rebound",
+        "free throw"
+    ],
+    "relationship": "All of these words are closely associated with the sport of basketball.",
+    "elapsed_time": 8.513189554214478,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

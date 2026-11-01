@@ -1,0 +1,14 @@
+{
+    "uuid": "7c85f5bd-9467-4e5f-83d3-8324948dbe3d",
+    "words": [
+        "hypothesis",
+        "experiment",
+        "data",
+        "analysis",
+        "theory"
+    ],
+    "relationship": "These terms all describe the process of observing and documenting the natural world through careful measurement and analysis, often seeking to understand underlying causes and patterns.",
+    "elapsed_time": 12.888294458389282,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

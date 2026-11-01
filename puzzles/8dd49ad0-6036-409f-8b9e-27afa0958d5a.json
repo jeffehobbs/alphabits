@@ -1,0 +1,14 @@
+{
+    "uuid": "8dd49ad0-6036-409f-8b9e-27afa0958d5a",
+    "words": [
+        "map",
+        "satellite",
+        "elevation",
+        "contour",
+        "projection"
+    ],
+    "relationship": "These concepts all describe different ways to represent and understand the Earth's surface, from detailed visual depictions to simplified symbolic models.",
+    "elapsed_time": 13.02394413948059,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

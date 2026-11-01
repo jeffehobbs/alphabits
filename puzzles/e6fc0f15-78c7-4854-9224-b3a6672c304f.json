@@ -1,0 +1,14 @@
+{
+    "uuid": "e6fc0f15-78c7-4854-9224-b3a6672c304f",
+    "words": [
+        "complementary",
+        "analogous",
+        "monochromatic",
+        "tetradic",
+        "triadic"
+    ],
+    "relationship": "A group of colors used together harmoniously to create an aesthetically pleasing effect.",
+    "elapsed_time": 15.899714946746826,
+    "model": "phi3:latest",
+    "topic": "art"
+}

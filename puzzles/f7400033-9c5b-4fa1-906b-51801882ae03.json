@@ -1,0 +1,14 @@
+{
+    "uuid": "f7400033-9c5b-4fa1-906b-51801882ae03",
+    "words": [
+        "band",
+        "gig",
+        "club",
+        "concert",
+        "show"
+    ],
+    "relationship": "group, performance, venue, audience, stage",
+    "elapsed_time": 6.693937301635742,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

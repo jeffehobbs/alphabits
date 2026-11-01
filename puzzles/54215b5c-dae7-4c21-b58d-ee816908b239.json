@@ -1,0 +1,14 @@
+{
+    "uuid": "54215b5c-dae7-4c21-b58d-ee816908b239",
+    "words": [
+        "Strategy",
+        "Tactics",
+        "Execution",
+        "Performance",
+        "Outcome"
+    ],
+    "relationship": "These terms all describe aspects of a competitive event where athletes strive to achieve the highest score or position through skillful execution and strategic decision-making, often under pressure and with a significant element of chance.",
+    "elapsed_time": 18.77504849433899,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

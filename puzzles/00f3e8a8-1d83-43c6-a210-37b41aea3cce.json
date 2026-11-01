@@ -1,0 +1,14 @@
+{
+    "uuid": "00f3e8a8-1d83-43c6-a210-37b41aea3cce",
+    "words": [
+        "Impressionism",
+        "Victorian",
+        "Oil painting",
+        "Monet",
+        "Realism"
+    ],
+    "relationship": "Art movement, Period style, Medium, Artist's skill, Technique",
+    "elapsed_time": 8.126295804977417,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

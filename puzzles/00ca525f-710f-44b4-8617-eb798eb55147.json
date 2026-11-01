@@ -1,0 +1,14 @@
+{
+    "uuid": "00ca525f-710f-44b4-8617-eb798eb55147",
+    "words": [
+        "Goalkeeper",
+        "Defender",
+        "Midfielder",
+        "Striker",
+        "Winger"
+    ],
+    "relationship": "Team",
+    "elapsed_time": 12.536978006362915,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

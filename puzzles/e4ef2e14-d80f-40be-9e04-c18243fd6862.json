@@ -1,0 +1,14 @@
+{
+    "uuid": "e4ef2e14-d80f-40be-9e04-c18243fd6862",
+    "words": [
+        "entertainment",
+        "amusement park experience",
+        "socializing time",
+        "shared laughter moments",
+        "emotional bonding"
+    ],
+    "relationship": "'entertaining' activities often lead to 'fun-filled' experiences which can then result in heartfelt connections with friends and family, ultimately fostering a sense of belonging.",
+    "elapsed_time": 16.036020040512085,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

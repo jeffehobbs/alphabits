@@ -1,0 +1,14 @@
+{
+    "uuid": "7d6f20fb-063c-44a2-bb34-56c6aa52c79a",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "These terms all describe aspects of creating a pleasing sound experience. They relate to the organization of sounds in time, the structure of a piece, and the way those sounds are perceived.",
+    "elapsed_time": 14.58591628074646,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

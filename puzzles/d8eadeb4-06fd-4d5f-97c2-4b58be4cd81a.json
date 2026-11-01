@@ -1,0 +1,14 @@
+{
+    "uuid": "d8eadeb4-06fd-4d5f-97c2-4b58be4cd81a",
+    "words": [
+        "photosynthesis",
+        "chlorophyll",
+        "leaves",
+        "stem",
+        "roots"
+    ],
+    "relationship": "These terms describe the process of a plant growing taller and stronger, utilizing sunlight and water to develop its roots and ultimately reach for the sky.",
+    "elapsed_time": 13.765056371688843,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

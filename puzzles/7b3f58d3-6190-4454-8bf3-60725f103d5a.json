@@ -1,0 +1,13 @@
+{
+    "uuid": "7b3f58d3-6190-4454-8bf3-60725f103d5a",
+    "words": [
+        "piano keyboard",
+        "guitar strings",
+        "violin bow",
+        "drumstick"
+    ],
+    "relationship": "{The first four terms are all types of musical instruments used to create sound or produce music. The last term is a common characteristic shared by these instruments.}",
+    "elapsed_time": 13.156095266342163,
+    "model": "phi3:latest",
+    "topic": "music"
+}

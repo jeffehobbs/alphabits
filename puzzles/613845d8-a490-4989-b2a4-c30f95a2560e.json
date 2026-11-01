@@ -1,0 +1,14 @@
+{
+    "uuid": "613845d8-a490-4989-b2a4-c30f95a2560e",
+    "words": [
+        "Palette",
+        "Brush",
+        "Canvas",
+        "Paint",
+        "Colors"
+    ],
+    "relationship": "The first word is something you find on a canvas.",
+    "elapsed_time": 7.548596143722534,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

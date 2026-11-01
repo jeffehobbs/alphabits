@@ -1,0 +1,14 @@
+{
+    "uuid": "b2e1297d-78f9-4af6-84c5-c5feb8310a94",
+    "words": [
+        "river",
+        "stream",
+        "waterway",
+        "estuary",
+        "gulf"
+    ],
+    "relationship": "A river flows into an ocean",
+    "elapsed_time": 10.095800638198853,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b9be8788-0918-4d8e-ba19-44a718498c8a",
+    "words": [
+        "Fiction",
+        "Imagination",
+        "Character",
+        "Plot",
+        "Setting"
+    ],
+    "relationship": "fiction, imagination, character, plot, setting",
+    "elapsed_time": 7.984139680862427,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

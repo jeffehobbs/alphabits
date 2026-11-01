@@ -1,0 +1,14 @@
+{
+    "uuid": "fdcb03b6-7791-467e-a93a-45c657214815",
+    "words": [
+        "Narrative",
+        "Imagery",
+        "Plot",
+        "Style",
+        "Theme"
+    ],
+    "relationship": "These terms all describe elements that contribute to the immersive experience a reader has while engaging with a story. One focuses on the structure and organization of the narrative, another on the emotional impact, a third on the imaginative world created, a fourth on the deliberate crafting of language, and the last on the overall artistic merit and significance of the work.",
+    "elapsed_time": 21.70098042488098,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

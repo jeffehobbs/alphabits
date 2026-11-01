@@ -1,0 +1,14 @@
+{
+    "uuid": "1b537434-98e8-42c7-9a38-6cf15e9ddbd5",
+    "words": [
+        "agriculture",
+        "irrigation",
+        "crops",
+        "farming",
+        "soil"
+    ],
+    "relationship": "These concepts all describe different ways humans interact with and utilize the natural world for sustenance and survival.",
+    "elapsed_time": 19.27351403236389,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

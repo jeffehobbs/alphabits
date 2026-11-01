@@ -1,0 +1,14 @@
+{
+    "uuid": "c5417ce6-30ab-44ed-a95e-e661eb67b9d8",
+    "words": [
+        "Revolution",
+        "Reform",
+        "Uprising",
+        "Regime",
+        "Resistance"
+    ],
+    "relationship": "These terms describe the process of a significant shift in power and control, often involving the overthrow of an existing order and the establishment of a new one, frequently driven by popular discontent and leading to considerable social and political upheaval.",
+    "elapsed_time": 15.405177354812622,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

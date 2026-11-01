@@ -1,0 +1,14 @@
+{
+    "uuid": "ee728da8-092c-4662-884b-52e387600d73",
+    "words": [
+        "piano",
+        "song",
+        "record",
+        "band",
+        "jazz"
+    ],
+    "relationship": " instrument->song->album->artist->genre",
+    "elapsed_time": 6.6743927001953125,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

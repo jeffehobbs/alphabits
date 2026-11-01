@@ -1,0 +1,14 @@
+{
+    "uuid": "59e9d596-e82f-49e2-98df-909053650a52",
+    "words": [
+        "forest",
+        "tree",
+        "photosynthesis",
+        "moss",
+        "ecosystem"
+    ],
+    "relationship": "The first word is a type of environment where the second word can be found. The third word is a process that occurs naturally within this environment, which can affect the second word. The fourth word is a living thing that can thrive in or near the environment and undergo changes due to the process. The fifth word is a result of the natural changes that occur over time.",
+    "elapsed_time": 13.561192035675049,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

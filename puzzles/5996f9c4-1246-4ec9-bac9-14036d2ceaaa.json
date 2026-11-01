@@ -1,0 +1,14 @@
+{
+    "uuid": "5996f9c4-1246-4ec9-bac9-14036d2ceaaa",
+    "words": [
+        "valley",
+        "delta",
+        "meander",
+        "alluvial",
+        "terrace"
+    ],
+    "relationship": "These terms all describe features of landforms shaped by the natural processes of water erosion and sediment deposition, specifically how flowing water gradually alters the surface over long periods.",
+    "elapsed_time": 14.624583005905151,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

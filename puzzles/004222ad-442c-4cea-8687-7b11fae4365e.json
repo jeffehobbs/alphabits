@@ -1,0 +1,14 @@
+{
+    "uuid": "004222ad-442c-4cea-8687-7b11fae4365e",
+    "words": [
+        "species",
+        "phylum",
+        "class",
+        "order",
+        "family"
+    ],
+    "relationship": "In biology, organisms are classified into taxonomic categories based on their shared characteristics.",
+    "elapsed_time": 10.993829011917114,
+    "model": "phi3:latest",
+    "topic": "science"
+}

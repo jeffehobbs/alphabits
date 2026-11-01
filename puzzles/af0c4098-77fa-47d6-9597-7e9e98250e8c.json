@@ -1,0 +1,12 @@
+{
+    "uuid": "af0c4098-77fa-47d6-9597-7e9e98250e8c",
+    "words": [
+        "Jazz",
+        "Blues",
+        "Folk Music"
+    ],
+    "relationship": "A genre of music is often inspired by its cultural background.",
+    "elapsed_time": 5.765016794204712,
+    "model": "phi3:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a72b5fa2-3079-4ac6-96c2-4c90111d39de",
+    "words": [
+        "actor",
+        "stage",
+        "audience",
+        "drama",
+        "performance"
+    ],
+    "relationship": "The following words are all commonly associated with live performances where a skilled individual captivates an audience with skillful actions and vocal expression, often involving storytelling or dramatic narratives.",
+    "elapsed_time": 20.5553879737854,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

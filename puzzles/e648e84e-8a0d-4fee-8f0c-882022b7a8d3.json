@@ -1,0 +1,14 @@
+{
+    "uuid": "e648e84e-8a0d-4fee-8f0c-882022b7a8d3",
+    "words": [
+        "character",
+        "setting",
+        "theme",
+        "symbolism",
+        "narrative"
+    ],
+    "relationship": "Literature often provides insight into society's values and beliefs through its characters, settings, themes, symbols, and narrative styles.",
+    "elapsed_time": 12.31331467628479,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

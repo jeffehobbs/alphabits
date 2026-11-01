@@ -1,0 +1,14 @@
+{
+    "uuid": "abda1fb4-d616-4b48-9056-f2196817f54b",
+    "words": [
+        "tree",
+        "plant",
+        "flower",
+        "bee",
+        "butterfly"
+    ],
+    "relationship": "all are living organisms found on land",
+    "elapsed_time": 6.962340593338013,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

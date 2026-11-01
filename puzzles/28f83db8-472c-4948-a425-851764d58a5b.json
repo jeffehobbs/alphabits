@@ -1,0 +1,14 @@
+{
+    "uuid": "28f83db8-472c-4948-a425-851764d58a5b",
+    "words": [
+        "Painting",
+        "Drawing",
+        "Sculpture",
+        "Printmaking",
+        "Photography"
+    ],
+    "relationship": "They are all mediums used to create visual artworks.",
+    "elapsed_time": 7.068170070648193,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

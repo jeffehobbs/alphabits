@@ -1,0 +1,14 @@
+{
+    "uuid": "fbed79ad-5989-4294-bd05-553a0714a554",
+    "words": [
+        "plot",
+        "suspense",
+        "character",
+        "resolution",
+        "theme"
+    ],
+    "relationship": "These terms all describe different stages or aspects of experiencing a captivating story, from initial interest to deep engagement and lasting recollection.",
+    "elapsed_time": 12.992424964904785,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

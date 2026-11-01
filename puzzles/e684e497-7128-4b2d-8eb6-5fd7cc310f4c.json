@@ -1,0 +1,14 @@
+{
+    "uuid": "e684e497-7128-4b2d-8eb6-5fd7cc310f4c",
+    "words": [
+        "poetry",
+        "novel",
+        "memoir",
+        "biography",
+        "essay"
+    ],
+    "relationship": "The first word represents different genres of writing which can be categorized into fiction or non-fiction",
+    "elapsed_time": 14.105325698852539,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c9bfbb48-2d3a-47d5-a78a-26dff73ce69b",
+    "words": [
+        "Caesar",
+        "Napoleon",
+        "Mussolini",
+        "Marie Antoinette",
+        "Alexander the Great"
+    ],
+    "relationship": "A collection of things that are connected by time",
+    "elapsed_time": 8.748642444610596,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

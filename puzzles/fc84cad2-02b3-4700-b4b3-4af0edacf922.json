@@ -1,0 +1,14 @@
+{
+    "uuid": "fc84cad2-02b3-4700-b4b3-4af0edacf922",
+    "words": [
+        "fungi",
+        "soil",
+        "decay",
+        "bacteria",
+        "roots"
+    ],
+    "relationship": "These terms all describe processes involved in the gradual transformation of organic material back into the earth, driven by decomposition and microbial activity.",
+    "elapsed_time": 13.409489154815674,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "61c44445-4c29-4cb0-be5e-de156ef9d113",
+    "words": [
+        "tree",
+        "deer",
+        "photosynthesis",
+        "moss",
+        "rain"
+    ],
+    "relationship": "The words all describe elements found in a forest ecosystem and often interact with each other. One is a plant, one is an animal that feeds on plants, one is a process that helps the plant grow, one is a natural substance that provides shelter and sustenance, and one is a weather phenomenon that impacts the entire environment.",
+    "elapsed_time": 26.868897438049316,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

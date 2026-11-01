@@ -1,0 +1,14 @@
+{
+    "uuid": "03593ced-41cc-4008-b688-527f1eebdc8c",
+    "words": [
+        "hip hop",
+        "rap",
+        "breakbeat",
+        "trance",
+        "downtempo"
+    ],
+    "relationship": "a genre of music characterized by strong emphasis on rhythm",
+    "elapsed_time": 7.463488578796387,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

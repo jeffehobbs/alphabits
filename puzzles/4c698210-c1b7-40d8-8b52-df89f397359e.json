@@ -1,0 +1,14 @@
+{
+    "uuid": "4c698210-c1b7-40d8-8b52-df89f397359e",
+    "words": [
+        "perspective",
+        "shading",
+        "chiaroscuro",
+        "linear",
+        "atmospheric"
+    ],
+    "relationship": "The words are all techniques used to create illusions of depth and space on a flat surface, often employed to make something appear three-dimensional.",
+    "elapsed_time": 20.526830434799194,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

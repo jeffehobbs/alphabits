@@ -1,0 +1,14 @@
+{
+    "uuid": "8d86a850-ba86-43b8-898c-bd8c0bba430d",
+    "words": [
+        "concert",
+        "music festival",
+        "ticket sales",
+        "artists' fee",
+        "merchandise"
+    ],
+    "relationship": "Festival attracts audience for music performance",
+    "elapsed_time": 16.701509714126587,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

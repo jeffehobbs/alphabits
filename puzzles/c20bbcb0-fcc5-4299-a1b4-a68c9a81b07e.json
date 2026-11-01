@@ -1,0 +1,14 @@
+{
+    "uuid": "c20bbcb0-fcc5-4299-a1b4-a68c9a81b07e",
+    "words": [
+        "seed",
+        "sunlight",
+        "water",
+        "roots",
+        "sprout"
+    ],
+    "relationship": "The words are all connected to the process of growth and development in the plant kingdom. They describe stages, elements, or conditions that are essential for a plant to flourish.",
+    "elapsed_time": 15.460358619689941,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

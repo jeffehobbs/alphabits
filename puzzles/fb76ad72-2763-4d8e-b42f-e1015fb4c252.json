@@ -1,0 +1,13 @@
+{
+    "uuid": "fb76ad72-2763-4d8e-b42f-e1015fb4c252",
+    "words": [
+        "fire",
+        "nutrition",
+        "society",
+        "prehistoric times"
+    ],
+    "relationship": "The discovery of fire by early humans allowed them to cook food, which led to better nutrition and ultimately contributed to the development of complex societies.",
+    "elapsed_time": 16.07301354408264,
+    "model": "phi3:latest",
+    "topic": "history"
+}

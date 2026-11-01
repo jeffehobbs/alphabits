@@ -1,0 +1,14 @@
+{
+    "uuid": "28975972-c7a5-4cf1-bad2-47ae672a93ca",
+    "words": [
+        "narrative",
+        "conflict",
+        "character",
+        "theme",
+        "symbolism"
+    ],
+    "relationship": "These concepts are often explored by writers to depict internal struggles and complex character development, frequently involving moral dilemmas and the exploration of human nature.",
+    "elapsed_time": 14.339869022369385,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

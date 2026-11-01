@@ -1,0 +1,14 @@
+{
+    "uuid": "90e283d7-3a4e-4a9c-b36c-1ac4f205cf02",
+    "words": [
+        "French Revolution",
+        "World War I",
+        "Russian Revolution",
+        "Industrialization",
+        "Rise of Democracy"
+    ],
+    "relationship": "These historical events led directly to significant changes in political systems worldwide.",
+    "elapsed_time": 12.040729999542236,
+    "model": "phi3:latest",
+    "topic": "history"
+}

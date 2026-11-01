@@ -1,0 +1,14 @@
+{
+    "uuid": "6330567e-3a7b-4a4a-87ac-616078291667",
+    "words": [
+        "primary sources",
+        "analysis",
+        "interpretation",
+        "narrative",
+        "consequences"
+    ],
+    "relationship": "These terms all describe the process of studying the past, often focusing on significant events and the actions of individuals within those events. One examines primary sources to understand motivations, analyze the consequences of decisions, and reconstruct a narrative of what occurred, ultimately seeking to learn from what came before.",
+    "elapsed_time": 18.10974884033203,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

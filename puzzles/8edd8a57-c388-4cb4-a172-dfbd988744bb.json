@@ -1,0 +1,14 @@
+{
+    "uuid": "8edd8a57-c388-4cb4-a172-dfbd988744bb",
+    "words": [
+        "omen",
+        "shadow",
+        "mystery",
+        "premonition",
+        "foreshadowing"
+    ],
+    "relationship": "These concepts often appear in stories to create tension, suspense, or a sense of foreboding, frequently hinting at something hidden or dangerous.",
+    "elapsed_time": 151.17236948013306,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

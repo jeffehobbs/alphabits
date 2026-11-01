@@ -1,0 +1,12 @@
+{
+    "uuid": "4483213f-25ba-4e33-a160-99bf78f3b533",
+    "words": [
+        "training",
+        "performance",
+        "basketball"
+    ],
+    "relationship": "A basketball player's performance is influenced by their training regimen.",
+    "elapsed_time": 13.207022905349731,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

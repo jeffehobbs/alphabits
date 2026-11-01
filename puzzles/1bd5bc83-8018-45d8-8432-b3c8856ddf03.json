@@ -1,0 +1,13 @@
+{
+    "uuid": "1bd5bc83-8018-45d8-8432-b3c8856ddf03",
+    "words": [
+        "experiment",
+        "hypothesis",
+        "observation",
+        "conclusion"
+    ],
+    "relationship": "The scientific method is used as an approach to discover new knowledge about natural phenomena.",
+    "elapsed_time": 15.722394704818726,
+    "model": "phi3:latest",
+    "topic": "science"
+}

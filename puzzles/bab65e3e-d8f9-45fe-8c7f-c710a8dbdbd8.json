@@ -1,0 +1,14 @@
+{
+    "uuid": "bab65e3e-d8f9-45fe-8c7f-c710a8dbdbd8",
+    "words": [
+        "strategy",
+        "determination",
+        "skill",
+        "teamwork",
+        "endurance"
+    ],
+    "relationship": "The words all describe actions or qualities associated with achieving victory in a competitive activity.",
+    "elapsed_time": 12.16081690788269,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

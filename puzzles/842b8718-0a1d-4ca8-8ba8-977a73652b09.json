@@ -1,0 +1,14 @@
+{
+    "uuid": "842b8718-0a1d-4ca8-8ba8-977a73652b09",
+    "words": [
+        "telescope",
+        "experiment",
+        "observation",
+        "data",
+        "measurement"
+    ],
+    "relationship": "The process of observing and measuring physical phenomena often involves using tools to gather data and draw conclusions about the natural world.",
+    "elapsed_time": 23.795199394226074,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

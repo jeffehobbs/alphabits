@@ -1,0 +1,14 @@
+{
+    "uuid": "346644ed-8050-440d-ac85-9e41ae38321d",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "instrumentation"
+    ],
+    "relationship": "The words all describe aspects of creating a sound that is organized and pleasing to the ear, often involving patterns and structures.",
+    "elapsed_time": 24.710872173309326,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

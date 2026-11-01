@@ -1,0 +1,14 @@
+{
+    "uuid": "66078ba7-6b9b-49d4-8bdd-ca7e3cde2b84",
+    "words": [
+        "World War I",
+        "Battle of Gettysburg",
+        "Roman Empire collapse",
+        "French Revolution",
+        "Siege of Leningrad"
+    ],
+    "relationship": "These historical events are all examples of how societies have evolved over time through warfare.",
+    "elapsed_time": 16.611645221710205,
+    "model": "phi3:latest",
+    "topic": "history"
+}

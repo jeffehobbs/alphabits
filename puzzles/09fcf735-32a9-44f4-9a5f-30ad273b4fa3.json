@@ -1,0 +1,14 @@
+{
+    "uuid": "09fcf735-32a9-44f4-9a5f-30ad273b4fa3",
+    "words": [
+        "instrument",
+        "melody",
+        "harmony",
+        "rhythm",
+        "dynamics"
+    ],
+    "relationship": "These terms are all involved or related to creating sound through instruments.",
+    "elapsed_time": 11.476116180419922,
+    "model": "phi3:latest",
+    "topic": "music"
+}

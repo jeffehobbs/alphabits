@@ -1,0 +1,14 @@
+{
+    "uuid": "6b0b02f4-8a46-4c9b-919e-0b1f8c6860b5",
+    "words": [
+        "basketball",
+        "football",
+        "tennis",
+        "volleyball",
+        "swimming"
+    ],
+    "relationship": "A team of players compete against another team to score points.",
+    "elapsed_time": 11.229276418685913,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

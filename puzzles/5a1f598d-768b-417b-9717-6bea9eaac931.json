@@ -1,0 +1,14 @@
+{
+    "uuid": "5a1f598d-768b-417b-9717-6bea9eaac931",
+    "words": [
+        "archaeology",
+        "artifacts",
+        "interpretation",
+        "evidence",
+        "chronology"
+    ],
+    "relationship": "These terms all describe the process of uncovering and interpreting the past, often involving analyzing artifacts, documents, and accounts from different eras to understand events and their significance.",
+    "elapsed_time": 14.170112609863281,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

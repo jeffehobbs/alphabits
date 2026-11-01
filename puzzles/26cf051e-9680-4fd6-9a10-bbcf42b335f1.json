@@ -1,0 +1,13 @@
+{
+    "uuid": "26cf051e-9680-4fd6-9a10-bbcf42b335f1",
+    "words": [
+        "movie",
+        "concert",
+        "book",
+        "music"
+    ],
+    "relationship": "In this group of five words related to entertainment, they represent different aspects or forms of it.",
+    "elapsed_time": 14.56971526145935,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

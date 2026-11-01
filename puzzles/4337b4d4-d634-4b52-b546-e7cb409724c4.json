@@ -1,0 +1,14 @@
+{
+    "uuid": "4337b4d4-d634-4b52-b546-e7cb409724c4",
+    "words": [
+        "empire",
+        "religion",
+        "monarchy",
+        "trade",
+        "architecture"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of powerful societies, often involving conquest, governance, and the lasting impact on culture and belief systems.",
+    "elapsed_time": 10.203484535217285,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

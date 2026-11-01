@@ -1,0 +1,14 @@
+{
+    "uuid": "765f66bd-1fb8-419a-8dee-0cd0ff7bf39d",
+    "words": [
+        "anticipation",
+        "engagement",
+        "impact",
+        "nostalgia",
+        "reminiscence"
+    ],
+    "relationship": "These terms all describe different stages or aspects of experiencing a performance or creative work \u2013 from initial excitement and anticipation, through the active engagement during the event itself, to the lingering emotional impact and memories afterwards.",
+    "elapsed_time": 15.41266942024231,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

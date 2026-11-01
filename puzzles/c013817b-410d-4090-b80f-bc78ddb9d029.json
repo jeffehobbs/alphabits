@@ -1,0 +1,14 @@
+{
+    "uuid": "c013817b-410d-4090-b80f-bc78ddb9d029",
+    "words": [
+        "latitude",
+        "longitude",
+        "map",
+        "coordinate",
+        "grid"
+    ],
+    "relationship": "These concepts are all interconnected and describe how locations on the Earth's surface are identified and understood. They form a system for pinpointing places and describing their position relative to one another.",
+    "elapsed_time": 16.16677737236023,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

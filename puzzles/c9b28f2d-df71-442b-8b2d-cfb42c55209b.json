@@ -1,0 +1,14 @@
+{
+    "uuid": "c9b28f2d-df71-442b-8b2d-cfb42c55209b",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "volume",
+        "timbre"
+    ],
+    "relationship": "These concepts are all aspects of creating a pleasing auditory experience. One involves arranging sounds in time, another is the structure of those arrangements, a third is the quality of the sounds themselves, a fourth is how those sounds are amplified, and the last is the overall feeling evoked by the combination of all of these elements.",
+    "elapsed_time": 20.780394792556763,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

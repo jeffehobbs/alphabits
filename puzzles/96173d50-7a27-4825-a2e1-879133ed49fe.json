@@ -1,0 +1,14 @@
+{
+    "uuid": "96173d50-7a27-4825-a2e1-879133ed49fe",
+    "words": [
+        "river",
+        "lake",
+        "ocean",
+        "sea",
+        "bay"
+    ],
+    "relationship": "adjacent",
+    "elapsed_time": 6.833502769470215,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

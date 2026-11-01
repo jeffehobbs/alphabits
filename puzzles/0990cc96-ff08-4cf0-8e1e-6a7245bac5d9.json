@@ -1,0 +1,14 @@
+{
+    "uuid": "0990cc96-ff08-4cf0-8e1e-6a7245bac5d9",
+    "words": [
+        "drama",
+        "narrative",
+        "performance",
+        "audience",
+        "theatre"
+    ],
+    "relationship": "The words all describe aspects of creating and presenting compelling stories to an audience, often involving performance and captivating attention.",
+    "elapsed_time": 13.362268686294556,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

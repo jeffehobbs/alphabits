@@ -1,0 +1,13 @@
+{
+    "uuid": "28ecc57b-8de7-46da-aa7d-f8dee21b2149",
+    "words": [
+        "line",
+        "contour drawing",
+        "charcoal",
+        "pencil"
+    ],
+    "relationship": "The first word represents an element of design while the second word describes a technique used to create artwork using this element, and the last three words are types of media that can be manipulated in different ways.",
+    "elapsed_time": 17.69744062423706,
+    "model": "phi3:latest",
+    "topic": "art"
+}

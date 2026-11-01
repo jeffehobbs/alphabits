@@ -1,0 +1,14 @@
+{
+    "uuid": "dd157408-015f-43f5-97be-1cc9ceac361f",
+    "words": [
+        "plot",
+        "character",
+        "setting",
+        "theme",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear together when discussing storytelling and the crafting of narratives. They are fundamental elements that contribute to a compelling and meaningful piece of writing.",
+    "elapsed_time": 20.504290103912354,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

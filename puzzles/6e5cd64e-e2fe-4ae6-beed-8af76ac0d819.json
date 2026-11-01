@@ -1,0 +1,14 @@
+{
+    "uuid": "6e5cd64e-e2fe-4ae6-beed-8af76ac0d819",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "possession",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a competition where a team attempts to gain possession of an object and move it across a designated area, with the goal of scoring points. One player might be responsible for controlling the object, while others focus on defending it or strategically positioning themselves to support their teammate\u2019s efforts.",
+    "elapsed_time": 20.397300481796265,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

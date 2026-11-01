@@ -1,0 +1,11 @@
+{
+    "uuid": "efc02a20-f001-454f-bfd1-437371e9a344",
+    "words": [
+        "continent",
+        "ocean"
+    ],
+    "relationship": "The first term represents an area of land while the second is its water body.",
+    "elapsed_time": 13.152029514312744,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "676068b4-0658-4c2e-9e47-026c9c8033eb",
+    "words": [
+        "forest",
+        "sunlight",
+        "water",
+        "plants",
+        "animals"
+    ],
+    "relationship": "These concepts are all interconnected aspects of a thriving ecosystem. One provides sustenance for the others, while another helps maintain balance.  The final one is essential for the continuation of life.",
+    "elapsed_time": 21.805413961410522,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

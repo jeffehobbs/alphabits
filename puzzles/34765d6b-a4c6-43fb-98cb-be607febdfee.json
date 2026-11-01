@@ -1,0 +1,14 @@
+{
+    "uuid": "34765d6b-a4c6-43fb-98cb-be607febdfee",
+    "words": [
+        "trees",
+        "sunlight",
+        "soil",
+        "water",
+        "plants"
+    ],
+    "relationship": "These terms all describe elements found in a forest ecosystem and are interconnected through the flow of energy and nutrients.",
+    "elapsed_time": 13.9854576587677,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

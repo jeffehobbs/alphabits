@@ -1,0 +1,14 @@
+{
+    "uuid": "57ca0528-9064-4b9f-bac2-b9dd3f4be8d3",
+    "words": [
+        "author",
+        "novelist",
+        "genre",
+        "plot",
+        "narrative"
+    ],
+    "relationship": "The first word is often written by the second, who may or may not be influenced by the third to create a new work that explores the fourth theme, while trying to convey the fifth message.",
+    "elapsed_time": 9.86875319480896,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

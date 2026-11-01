@@ -1,0 +1,14 @@
+{
+    "uuid": "b89c2266-1056-4503-b243-e51576c2bd87",
+    "words": [
+        "script",
+        "narrative",
+        "plot",
+        "character",
+        "emotion"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story or performance, from the initial investment of time and attention to the emotional impact and lasting memories created.",
+    "elapsed_time": 12.761869192123413,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

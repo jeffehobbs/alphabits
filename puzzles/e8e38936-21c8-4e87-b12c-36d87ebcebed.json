@@ -1,0 +1,14 @@
+{
+    "uuid": "e8e38936-21c8-4e87-b12c-36d87ebcebed",
+    "words": [
+        "pass",
+        "shoot",
+        "dribble",
+        "kick",
+        "throw"
+    ],
+    "relationship": "These terms all describe actions or movements performed by athletes during a game to advance the ball or gain a strategic advantage.",
+    "elapsed_time": 12.715670824050903,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "cfbf1fec-0724-4e5a-a02f-672d42e1d8ea",
+    "words": [
+        "Legion",
+        "Senate",
+        "Tribute",
+        "Expansion",
+        "Dynasty"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large empires and the ways they maintained power and control over vast territories. They often appear in discussions of political structures, military strategy, and societal organization.",
+    "elapsed_time": 15.7568199634552,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

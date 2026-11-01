@@ -1,0 +1,14 @@
+{
+    "uuid": "4ea48dd1-b025-4acd-9a21-a14a62138bd1",
+    "words": [
+        "novel",
+        "publishing",
+        "writing process",
+        "critique review",
+        "literary accolades"
+    ],
+    "relationship": "A writer's journey from writing stories to becoming an award-winning author.",
+    "elapsed_time": 14.931219339370728,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

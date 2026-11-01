@@ -1,0 +1,14 @@
+{
+    "uuid": "2f3be72c-efca-41e3-bcc7-14f3fc5938a7",
+    "words": [
+        "river",
+        "ocean",
+        "marine life",
+        "ecosystem",
+        "biodiversity"
+    ],
+    "relationship": "A river flows into an ocean which is home to marine life.",
+    "elapsed_time": 19.182713270187378,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

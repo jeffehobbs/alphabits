@@ -1,0 +1,14 @@
+{
+    "uuid": "46bff4f0-52f3-4be8-a028-91440a4b62f9",
+    "words": [
+        "reggae",
+        "jazz",
+        "blues",
+        "soul",
+        "hip hop"
+    ],
+    "relationship": "a genre of music characterized by its strong rhythmic emphasis on African or Afro-Caribbean influences",
+    "elapsed_time": 7.905520439147949,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ef2dd9f2-9dcb-4202-ac11-81dfb21e0f89",
+    "words": [
+        "American Revolution",
+        "French Revolution",
+        "Russian Revolution",
+        "Roman Empire Collapse",
+        "World War II"
+    ],
+    "relationship": "They all represent significant historical events or periods.",
+    "elapsed_time": 14.46378493309021,
+    "model": "phi3:latest",
+    "topic": "history"
+}

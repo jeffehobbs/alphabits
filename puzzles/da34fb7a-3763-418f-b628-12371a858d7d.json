@@ -1,0 +1,14 @@
+{
+    "uuid": "da34fb7a-3763-418f-b628-12371a858d7d",
+    "words": [
+        "Island",
+        "Bay",
+        "Lake",
+        "Fjord",
+        "Delta"
+    ],
+    "relationship": "Mountain ranges often create isolated bodies of water, which can then erode over time to form new landforms.",
+    "elapsed_time": 9.053813219070435,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

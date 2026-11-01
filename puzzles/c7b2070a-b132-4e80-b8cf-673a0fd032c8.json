@@ -1,0 +1,14 @@
+{
+    "uuid": "c7b2070a-b132-4e80-b8cf-673a0fd032c8",
+    "words": [
+        "seed",
+        "sprout",
+        "leaf",
+        "stem",
+        "root"
+    ],
+    "relationship": "These terms describe the process of growth and change within a living organism, from a tiny seed to a mature plant, influenced by sunlight and water.",
+    "elapsed_time": 14.06490182876587,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

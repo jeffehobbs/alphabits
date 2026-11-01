@@ -1,0 +1,14 @@
+{
+    "uuid": "fa8a3871-99a0-44ec-ba81-d3a67d7e9b3c",
+    "words": [
+        "script",
+        "actor",
+        "audience",
+        "performance",
+        "narrative"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating and immersive story, from the initial creation to the emotional impact on the audience.",
+    "elapsed_time": 13.33871841430664,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

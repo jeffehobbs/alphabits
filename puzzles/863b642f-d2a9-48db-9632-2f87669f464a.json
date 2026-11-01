@@ -1,0 +1,14 @@
+{
+    "uuid": "863b642f-d2a9-48db-9632-2f87669f464a",
+    "words": [
+        "erosion",
+        "valley",
+        "landscape",
+        "formation",
+        "relief"
+    ],
+    "relationship": "These terms all describe different aspects of how landforms are shaped by natural forces like water and wind over long periods of time.",
+    "elapsed_time": 11.799432039260864,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

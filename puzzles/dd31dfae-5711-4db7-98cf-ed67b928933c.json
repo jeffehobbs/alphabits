@@ -1,0 +1,14 @@
+{
+    "uuid": "dd31dfae-5711-4db7-98cf-ed67b928933c",
+    "words": [
+        "dynasty",
+        "conquest",
+        "infrastructure",
+        "propaganda",
+        "decline"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large empires and the power structures that governed them. They often appear in accounts of political maneuvering, military campaigns, and societal shifts.",
+    "elapsed_time": 15.805888414382935,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

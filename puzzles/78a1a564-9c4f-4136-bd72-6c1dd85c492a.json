@@ -1,0 +1,14 @@
+{
+    "uuid": "78a1a564-9c4f-4136-bd72-6c1dd85c492a",
+    "words": [
+        "dribble",
+        "pass",
+        "intercept",
+        "tackle",
+        "rebound"
+    ],
+    "relationship": "These terms all describe actions a player takes to gain possession of the ball from the opposing team.",
+    "elapsed_time": 19.620251178741455,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

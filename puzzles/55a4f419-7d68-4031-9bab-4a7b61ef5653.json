@@ -1,0 +1,14 @@
+{
+    "uuid": "55a4f419-7d68-4031-9bab-4a7b61ef5653",
+    "words": [
+        "teamwork",
+        "competition",
+        "training",
+        "performance",
+        "fans"
+    ],
+    "relationship": "a group of people who share common interests",
+    "elapsed_time": 10.116530179977417,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

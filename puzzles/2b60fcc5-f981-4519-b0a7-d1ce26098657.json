@@ -1,0 +1,14 @@
+{
+    "uuid": "2b60fcc5-f981-4519-b0a7-d1ce26098657",
+    "words": [
+        "river",
+        "stream",
+        "estuary",
+        "delta",
+        "ocean"
+    ],
+    "relationship": "These terms are all connected through their involvement in water movement on Earth's surface",
+    "elapsed_time": 16.046871185302734,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

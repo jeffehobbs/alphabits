@@ -1,0 +1,14 @@
+{
+    "uuid": "6df4883b-c6a4-4dc2-863b-6f73a674b2ca",
+    "words": [
+        "trees",
+        "soil",
+        "rain",
+        "sunlight",
+        "wildlife"
+    ],
+    "relationship": "These are all things that are found in forests and contribute to the health and balance of the ecosystem. They often work together in complex ways.",
+    "elapsed_time": 21.268641233444214,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

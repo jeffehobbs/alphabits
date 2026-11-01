@@ -1,0 +1,14 @@
+{
+    "uuid": "90bb0446-e15b-48fc-a621-c24e3ae7988a",
+    "words": [
+        "pitcher",
+        "batter",
+        "umpire",
+        "fielder",
+        "catcher"
+    ],
+    "relationship": "team",
+    "elapsed_time": 6.587925434112549,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

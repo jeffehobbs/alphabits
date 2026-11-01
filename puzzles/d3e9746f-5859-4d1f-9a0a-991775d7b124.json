@@ -1,0 +1,14 @@
+{
+    "uuid": "d3e9746f-5859-4d1f-9a0a-991775d7b124",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "etching",
+        "mosaic"
+    ],
+    "relationship": "The items in this list are all techniques used to create visual representations, often involving applying color or pigment to a surface. They can be employed to depict reality, express emotions, or explore abstract concepts.",
+    "elapsed_time": 21.65043330192566,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

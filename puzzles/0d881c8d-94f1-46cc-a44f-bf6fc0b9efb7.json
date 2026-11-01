@@ -1,0 +1,14 @@
+{
+    "uuid": "0d881c8d-94f1-46cc-a44f-bf6fc0b9efb7",
+    "words": [
+        "dynasty",
+        "empire",
+        "revolution",
+        "monarchy",
+        "legacy"
+    ],
+    "relationship": "These concepts often appear in narratives about power struggles and societal shifts, frequently involving conflict and transformation. They can describe the rise and fall of empires, the changing of social structures, and the legacies left behind.",
+    "elapsed_time": 16.454164266586304,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

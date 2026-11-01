@@ -1,0 +1,14 @@
+{
+    "uuid": "ba5592da-d50a-43c3-9859-366485ee24a5",
+    "words": [
+        "mutation",
+        "evolution",
+        "adaptation",
+        "variation",
+        "selection"
+    ],
+    "relationship": "These concepts all describe how things change over time, often involving patterns and predictable shifts based on underlying rules or forces.",
+    "elapsed_time": 13.78526782989502,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

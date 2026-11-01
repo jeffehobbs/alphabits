@@ -1,0 +1,14 @@
+{
+    "uuid": "2acc8915-9d54-47d8-8ffb-6f86a73bac50",
+    "words": [
+        "crystal",
+        "reaction",
+        "temperature",
+        "fossil",
+        "engine"
+    ],
+    "relationship": "The first word is an object that contains the second word; the second word is a process by which the third word occurs; the third word is a result of the fourth word's reaction with another substance; the fourth word is often found in nature and can be used as fuel for the fifth word.",
+    "elapsed_time": 9.607689142227173,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

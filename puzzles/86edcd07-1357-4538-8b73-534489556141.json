@@ -1,0 +1,14 @@
+{
+    "uuid": "86edcd07-1357-4538-8b73-534489556141",
+    "words": [
+        "drama",
+        "stage",
+        "audience",
+        "performance",
+        "theatre"
+    ],
+    "relationship": "The words all describe aspects of creating a spectacle for an audience, often involving performance and captivating attention.",
+    "elapsed_time": 20.077539205551147,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

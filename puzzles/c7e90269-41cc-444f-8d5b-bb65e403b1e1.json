@@ -1,0 +1,14 @@
+{
+    "uuid": "c7e90269-41cc-444f-8d5b-bb65e403b1e1",
+    "words": [
+        "screen",
+        "narrative",
+        "audience",
+        "immersive",
+        "experience"
+    ],
+    "relationship": "These terms all describe different ways people engage with stories and performances, often involving an audience experiencing a shared emotional response.",
+    "elapsed_time": 11.977726459503174,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

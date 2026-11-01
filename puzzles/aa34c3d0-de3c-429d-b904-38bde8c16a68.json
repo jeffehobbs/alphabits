@@ -1,0 +1,14 @@
+{
+    "uuid": "aa34c3d0-de3c-429d-b904-38bde8c16a68",
+    "words": [
+        "biology",
+        "ecology",
+        "zoology",
+        "botany",
+        "environmental science"
+    ],
+    "relationship": "The first four words represent different types of scientific disciplines that all study living organisms and their interactions with each other, while the fifth word represents a field that combines principles from these sciences to develop practical solutions for real-world problems.",
+    "elapsed_time": 14.831974029541016,
+    "model": "phi3:latest",
+    "topic": "science"
+}

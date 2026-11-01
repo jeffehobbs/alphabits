@@ -1,0 +1,14 @@
+{
+    "uuid": "c3b9569a-2958-48f0-8d6d-5496e3ce2a8a",
+    "words": [
+        "Mountain",
+        "Valley",
+        "River",
+        "Lake",
+        "Island"
+    ],
+    "relationship": "These 5 words are all types of natural features found on land.",
+    "elapsed_time": 7.938518047332764,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

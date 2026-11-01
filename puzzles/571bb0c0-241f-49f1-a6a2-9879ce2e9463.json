@@ -1,0 +1,14 @@
+{
+    "uuid": "571bb0c0-241f-49f1-a6a2-9879ce2e9463",
+    "words": [
+        "player",
+        "captain",
+        "coach",
+        "team",
+        "game"
+    ],
+    "relationship": "A team's performance is heavily influenced by their captain who leads on and off the field.",
+    "elapsed_time": 14.973140716552734,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

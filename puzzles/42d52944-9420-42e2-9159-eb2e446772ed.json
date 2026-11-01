@@ -1,0 +1,14 @@
+{
+    "uuid": "42d52944-9420-42e2-9159-eb2e446772ed",
+    "words": [
+        "Theme",
+        "Tone",
+        "Symbolism",
+        "Imagery",
+        "Mood"
+    ],
+    "relationship": "These terms all describe different ways a writer can deliberately shape the experience a reader has while engaging with a text, often focusing on the emotional impact and the reader\u2019s interpretation.",
+    "elapsed_time": 16.840006589889526,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7dd0b40e-2be0-423f-af5c-528a0d9b3563",
+    "words": [
+        "team",
+        "players",
+        "coach",
+        "strategy",
+        "scores"
+    ],
+    "relationship": "A team's performance affects its ranking.",
+    "elapsed_time": 6.808467626571655,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

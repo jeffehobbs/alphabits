@@ -1,0 +1,14 @@
+{
+    "uuid": "6eecc2f5-f162-48f9-aa32-62347bb3bf5a",
+    "words": [
+        "agility",
+        "balance",
+        "reaction",
+        "coordination",
+        "momentum"
+    ],
+    "relationship": "These terms all describe aspects of a competition where an athlete attempts to gain an advantage over their opponent through skillful movements and strategic positioning, ultimately aiming to achieve a higher score or position.",
+    "elapsed_time": 13.78512191772461,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

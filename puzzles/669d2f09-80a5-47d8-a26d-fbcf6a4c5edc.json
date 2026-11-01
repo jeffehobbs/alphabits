@@ -1,0 +1,14 @@
+{
+    "uuid": "669d2f09-80a5-47d8-a26d-fbcf6a4c5edc",
+    "words": [
+        "delta",
+        "estuary",
+        "mudflats",
+        "lagoon",
+        "bight"
+    ],
+    "relationship": "a place where two bodies of water meet",
+    "elapsed_time": 7.517012357711792,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

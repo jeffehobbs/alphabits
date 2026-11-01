@@ -1,0 +1,14 @@
+{
+    "uuid": "494c86a8-505f-4327-b223-6a2c2a776799",
+    "words": [
+        "note",
+        "pitch",
+        "melody",
+        "harmony",
+        "scale"
+    ],
+    "relationship": "A sequence of musical notes played together creates harmony",
+    "elapsed_time": 10.456559658050537,
+    "model": "phi3:latest",
+    "topic": "music"
+}

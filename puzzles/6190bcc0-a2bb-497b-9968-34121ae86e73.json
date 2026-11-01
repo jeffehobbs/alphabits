@@ -1,0 +1,14 @@
+{
+    "uuid": "6190bcc0-a2bb-497b-9968-34121ae86e73",
+    "words": [
+        "music",
+        "television",
+        "cinema",
+        "books",
+        "video games"
+    ],
+    "relationship": "These are all forms of media or activities that people often use for entertainment purposes.",
+    "elapsed_time": 10.997230052947998,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

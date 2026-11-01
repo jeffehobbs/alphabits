@@ -1,0 +1,13 @@
+{
+    "uuid": "d3de9745-8cb8-43c7-ad54-bcafacd06da9",
+    "words": [
+        "researcher",
+        "hypothesis",
+        "experimentation",
+        "data analysis"
+    ],
+    "relationship": "(The scientific method is used by scientists to understand natural phenomena.)",
+    "elapsed_time": 11.219434261322021,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0b0b502c-bd08-48a3-8eca-8949d6581980",
+    "words": [
+        "rhythm",
+        "melody",
+        "harmony",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "These concepts all describe aspects of how sound is organized and structured over time. They relate to the building blocks of musical composition and the way we perceive and experience rhythm and melody.",
+    "elapsed_time": 25.05809235572815,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

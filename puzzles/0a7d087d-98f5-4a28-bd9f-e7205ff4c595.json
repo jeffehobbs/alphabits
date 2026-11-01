@@ -1,0 +1,14 @@
+{
+    "uuid": "0a7d087d-98f5-4a28-bd9f-e7205ff4c595",
+    "words": [
+        "chord",
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo"
+    ],
+    "relationship": "These are all elements of musical composition.",
+    "elapsed_time": 10.27741265296936,
+    "model": "phi3:latest",
+    "topic": "music"
+}

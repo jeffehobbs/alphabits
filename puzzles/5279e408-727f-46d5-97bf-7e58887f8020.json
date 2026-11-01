@@ -1,0 +1,13 @@
+{
+    "uuid": "5279e408-727f-46d5-97bf-7e58887f8020",
+    "words": [
+        "D-Day",
+        "Battle of Stalingrad",
+        "Pearl Harbor attack",
+        "Atomic bombings on Hiroshima and Nagasaki"
+    ],
+    "relationship": "This group of historical events all occurred during World War II.",
+    "elapsed_time": 12.479511022567749,
+    "model": "phi3:latest",
+    "topic": "history"
+}

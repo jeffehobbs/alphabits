@@ -1,0 +1,14 @@
+{
+    "uuid": "3dc01838-9697-47a6-ad25-b6bc802d299a",
+    "words": [
+        "perspective",
+        "illusion",
+        "composition",
+        "sfumato",
+        "chiaroscuro"
+    ],
+    "relationship": "The words are all concepts or techniques used to create visual illusions or manipulate perception in artwork. They involve playing with light, form, and space to evoke feelings or create a desired effect.",
+    "elapsed_time": 16.423585653305054,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

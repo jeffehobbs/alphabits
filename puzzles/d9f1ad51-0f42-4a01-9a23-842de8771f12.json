@@ -1,0 +1,14 @@
+{
+    "uuid": "d9f1ad51-0f42-4a01-9a23-842de8771f12",
+    "words": [
+        "stage",
+        "audience",
+        "performance",
+        "laughter",
+        "theater"
+    ],
+    "relationship": "The words are all commonly found in venues where people gather to be amused or captivated. They describe aspects of the experience of attending such a place, from the performers to the audience's reaction.",
+    "elapsed_time": 28.33526849746704,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

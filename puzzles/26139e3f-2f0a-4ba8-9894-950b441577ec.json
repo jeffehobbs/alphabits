@@ -1,0 +1,14 @@
+{
+    "uuid": "26139e3f-2f0a-4ba8-9894-950b441577ec",
+    "words": [
+        "data",
+        "analysis",
+        "mathematics",
+        "patterns",
+        "predictions"
+    ],
+    "relationship": "The process of analyzing data to draw conclusions about the natural world often involves using mathematical techniques to identify patterns and make predictions.",
+    "elapsed_time": 16.976415157318115,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

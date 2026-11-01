@@ -1,0 +1,14 @@
+{
+    "uuid": "4df8f445-b2f6-4acb-9180-8a5f644f7e73",
+    "words": [
+        "erosion",
+        "deposition",
+        "weathering",
+        "landscape",
+        "valley"
+    ],
+    "relationship": "These terms all describe different aspects of how landforms are shaped over long periods by natural processes like water and wind.",
+    "elapsed_time": 12.493268728256226,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

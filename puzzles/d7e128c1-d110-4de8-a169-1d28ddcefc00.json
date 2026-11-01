@@ -1,0 +1,14 @@
+{
+    "uuid": "d7e128c1-d110-4de8-a169-1d28ddcefc00",
+    "words": [
+        "friends",
+        "adventure",
+        "amusement park",
+        "rides",
+        "tickets"
+    ],
+    "relationship": "Five friends decided to go on an amusement park adventure together",
+    "elapsed_time": 12.046690464019775,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

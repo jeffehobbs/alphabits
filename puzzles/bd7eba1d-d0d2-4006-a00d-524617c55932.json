@@ -1,0 +1,14 @@
+{
+    "uuid": "bd7eba1d-d0d2-4006-a00d-524617c55932",
+    "words": [
+        "rivers",
+        "salmon",
+        "trout",
+        "freshwater ecosystems",
+        "biodiverse habitats"
+    ],
+    "relationship": "The first word represents a physical feature of land that is often found near bodies of water where freshwater ecosystems thrive, while the second and third words relate to this habitat by indicating common types of fish species native to such an environment. The fourth word connects these three as it refers to regions or areas characterized by their rich biodiversity in aquatic life forms like those mentioned earlier.",
+    "elapsed_time": 19.2591552734375,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

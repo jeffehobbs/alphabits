@@ -1,0 +1,14 @@
+{
+    "uuid": "12d55a54-fad6-4ad1-865e-6e323128c7ef",
+    "words": [
+        "nuclear",
+        "thermal",
+        "solar",
+        "kinetic",
+        "potential"
+    ],
+    "relationship": "all are types of energy",
+    "elapsed_time": 11.431694984436035,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

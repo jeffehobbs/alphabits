@@ -1,0 +1,14 @@
+{
+    "uuid": "d6acfc06-aa37-4dba-ba85-103041d69789",
+    "words": [
+        "basketball",
+        "player",
+        "passing",
+        "teammate",
+        "layup"
+    ],
+    "relationship": "A basketball player passes the ball to his teammate for a layup.",
+    "elapsed_time": 13.709044694900513,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2fb280d2-588d-40bf-9522-5c198faf6c74",
+    "words": [
+        "script",
+        "narrative",
+        "character",
+        "plot",
+        "setting"
+    ],
+    "relationship": "These terms all describe different aspects of creating and experiencing stories, particularly those designed to evoke emotion and transport an audience to another world.",
+    "elapsed_time": 11.780819654464722,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4207bdc3-4018-46d0-95bb-f26ef815dbc7",
+    "words": [
+        "shoot",
+        "pass",
+        "dribble",
+        "kick",
+        "throw"
+    ],
+    "relationship": "These are all actions performed by athletes during a competition to advance their team or personal score.",
+    "elapsed_time": 12.215281009674072,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

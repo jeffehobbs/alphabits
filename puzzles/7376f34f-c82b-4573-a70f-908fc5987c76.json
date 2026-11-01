@@ -1,0 +1,14 @@
+{
+    "uuid": "7376f34f-c82b-4573-a70f-908fc5987c76",
+    "words": [
+        "Thermodynamics",
+        "Electromagnetism",
+        "Nuclear Physics",
+        "Quantum Mechanics",
+        "Relativity"
+    ],
+    "relationship": "all are forms of energy",
+    "elapsed_time": 7.302576780319214,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

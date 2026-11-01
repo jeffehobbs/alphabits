@@ -1,0 +1,14 @@
+{
+    "uuid": "714d0d55-7cc4-4551-8db2-06d945966cd7",
+    "words": [
+        "metaphor",
+        "imagery",
+        "rhythm",
+        "theme",
+        "mood"
+    ],
+    "relationship": "These are all terms used when discussing how elements of a story or poem can create emotional responses.",
+    "elapsed_time": 12.171686887741089,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

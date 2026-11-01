@@ -1,0 +1,14 @@
+{
+    "uuid": "2201f035-8a66-404e-8c03-07692a653e44",
+    "words": [
+        "game",
+        "team",
+        "score",
+        "win",
+        "athlete"
+    ],
+    "relationship": "These concepts are all aspects of competition where individuals or teams strive to achieve victory through physical prowess, strategy, and mental fortitude.  They often involve a defined playing area and rules to determine a winner.",
+    "elapsed_time": 17.152928352355957,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

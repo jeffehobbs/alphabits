@@ -1,0 +1,14 @@
+{
+    "uuid": "dec43567-83a6-495b-af5a-2d866e6a89c0",
+    "words": [
+        "novel",
+        "poem",
+        "story",
+        "verse",
+        "epic"
+    ],
+    "relationship": "a collection of works",
+    "elapsed_time": 7.192490816116333,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a6425e1f-1898-4a94-a270-453101299931",
+    "words": [
+        "tree",
+        "bird",
+        "fish",
+        "worm",
+        "grass"
+    ],
+    "relationship": "(5 Words Related To Nature) Inhabit ecosystems",
+    "elapsed_time": 14.154589414596558,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

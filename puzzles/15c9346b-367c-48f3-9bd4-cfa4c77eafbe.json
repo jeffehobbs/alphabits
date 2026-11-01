@@ -1,0 +1,14 @@
+{
+    "uuid": "15c9346b-367c-48f3-9bd4-cfa4c77eafbe",
+    "words": [
+        "Experiment",
+        "Data",
+        "Variable",
+        "Analysis",
+        "Observation"
+    ],
+    "relationship": "These terms all describe the process of observing, measuring, and analyzing the natural world to understand its underlying principles and how things change over time.",
+    "elapsed_time": 13.406038045883179,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

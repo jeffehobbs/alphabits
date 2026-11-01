@@ -1,0 +1,14 @@
+{
+    "uuid": "6d5af2ef-2bd3-4086-b73a-d57ebce96f1f",
+    "words": [
+        "mood",
+        "setting",
+        "tone",
+        "atmosphere",
+        "theme"
+    ],
+    "relationship": "These terms all describe elements that contribute to the overall feeling and atmosphere of a story, often influencing the reader's emotional response.",
+    "elapsed_time": 20.11605477333069,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "49b309e9-0df0-4f51-afdb-3a78284e02c1",
+    "words": [
+        "ecosystem",
+        "provides",
+        "nutrient",
+        "carbonate",
+        "nitrate"
+    ],
+    "relationship": "They are all part of an ecosystem where one plays the role of a provider for the others.",
+    "elapsed_time": 6.309520721435547,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f6915f4a-b5f9-4279-ac1a-e696d0f694a4",
+    "words": [
+        "canvas",
+        "paint",
+        "brush",
+        "ink",
+        "paper"
+    ],
+    "relationship": "They are all connected by being created using a combination of materials and techniques.",
+    "elapsed_time": 7.832560777664185,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

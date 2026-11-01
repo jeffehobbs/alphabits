@@ -1,0 +1,14 @@
+{
+    "uuid": "8cfc2db5-495e-47ee-a4a0-b0f06fd4e8bd",
+    "words": [
+        "oak",
+        "maple",
+        "palm",
+        "cypress",
+        "orchid"
+    ],
+    "relationship": "tree leaf branch flower",
+    "elapsed_time": 6.3800482749938965,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "252398b7-5a33-4409-9963-5e00d14d736c",
+    "words": [
+        "seed",
+        "root",
+        "leaf",
+        "flower",
+        "decay"
+    ],
+    "relationship": "These terms all describe different stages and processes involved in the life cycle of a plant, starting with its initial growth and development, progressing through its active period of energy absorption, and culminating in its eventual decay and return to the soil.",
+    "elapsed_time": 16.07041573524475,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

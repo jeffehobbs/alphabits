@@ -1,0 +1,14 @@
+{
+    "uuid": "655b7ae5-6ce3-4df4-8c78-d753c89c4982",
+    "words": [
+        "empire",
+        "revolution",
+        "legacy",
+        "dynasty",
+        "culture"
+    ],
+    "relationship": "These terms all describe the process of examining the past to understand how societies and events have evolved over time, often focusing on cause and effect and the interpretation of evidence.",
+    "elapsed_time": 13.701641082763672,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

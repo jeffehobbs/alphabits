@@ -1,0 +1,14 @@
+{
+    "uuid": "72660fc1-ff39-4686-9479-39830be374d3",
+    "words": [
+        "agriculture",
+        "settlement",
+        "irrigation",
+        "civilization",
+        "landscape"
+    ],
+    "relationship": "These concepts all describe how people and societies adapt to and utilize the natural world for survival and prosperity.",
+    "elapsed_time": 23.51078462600708,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

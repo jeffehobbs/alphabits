@@ -1,0 +1,14 @@
+{
+    "uuid": "5703ecdd-98c8-4cd6-8f08-0a2f9932ef8e",
+    "words": [
+        "theater",
+        "music hall",
+        "concert",
+        "circus act",
+        "mime"
+    ],
+    "relationship": "All of these are types of performances or shows designed to entertain an audience.",
+    "elapsed_time": 11.236295461654663,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

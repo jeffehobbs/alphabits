@@ -1,0 +1,14 @@
+{
+    "uuid": "73836be1-a0cf-46c0-9cfc-654bb28578a1",
+    "words": [
+        "revolution",
+        "empire",
+        "dynasty",
+        "republic",
+        "war"
+    ],
+    "relationship": "These concepts often arise during periods of significant societal upheaval and transformation, frequently involving power struggles and shifts in governance. They are frequently associated with major turning points in civilization and the rise and fall of empires.",
+    "elapsed_time": 16.234082221984863,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

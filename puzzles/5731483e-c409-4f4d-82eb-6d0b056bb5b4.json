@@ -1,0 +1,14 @@
+{
+    "uuid": "5731483e-c409-4f4d-82eb-6d0b056bb5b4",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "photography",
+        "ceramics"
+    ],
+    "relationship": "These concepts are often explored by creators to evoke emotion and tell stories, frequently involving representation of the human experience and the world around us. They can be found in various forms, from historical artifacts to contemporary installations.",
+    "elapsed_time": 18.92119860649109,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "3f43a86c-812f-476b-b08c-3030b65c94a8",
+    "words": [
+        "brushstroke",
+        "palette",
+        "canvas",
+        "texture",
+        "color"
+    ],
+    "relationship": "the connection or association among different elements of visual art.",
+    "elapsed_time": 14.38684630393982,
+    "model": "phi3:latest",
+    "topic": "art"
+}

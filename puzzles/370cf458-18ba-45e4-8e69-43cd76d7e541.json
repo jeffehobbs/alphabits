@@ -1,0 +1,14 @@
+{
+    "uuid": "370cf458-18ba-45e4-8e69-43cd76d7e541",
+    "words": [
+        "war",
+        "treaty",
+        "diplomacy",
+        "negotiation",
+        "peace"
+    ],
+    "relationship": "I studied how different events led nations towards or away from conflicts.",
+    "elapsed_time": 14.413396120071411,
+    "model": "phi3:latest",
+    "topic": "history"
+}

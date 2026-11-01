@@ -1,0 +1,14 @@
+{
+    "uuid": "4aefaf1b-d812-476a-8b79-41dfa2707eed",
+    "words": [
+        "Ancient",
+        "Medieval",
+        "Renaissance",
+        "Enlightenment",
+        "Industrial"
+    ],
+    "relationship": "They all refer to periods of time in human existence.",
+    "elapsed_time": 7.923029899597168,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

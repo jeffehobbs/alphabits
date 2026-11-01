@@ -1,0 +1,14 @@
+{
+    "uuid": "f225a5d2-dae6-4432-b965-0eb37558a54c",
+    "words": [
+        "script",
+        "actor",
+        "audience",
+        "stage",
+        "drama"
+    ],
+    "relationship": "These terms all describe different ways people engage with stories and performances, often involving a degree of immersion and emotional investment.",
+    "elapsed_time": 12.289495468139648,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

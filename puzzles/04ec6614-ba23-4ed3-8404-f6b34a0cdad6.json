@@ -1,0 +1,14 @@
+{
+    "uuid": "04ec6614-ba23-4ed3-8404-f6b34a0cdad6",
+    "words": [
+        "singer",
+        "guitarist",
+        "drummer",
+        "bassist",
+        "keyboardist"
+    ],
+    "relationship": "A band consists of musicians who collaborate to create music together.",
+    "elapsed_time": 14.401885747909546,
+    "model": "phi3:latest",
+    "topic": "music"
+}

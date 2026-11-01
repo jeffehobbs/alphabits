@@ -1,0 +1,14 @@
+{
+    "uuid": "f9adca85-92f4-460f-a898-b9cc67273578",
+    "words": [
+        "athlete",
+        "teamwork",
+        "strategy",
+        "competition",
+        "performance"
+    ],
+    "relationship": "A player's performance directly impacts their team'in ability to win games.",
+    "elapsed_time": 10.23974895477295,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

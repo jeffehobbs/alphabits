@@ -1,0 +1,14 @@
+{
+    "uuid": "d467394d-4ca5-48be-8234-1674b929b655",
+    "words": [
+        "sun",
+        "plant",
+        "water",
+        "animals",
+        "atmosphere"
+    ],
+    "relationship": "In this sequence of natural elements, one is directly nourished by sunlight to produce oxygen for us; it thrives on a vast body of water and provides habitat for countless species; in return, these creatures help maintain its health through their activities. The plant also interacts with the atmosphere above by absorbing carbon dioxide.",
+    "elapsed_time": 22.707221746444702,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

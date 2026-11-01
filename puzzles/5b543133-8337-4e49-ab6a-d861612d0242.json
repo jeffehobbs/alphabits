@@ -1,0 +1,13 @@
+{
+    "uuid": "5b543133-8337-4e49-ab6a-d861612d0242",
+    "words": [
+        "biography",
+        "autobiography",
+        "memoir",
+        "testimonial"
+    ],
+    "relationship": "A novelist writes books based on real-life experiences or historical events.",
+    "elapsed_time": 13.684161901473999,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "114ecc90-2f96-41ed-861f-c86e2c4d2a73",
+    "words": [
+        "petrified",
+        "fossils",
+        "sediment",
+        "deposits",
+        "minerals"
+    ],
+    "relationship": "Fossilized remains of plants are preserved for millions of years by these natural processes.",
+    "elapsed_time": 11.62063717842102,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

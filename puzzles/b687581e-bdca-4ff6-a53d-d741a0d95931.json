@@ -1,0 +1,14 @@
+{
+    "uuid": "b687581e-bdca-4ff6-a53d-d741a0d95931",
+    "words": [
+        "poem",
+        "novel",
+        "short story",
+        "essay",
+        "article"
+    ],
+    "relationship": "words 1,2,3,4,5 - these are all types of lines or marks used to separate text into distinct parts",
+    "elapsed_time": 9.630605459213257,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

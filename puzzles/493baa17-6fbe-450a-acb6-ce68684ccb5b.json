@@ -1,0 +1,14 @@
+{
+    "uuid": "493baa17-6fbe-450a-acb6-ce68684ccb5b",
+    "words": [
+        "Screenplay",
+        "Audience",
+        "Performance",
+        "Review",
+        "Production"
+    ],
+    "relationship": "These terms all describe different ways people engage with stories and performances, from experiencing them directly to creating and sharing them.",
+    "elapsed_time": 14.65381121635437,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

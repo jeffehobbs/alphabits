@@ -1,0 +1,14 @@
+{
+    "uuid": "0ffda308-19e0-4461-827e-77065f43f7e2",
+    "words": [
+        "Passing",
+        "Strategy",
+        "Teamwork",
+        "Execution",
+        "Coordination"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and strategy, focusing on the flow of the game and how players coordinate their actions to achieve a desired outcome \u2013 typically scoring points.",
+    "elapsed_time": 14.271686315536499,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

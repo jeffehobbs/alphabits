@@ -1,0 +1,14 @@
+{
+    "uuid": "a082b1d7-f8c4-43d5-af56-f5e69f7a0504",
+    "words": [
+        "movies",
+        "plays",
+        "music",
+        "books",
+        "galleries"
+    ],
+    "relationship": "A connection between words where one word is directly involved in creating or producing the other word.",
+    "elapsed_time": 5.555330753326416,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

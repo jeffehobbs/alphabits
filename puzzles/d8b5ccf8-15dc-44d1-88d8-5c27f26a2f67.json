@@ -1,0 +1,14 @@
+{
+    "uuid": "d8b5ccf8-15dc-44d1-88d8-5c27f26a2f67",
+    "words": [
+        "empire",
+        "revolution",
+        "dynasty",
+        "civilization",
+        "war"
+    ],
+    "relationship": "These concepts often involve significant shifts in power, societal structures, and the way people organize themselves. They frequently lead to conflict and transformation, and their legacies continue to shape the present.",
+    "elapsed_time": 15.664755821228027,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

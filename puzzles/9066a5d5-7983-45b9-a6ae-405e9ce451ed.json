@@ -1,0 +1,14 @@
+{
+    "uuid": "9066a5d5-7983-45b9-a6ae-405e9ce451ed",
+    "words": [
+        "mutation",
+        "genetics",
+        "evolution",
+        "adaptation",
+        "inheritance"
+    ],
+    "relationship": "These terms all describe different aspects of how living organisms change over time, often in response to their environment.",
+    "elapsed_time": 13.175712823867798,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

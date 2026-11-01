@@ -1,0 +1,14 @@
+{
+    "uuid": "0666bd5e-4afe-446b-abd3-c2e96b67ec3b",
+    "words": [
+        "decay",
+        "fungi",
+        "trees",
+        "soil",
+        "sunlight"
+    ],
+    "relationship": "The words all describe elements found in a forest ecosystem and are interconnected in a cycle of life and decay.",
+    "elapsed_time": 13.191276788711548,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

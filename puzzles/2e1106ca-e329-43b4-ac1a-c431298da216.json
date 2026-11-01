@@ -1,0 +1,13 @@
+{
+    "uuid": "2e1106ca-e329-43b4-ac1a-c431298da216",
+    "words": [
+        "script",
+        "actor",
+        "series",
+        "audience"
+    ],
+    "relationship": "a form of storytelling for film, television, and theater; a person who performs in this type of storytelling; a series or collection of these performances; an event where people gather to experience this type of storytelling",
+    "elapsed_time": 9.442372798919678,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

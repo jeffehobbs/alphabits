@@ -1,0 +1,12 @@
+{
+    "uuid": "374004a9-91d8-44e8-8b2d-bd70e9e41dff",
+    "words": [
+        "World War II",
+        "decolonization",
+        "European powers"
+    ],
+    "relationship": "The events of World War II led to significant changes in global politics, economics, and society which resulted in major historical developments such as decolonization movements around the world.",
+    "elapsed_time": 16.50614857673645,
+    "model": "phi3:latest",
+    "topic": "history"
+}

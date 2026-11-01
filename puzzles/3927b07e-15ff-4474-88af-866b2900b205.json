@@ -1,0 +1,14 @@
+{
+    "uuid": "3927b07e-15ff-4474-88af-866b2900b205",
+    "words": [
+        "mountain",
+        "valley",
+        "river",
+        "lake",
+        "island"
+    ],
+    "relationship": "These geographic concepts are all connected through the study of natural features that shape the landscape.",
+    "elapsed_time": 7.580730199813843,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bb0c00aa-efa8-4b20-b60c-cf739f5295a8",
+    "words": [
+        "plot",
+        "character",
+        "author",
+        "narrator",
+        "dialogue"
+    ],
+    "relationship": "a story is made up of characters who interact with each other",
+    "elapsed_time": 7.183826446533203,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

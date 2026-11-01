@@ -1,0 +1,14 @@
+{
+    "uuid": "ebabd793-8a8f-4cb5-be77-727fc29b3e2d",
+    "words": [
+        "defense",
+        "offense",
+        "strategy",
+        "positioning",
+        "scoring"
+    ],
+    "relationship": "These terms all describe aspects of a game where a team attempts to score points by successfully moving an object across a designated area, often with strategic positioning and skillful maneuvers involved.",
+    "elapsed_time": 14.840807676315308,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

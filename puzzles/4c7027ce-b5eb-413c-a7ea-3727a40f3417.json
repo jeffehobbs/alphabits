@@ -1,0 +1,14 @@
+{
+    "uuid": "4c7027ce-b5eb-413c-a7ea-3727a40f3417",
+    "words": [
+        "geology",
+        "plate tectonics",
+        "continental drift",
+        "fossil record",
+        "earthquake zones"
+    ],
+    "relationship": "They all relate to the study of the Earth's physical structure.",
+    "elapsed_time": 8.81725811958313,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

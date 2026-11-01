@@ -1,0 +1,14 @@
+{
+    "uuid": "2a61670c-1306-4e55-8e3d-1048c11ca651",
+    "words": [
+        "dynasty",
+        "empire",
+        "rebellion",
+        "monarchy",
+        "conquest"
+    ],
+    "relationship": "These concepts often appear in discussions about power shifts and societal transformations, frequently involving conflict and the rise and fall of individuals or groups.",
+    "elapsed_time": 23.925039291381836,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

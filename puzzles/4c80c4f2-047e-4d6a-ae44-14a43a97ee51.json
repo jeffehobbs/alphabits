@@ -1,0 +1,13 @@
+{
+    "uuid": "4c80c4f2-047e-4d6a-ae44-14a43a97ee51",
+    "words": [
+        "erosion",
+        "valley",
+        "mountain",
+        "delta"
+    ],
+    "relationship": "These terms all describe different ways that landforms are shaped by the forces of nature, primarily water and ice.",
+    "elapsed_time": 42.147784948349,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

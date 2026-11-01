@@ -1,0 +1,14 @@
+{
+    "uuid": "2df36d3d-a35c-4a01-af9d-6f6590246a97",
+    "words": [
+        "Archaeology",
+        "Artifacts",
+        "Sources",
+        "Interpretation",
+        "Chronology"
+    ],
+    "relationship": "These terms all describe the process of documenting and interpreting the past, often involving the analysis of physical remnants and written records to understand events and their significance over time.",
+    "elapsed_time": 16.17126202583313,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

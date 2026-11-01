@@ -1,0 +1,14 @@
+{
+    "uuid": "c5088cfb-5903-4cf2-941c-4cd4e562d8e5",
+    "words": [
+        "hypothesis",
+        "variables",
+        "controls",
+        "experiment",
+        "data"
+    ],
+    "relationship": "These terms are all interconnected as they represent different aspects of experimental design used to conduct scientific research.",
+    "elapsed_time": 12.151252031326294,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d18f3e79-8ae3-444a-9242-186542311c98",
+    "words": [
+        "mountain",
+        "valley",
+        "plateau",
+        "ridge",
+        "basin"
+    ],
+    "relationship": "These words are all types of landforms or physical features found on Earth.",
+    "elapsed_time": 16.476031064987183,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

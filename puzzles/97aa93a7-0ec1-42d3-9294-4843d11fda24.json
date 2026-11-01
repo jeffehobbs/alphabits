@@ -1,0 +1,14 @@
+{
+    "uuid": "97aa93a7-0ec1-42d3-9294-4843d11fda24",
+    "words": [
+        "tree",
+        "plant",
+        "flower",
+        "garden",
+        "forest"
+    ],
+    "relationship": "They are all types of living things found on land.",
+    "elapsed_time": 6.642946243286133,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

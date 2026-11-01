@@ -1,0 +1,14 @@
+{
+    "uuid": "5eda0cfe-3da6-4511-a4c7-eaca3dbf6cca",
+    "words": [
+        "athlete",
+        "coach",
+        "fan",
+        "league",
+        "tournament"
+    ],
+    "relationship": "team",
+    "elapsed_time": 6.728286266326904,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

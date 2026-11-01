@@ -1,0 +1,14 @@
+{
+    "uuid": "f5fc2dc4-610c-4fec-b55b-17834617b7d0",
+    "words": [
+        "plot",
+        "characterization",
+        "setting",
+        "theme",
+        "point of view"
+    ],
+    "relationship": "These elements are often found together within literature to enhance storytelling.",
+    "elapsed_time": 17.592369079589844,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

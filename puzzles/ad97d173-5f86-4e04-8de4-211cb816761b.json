@@ -1,0 +1,14 @@
+{
+    "uuid": "ad97d173-5f86-4e04-8de4-211cb816761b",
+    "words": [
+        "Portrait",
+        "Sculpture",
+        "Installation",
+        "Performance",
+        "Dance"
+    ],
+    "relationship": "They are all forms of expression.",
+    "elapsed_time": 12.192282915115356,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

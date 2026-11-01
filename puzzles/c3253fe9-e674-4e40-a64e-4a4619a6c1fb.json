@@ -1,0 +1,14 @@
+{
+    "uuid": "c3253fe9-e674-4e40-a64e-4a4619a6c1fb",
+    "words": [
+        "ecosystem",
+        "molecules",
+        "elements",
+        "rock formations",
+        "stars"
+    ],
+    "relationship": "biology chemistry physics geology astronomy",
+    "elapsed_time": 4.545903921127319,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

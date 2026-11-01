@@ -1,0 +1,14 @@
+{
+    "uuid": "0b26d5e2-06b5-4a71-b5ab-4d9b9c6fc108",
+    "words": [
+        "forest",
+        "bark",
+        "leaf",
+        "branch",
+        "tree"
+    ],
+    "relationship": "The five words are related because they can be found in the same ecosystem. They are all types of living things that grow together or depend on each other for survival.",
+    "elapsed_time": 9.917925834655762,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

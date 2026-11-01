@@ -1,0 +1,14 @@
+{
+    "uuid": "c80598e9-0d7b-43ab-b249-e624ae125262",
+    "words": [
+        "reggae",
+        "soca",
+        "diaspora",
+        "riddim",
+        "calypso"
+    ],
+    "relationship": "a genre of music characterized by strong rhythmic patterns and often associated with African or Afro-Caribbean cultures",
+    "elapsed_time": 9.235222339630127,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

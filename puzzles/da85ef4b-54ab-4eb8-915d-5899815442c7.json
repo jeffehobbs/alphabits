@@ -1,0 +1,14 @@
+{
+    "uuid": "da85ef4b-54ab-4eb8-915d-5899815442c7",
+    "words": [
+        "Impressionism",
+        "Pointillism",
+        "Fauvism",
+        "Expressionism",
+        "Cubism"
+    ],
+    "relationship": "A style or method used by an artist to create a specific effect or mood.",
+    "elapsed_time": 6.574502229690552,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ac5264ff-ae6a-4207-a17c-a2a45794300d",
+    "words": [
+        "Plot",
+        "Theme",
+        "Character",
+        "Setting",
+        "Symbolism"
+    ],
+    "relationship": "These terms all describe different aspects of how a story is constructed and how a reader experiences it \u2013 from the underlying framework to the emotional impact and the way it\u2019s interpreted.",
+    "elapsed_time": 17.033024072647095,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

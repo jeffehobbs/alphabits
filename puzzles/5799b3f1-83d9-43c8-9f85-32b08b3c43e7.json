@@ -1,0 +1,14 @@
+{
+    "uuid": "5799b3f1-83d9-43c8-9f85-32b08b3c43e7",
+    "words": [
+        "Revolution",
+        "Empire",
+        "Conflict",
+        "Dynasty",
+        "Expansion"
+    ],
+    "relationship": "These terms all describe significant shifts in power and control, often driven by conflict and leading to new social structures and ways of organizing society.",
+    "elapsed_time": 15.279617309570312,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

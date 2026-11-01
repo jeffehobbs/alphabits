@@ -1,0 +1,13 @@
+{
+    "uuid": "f0bf63d6-fd7b-45fc-af10-b7f75a87f297",
+    "words": [
+        "recording studio",
+        "sound engineer",
+        "mixer",
+        "mastering"
+    ],
+    "relationship": "Music production involves recording instruments, vocals, mixing audio components to create a balanced sound, mastering tracks for optimal playback quality and distribution.",
+    "elapsed_time": 15.159365177154541,
+    "model": "phi3:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b870911b-b88b-49c6-a68b-e32265167e3d",
+    "words": [
+        "fire",
+        "cooking",
+        "prehistoric people",
+        "nutrition",
+        "evolution"
+    ],
+    "relationship": "The discovery of fire allowed early humans to cook food for easier digestion.",
+    "elapsed_time": 14.568101167678833,
+    "model": "phi3:latest",
+    "topic": "history"
+}

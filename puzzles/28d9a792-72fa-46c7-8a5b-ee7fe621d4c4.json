@@ -1,0 +1,14 @@
+{
+    "uuid": "28d9a792-72fa-46c7-8a5b-ee7fe621d4c4",
+    "words": [
+        "film",
+        "television show",
+        "music video",
+        "concert performance",
+        "theater play"
+    ],
+    "relationship": "A group of songs or movies are connected through their themes, characters, directors or actors",
+    "elapsed_time": 12.462042570114136,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

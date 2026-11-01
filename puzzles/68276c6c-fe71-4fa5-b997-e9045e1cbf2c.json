@@ -1,0 +1,14 @@
+{
+    "uuid": "68276c6c-fe71-4fa5-b997-e9045e1cbf2c",
+    "words": [
+        "Accuracy",
+        "Precision",
+        "Consistency",
+        "Repetition",
+        "Execution"
+    ],
+    "relationship": "These terms all describe aspects of a player's performance, focusing on how consistently they achieve a desired outcome \u2013 whether it's accuracy, effectiveness, or success in a particular situation.",
+    "elapsed_time": 17.20495367050171,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

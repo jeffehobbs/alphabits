@@ -1,0 +1,14 @@
+{
+    "uuid": "1a7c39ce-0b64-43aa-beb4-2b00fb7fbd3c",
+    "words": [
+        "atom",
+        "element",
+        "molecule",
+        "isotope",
+        "chemical"
+    ],
+    "relationship": "These concepts are all fundamental to understanding the composition and behavior of matter, particularly at the atomic and molecular level. They describe different ways to analyze and manipulate the building blocks of everything around us.",
+    "elapsed_time": 16.77706289291382,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    <title>Alphabits</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="static/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16x16.png">
+    <link rel="manifest" href="static/site.webmanifest">
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" integrity="sha512-42kB9yDlYiCEfx2xVwq0q7hT4uf26FUgSIZBK8uiaEnTdShXjwr8Ip1V4xGJMg3mHkUt9nNuTDxunHF0/EgxLQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap" rel="stylesheet">
+
+    <style>
+
+      * {
+        font-family: 'Noto Sans Mono', monospace;
+      }
+
+      #nprogress .bar {
+        background: #0d6efd;
+        height: 0.666rem;
+      }
+
+      #nprogress .peg, #nprogress .spinner {
+        display: none;
+      }
+
+      #stage {
+        margin-top: 2rem;
+      }
+
+      #words, #relationship, #info, #stats {
+        margin-top: 1rem;
+      }
+
+      #letter-input {
+        width: 100%;
+      }
+
+      h1 {
+        font-weight: 700;
+      }
+
+      #playAgainButton {
+        cursor: pointer;
+      }
+
+      #stats, #info {
+        font-size: 0.8rem;
+      }
+
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js" integrity="sha512-bUg5gaqBVaXIJNuebamJ6uex//mjxPk8kljQTdM1SwkNrQD7pjS+PerntUSD+QRWPNJ0tq54/x4zRV8bLrLhZg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.4/dist/confetti.browser.min.js"></script>
+
+  </head>
+  <body onload="init();">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2">
+
+            <div id="stage">
+              <input pattern="[A-Za-z]*" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="animate__animated animate__fadeInDown" id="letter-input" placeholder="Guess the letters!" size="40" autofocus />
+              <div id="stats"></div>
+              <div id="words"></div>
+              <div id="relationship"></div>
+              <div id="info"></div>
+            </div>
+
+        </div>
+      </div>
+    </div>
+
+<script>
+  
+  var startGame = Date.now();
+  window.correct = 0;
+  window.incorrect = 0;
+  window.total = 0;
+  window.previous_guesses = '';
+
+  const input = document.querySelector("body");
+  input.addEventListener("keydown", evaluateKeydown);
+  input.addEventListener("keyup", showResults);
+
+  updateTheme();
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme);
+
+  function updateTheme() {
+    const colorMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.setAttribute("data-bs-theme", colorMode);
+  };
+  
+  function init(){
+    NProgress.start();
+    var startGame = Date.now();
+    window.correct = 0;
+    window.incorrect = 0;
+    window.total = 0;
+    window.previous_guesses = '';
+
+    // static hosting: pick a random puzzle from the bundled index
+    fetch('puzzles/index.json')
+      .then(response => response.json())
+      .then(files => fetch('puzzles/' + files[Math.floor(Math.random() * files.length)]))
+      .then(response => response.json())
+      .then(data => displayResult(data))
+      .catch(error => { console.log("...timeout error");});
+    
+    }; // end init
+
+    function displayResult(data){
+      //console.log(data);
+      window.uuid = data.uuid;
+      data.words.forEach((word) => {
+        data_word = '';
+        letters = word.toUpperCase().split('');
+        letters.forEach((letter) => {
+          
+          if (letter == ' ') {
+            spacer = ' ';
+          } else if (letter == '-') {
+            spacer = '-';
+          } else if (letter == '&') {
+            spacer = '&';
+          } else {
+            window.total = window.total + 1;
+            spacer = '&#9744;'
+          };
+
+          const directions = ["Up", "Down", "Left", "Right"];
+          const randomIndex = Math.floor(Math.random() * directions.length);
+          const direction = directions[randomIndex];
+
+          data_word = data_word + '<span title="' + letter + '" class="' + letter + '">' + spacer + '</span>';
+        })
+        document.getElementById("words").innerHTML += '<h1 class="text-center animate__animated animate__fadeInDown">' + data_word + '</h1>';
+      });
+       document.getElementById("relationship").innerHTML = '<div class="alert alert-primary animate__animated animate__fadeInUp">HINT: ' + data.relationship + '</div>';
+       document.getElementById("info").innerHTML = '<p class="text-secondary animate__animated animate__fadeInUp"><small>alphabits 0.1 // topic: ' + data.topic + ' // model: ' + data.model + '</small></p>';
+      document.getElementById("stats").innerHTML = '<p class="animate__animated animate__fadeInUp"><span class="text-success">CORRECT:' + window.correct + '</span> // <span class="text-danger">INCORRECT: ' + window.incorrect + '</span></p>';
+       NProgress.done();
+    }; // end displayResult
+
+    function evaluateKeydown(e){
+      console.log('keydown happened');
+      console.log(e);
+
+      if (e.charCode == 0){
+        //it's f*ckin Android Chrome
+        evaluateKeydownAndroidChrome(e)
+      };
+
+      if (isLetterKeyCode(e.keyCode)) {
+        console.log('keycode detected');
+        letter = e.code.replace('Key','');
+        //console.log(letter);
+        if (window.previous_guesses.includes(letter)) {
+          var audio = new Audio("static/duplicate.mp3");
+          audio.play();
+          return
+        };
+        letter_nodes = document.querySelectorAll('.' + letter);
+        if (letter_nodes.length == 0) {
+          userIncorrect(1, letter);
+        } else {
+          userCorrect(letter_nodes.length, letter);
+        };
+        //console.log(letter_nodes);
+        letter_nodes.forEach((letter_elem) => {
+          letter_elem.innerHTML = letter;
+        });
+      };
+    }; // end evaluateKeydown
+
+    function evaluateKeydownAndroidChrome(e){
+
+      console.log('the dreaded android chrome');
+      letters = document.getElementById("letter-input").value;
+      console.log(letters);
+      
+    } // end evaluateKeydownAndroidChrome
+
+    function userCorrect(num, letter){
+      window.correct = window.correct + num;
+      //console.log('RIGHT');
+      document.getElementById("stats").innerHTML = '<p><span class="text-success">CORRECT: ' + window.correct + '</span> // <span class="text-danger">INCORRECT: ' + window.incorrect + '</span></p>';
+      window.previous_guesses = window.previous_guesses + letter;
+      document.getElementById("letter-input").value = alphabetizeString(window.previous_guesses);
+      if (window.correct == window.total){
+        var audio = new Audio("static/complete.mp3");
+        audio.play();
+        secondsElapsed = computeTime();
+        document.getElementById("stats").innerHTML = '<p><span class="text-success">CORRECT: ' + window.correct + '</span> // <span class="text-danger">INCORRECT: ' + window.incorrect + '</span> // <span class="text-warning">TIME: ' + secondsElapsed + 's</span> // <a id="playAgainButton" onclick="location.reload();"><mark>PLAY AGAIN</mark></a></p>';
+        gameComplete();
+
+      } else {
+        var audio = new Audio("static/correct.mp3");
+        audio.play();
+      };
+
+    }; // end userCorrect
+
+    function userIncorrect(num, letter){
+      window.incorrect = window.incorrect + num;
+      //console.log('WRONG');
+      document.getElementById("stats").innerHTML = '<p><span class="text-success">CORRECT: ' + window.correct + '</span> // <span class="text-danger">INCORRECT: ' + window.incorrect + '</span></p>';
+      window.previous_guesses = window.previous_guesses + letter;
+      document.getElementById("letter-input").value = alphabetizeString(window.previous_guesses);
+      var audio = new Audio("static/incorrect.mp3");
+      audio.play();
+
+    }; // end userIncorrect
+
+    function showResults(e){
+      document.getElementById("letter-input").value = alphabetizeString(window.previous_guesses)
+    };
+
+    function gameComplete(){
+      var defaults = {
+        spread: 360,
+        ticks: 50,
+        gravity: 0,
+        decay: 0.94,
+        startVelocity: 30,
+        colors: ['FFE400', 'FFBD00', 'E89400', 'FFCA6C', 'FDFFB8']
+      }; 
+
+      function shoot() {
+        confetti({
+          ...defaults,
+          particleCount: 40,
+          scalar: 1.2,
+          shapes: ['star']
+        });
+
+        confetti({
+          ...defaults,
+          particleCount: 10,
+          scalar: 0.75,
+          shapes: ['circle']
+        });
+      }
+
+      setTimeout(shoot, 0);
+      setTimeout(shoot, 100);
+      setTimeout(shoot, 200);
+    }; // end gameComplete
+
+    function isLetterKeyCode(keyCode) {
+        // Uppercase letters (A-Z)
+        if (keyCode >= 65 && keyCode <= 90) {
+          return true;
+        }
+        // Lowercase letters (a-z)
+        if (keyCode >= 97 && keyCode <= 122) {
+          return true;
+        }
+        return false;
+      }; // end isLetterKeyCode
+
+      function alphabetizeString(str) {
+        const charArray = str.split('');
+        charArray.sort();
+        const sortedString = charArray.join('');
+        return sortedString;
+      }; // end alphabetizeString
+
+      function scrambleString(str) {
+        const charArray = str.split('');
+        for (let i = charArray.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1)); // Generate a random index
+          [charArray[i], charArray[j]] = [charArray[j], charArray[i]]; 
+        };
+        return charArray.join('');
+      }; // end scrambleString
+
+      function computeTime(){
+        var delta = Date.now() - startGame;
+        seconds = Math.floor(delta / 1000);
+        return(seconds);
+      }; // end computeTime
+
+</script>
+
+</body>
+</html>

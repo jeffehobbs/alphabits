@@ -1,0 +1,14 @@
+{
+    "uuid": "a7404177-76b2-4595-b75a-c30fd23405a1",
+    "words": [
+        "population",
+        "settlement",
+        "density",
+        "distribution",
+        "accessibility"
+    ],
+    "relationship": "These concepts all describe how people and things are distributed across the Earth's surface, often influenced by factors like accessibility and resources.",
+    "elapsed_time": 14.58562159538269,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "fd395361-cd2d-47d2-a235-3fd84a803718",
+    "words": [
+        "Stylization",
+        "Abstraction",
+        "Impressionism",
+        "Expressionism",
+        "Surrealism"
+    ],
+    "relationship": "A connection is shared among these words because they all describe something that can be seen or observed, and they are often used to convey emotions or feelings through their meanings.",
+    "elapsed_time": 11.592838287353516,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

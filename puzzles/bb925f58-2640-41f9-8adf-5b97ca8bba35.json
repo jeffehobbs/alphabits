@@ -1,0 +1,14 @@
+{
+    "uuid": "bb925f58-2640-41f9-8adf-5b97ca8bba35",
+    "words": [
+        "band",
+        "instrumentalists",
+        "concert hall",
+        "guitarist",
+        "melody"
+    ],
+    "relationship": "A band creates melodies through instruments which they perform live on stage.",
+    "elapsed_time": 15.629449605941772,
+    "model": "phi3:latest",
+    "topic": "music"
+}

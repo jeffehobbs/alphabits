@@ -1,0 +1,14 @@
+{
+    "uuid": "8ac9b314-1dcf-4964-989f-ac6efa88dd2b",
+    "words": [
+        "shoot",
+        "pass",
+        "dribble",
+        "kick",
+        "throw"
+    ],
+    "relationship": "These terms describe actions performed by athletes during a competition to gain an advantage or score points.",
+    "elapsed_time": 23.77315330505371,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

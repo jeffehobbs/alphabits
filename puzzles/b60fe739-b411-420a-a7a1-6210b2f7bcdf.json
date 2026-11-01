@@ -1,0 +1,13 @@
+{
+    "uuid": "b60fe739-b411-420a-a7a1-6210b2f7bcdf",
+    "words": [
+        "tree",
+        "leaf",
+        "bee",
+        "flower"
+    ],
+    "relationship": "(All these living organisms are part of an ecosystem where they interact with each other for survival.)",
+    "elapsed_time": 13.106070756912231,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

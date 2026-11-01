@@ -1,0 +1,14 @@
+{
+    "uuid": "34142ca2-9829-4140-ba6e-17d9bb387986",
+    "words": [
+        "struggle",
+        "conflict",
+        "plot",
+        "character",
+        "obstacle"
+    ],
+    "relationship": "These concepts are often explored in storytelling to create conflict, drive plot, and reveal character. They can be internal struggles or external obstacles that characters must overcome.",
+    "elapsed_time": 22.544825792312622,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

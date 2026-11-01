@@ -1,0 +1,14 @@
+{
+    "uuid": "f35237aa-d5bd-4b0f-832e-060a56073a9d",
+    "words": [
+        "flower",
+        "pollinator",
+        "fruit",
+        "seed dispersal",
+        "plant"
+    ],
+    "relationship": "In this natural setting, certain plants rely on animals to help disperse their seeds for reproduction.",
+    "elapsed_time": 15.042739868164062,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

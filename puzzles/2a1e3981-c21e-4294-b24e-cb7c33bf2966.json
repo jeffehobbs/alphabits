@@ -1,0 +1,14 @@
+{
+    "uuid": "2a1e3981-c21e-4294-b24e-cb7c33bf2966",
+    "words": [
+        "rides",
+        "shows",
+        "food stalls",
+        "merchandise booths",
+        "live performances"
+    ],
+    "relationship": "They all represent different aspects of an amusement park experience.",
+    "elapsed_time": 11.659312725067139,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

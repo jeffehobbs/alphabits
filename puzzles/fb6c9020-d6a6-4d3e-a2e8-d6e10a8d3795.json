@@ -1,0 +1,14 @@
+{
+    "uuid": "fb6c9020-d6a6-4d3e-a2e8-d6e10a8d3795",
+    "words": [
+        "experiment",
+        "observation",
+        "data",
+        "analysis",
+        "theory"
+    ],
+    "relationship": "The process of observing and analyzing data to form a conclusion about the natural world.",
+    "elapsed_time": 18.950971841812134,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

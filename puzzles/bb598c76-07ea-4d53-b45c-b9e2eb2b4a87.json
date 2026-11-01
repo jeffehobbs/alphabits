@@ -1,0 +1,14 @@
+{
+    "uuid": "bb598c76-07ea-4d53-b45c-b9e2eb2b4a87",
+    "words": [
+        "dynasty",
+        "empire",
+        "revolution",
+        "feudalism",
+        "conquest"
+    ],
+    "relationship": "These concepts are all linked to significant shifts in power and societal structures, often involving conflict and the rise and fall of empires. They represent key aspects of how societies organize themselves and interact with each other over time.",
+    "elapsed_time": 15.87346339225769,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

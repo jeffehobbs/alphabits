@@ -1,0 +1,14 @@
+{
+    "uuid": "9590f62c-394c-4184-bf41-d8468e0e2d24",
+    "words": [
+        "drama",
+        "comedy",
+        "music",
+        "storytelling",
+        "performance"
+    ],
+    "relationship": "The words all describe ways to captivate an audience and evoke strong feelings, often through skillful performance and storytelling. They are key components in creating a memorable and engaging experience.",
+    "elapsed_time": 22.465880870819092,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

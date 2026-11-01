@@ -1,0 +1,14 @@
+{
+    "uuid": "5a8cf852-f460-4e08-a4c8-a5122784f264",
+    "words": [
+        "trees",
+        "soil",
+        "sunlight",
+        "water",
+        "animals"
+    ],
+    "relationship": "The words all describe elements found in a forest ecosystem and are often interconnected in a delicate balance.",
+    "elapsed_time": 12.44701886177063,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

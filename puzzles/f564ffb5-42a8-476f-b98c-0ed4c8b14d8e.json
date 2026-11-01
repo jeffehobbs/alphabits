@@ -1,0 +1,14 @@
+{
+    "uuid": "f564ffb5-42a8-476f-b98c-0ed4c8b14d8e",
+    "words": [
+        "sphinx",
+        "pyramid",
+        "hieroglyphics",
+        "mummy",
+        "papyrus"
+    ],
+    "relationship": "These 5 words are all connected through their role as methods of study or inquiry used by ancient civilizations to understand the world around them.",
+    "elapsed_time": 13.526932716369629,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

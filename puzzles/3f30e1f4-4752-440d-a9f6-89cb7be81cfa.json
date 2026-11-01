@@ -1,0 +1,14 @@
+{
+    "uuid": "3f30e1f4-4752-440d-a9f6-89cb7be81cfa",
+    "words": [
+        "composition",
+        "palette",
+        "rendering",
+        "perception",
+        "technique"
+    ],
+    "relationship": "These terms all describe different aspects of representing a subject in a visual medium, from the initial concept to the final, polished result. One focuses on the overall impression, another on the careful selection of elements, a third on the precise execution, a fourth on the way the viewer perceives it, and finally, it\u2019s about the process of creating it.",
+    "elapsed_time": 19.693007469177246,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

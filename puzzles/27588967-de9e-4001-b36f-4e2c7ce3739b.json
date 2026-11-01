@@ -1,0 +1,14 @@
+{
+    "uuid": "27588967-de9e-4001-b36f-4e2c7ce3739b",
+    "words": [
+        "mountain range",
+        "river basin",
+        "cross-border trade",
+        "ecosystem services",
+        "conservation efforts"
+    ],
+    "relationship": "(Geographical areas) are (connected by natural features such as rivers or mountain ranges).",
+    "elapsed_time": 14.763476848602295,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

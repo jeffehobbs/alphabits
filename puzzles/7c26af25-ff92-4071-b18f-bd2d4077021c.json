@@ -1,0 +1,14 @@
+{
+    "uuid": "7c26af25-ff92-4071-b18f-bd2d4077021c",
+    "words": [
+        "Fossil fuels",
+        "Nuclear power",
+        "Hydroelectricity",
+        "Solar energy",
+        "Wind energy"
+    ],
+    "relationship": "These are different types of energy sources.",
+    "elapsed_time": 17.305742740631104,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "567d4590-2b28-4735-bddf-f65a67fa9861",
+    "words": [
+        "stage",
+        "audience",
+        "performance",
+        "theater",
+        "music"
+    ],
+    "relationship": "The following words are all commonly associated with live performances where an audience gathers to watch a skilled individual or group showcase their abilities, often involving storytelling, music, or dramatic expression. They are frequently found in venues designed for public viewing and are integral to the creation of a shared, immersive experience.",
+    "elapsed_time": 26.69863533973694,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8043ddc3-93ca-43de-8acd-5b6013e9354c",
+    "words": [
+        "seed",
+        "sprout",
+        "leaf",
+        "flower",
+        "root"
+    ],
+    "relationship": "These terms all describe parts of a plant's life cycle, starting with the initial growth and development, progressing through stages of reproduction, and ultimately ending with the decay and return of nutrients to the soil.",
+    "elapsed_time": 14.34719443321228,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

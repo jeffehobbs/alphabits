@@ -1,0 +1,14 @@
+{
+    "uuid": "4e528e6f-594d-43d0-b419-ce4bc9cd9a6b",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "These concepts all describe aspects of how sound is organized and structured over time. They relate to the building blocks of musical expression and how they create a sense of progression and form.",
+    "elapsed_time": 22.284983158111572,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

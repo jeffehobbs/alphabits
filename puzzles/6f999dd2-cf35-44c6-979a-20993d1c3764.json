@@ -1,0 +1,14 @@
+{
+    "uuid": "6f999dd2-cf35-44c6-979a-20993d1c3764",
+    "words": [
+        "script",
+        "actor",
+        "audience",
+        "performance",
+        "drama"
+    ],
+    "relationship": "These terms all describe different ways people experience and enjoy stories, often involving imaginative narratives and emotional responses.",
+    "elapsed_time": 11.584581136703491,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ec4c7b88-e42e-4bec-8a43-80995d70f5dc",
+    "words": [
+        "shoot",
+        "pass",
+        "kick",
+        "dribble",
+        "vault"
+    ],
+    "relationship": "These are all actions performed by athletes during competition, often requiring skill and physical exertion to achieve a goal.",
+    "elapsed_time": 9.158508777618408,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

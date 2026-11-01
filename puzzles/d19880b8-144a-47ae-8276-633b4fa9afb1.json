@@ -1,0 +1,12 @@
+{
+    "uuid": "d19880b8-144a-47ae-8276-633b4fa9afb1",
+    "words": [
+        "Entertainment",
+        "Music",
+        "Orchestra"
+    ],
+    "relationship": "(1) is an industry where people work to create (2), which includes various forms of live performance such as music, dance and theatre.\n(2) can be performed in different settings like concert halls or outdoor venues by professional musicians who specialize in specific instruments that produce distinct sounds. These instrumentalists often form ensembles where they play together to create harmonious melodies for the enjoyment of audiences.\n\n(3) are a popular genre within this industry, known as (4), which combines various forms of live performance with visual elements like costumes and sets. They also have music composed specifically for them that often features orchestrated arrangements.",
+    "elapsed_time": 28.182482481002808,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

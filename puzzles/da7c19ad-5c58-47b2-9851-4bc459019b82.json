@@ -1,0 +1,14 @@
+{
+    "uuid": "da7c19ad-5c58-47b2-9851-4bc459019b82",
+    "words": [
+        "score",
+        "goal",
+        "win",
+        "compete",
+        "victory"
+    ],
+    "relationship": "The words all describe actions performed by athletes during a competition to achieve a goal.",
+    "elapsed_time": 12.34118938446045,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

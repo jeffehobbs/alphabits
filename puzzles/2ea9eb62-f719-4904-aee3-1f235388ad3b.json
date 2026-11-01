@@ -1,0 +1,14 @@
+{
+    "uuid": "2ea9eb62-f719-4904-aee3-1f235388ad3b",
+    "words": [
+        "poet",
+        "novelist",
+        "critic",
+        "reader",
+        "scribe"
+    ],
+    "relationship": "A writer uses language as tools for crafting literary works that explore human nature.",
+    "elapsed_time": 14.956190824508667,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

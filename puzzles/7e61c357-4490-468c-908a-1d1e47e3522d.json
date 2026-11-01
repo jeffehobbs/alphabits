@@ -1,0 +1,14 @@
+{
+    "uuid": "7e61c357-4490-468c-908a-1d1e47e3522d",
+    "words": [
+        "experiment",
+        "data",
+        "analysis",
+        "measurement",
+        "model"
+    ],
+    "relationship": "The process of observing and analyzing data to understand natural phenomena often involves using tools and techniques to measure and quantify things. This can lead to the development of models that explain how things work.",
+    "elapsed_time": 21.5344135761261,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

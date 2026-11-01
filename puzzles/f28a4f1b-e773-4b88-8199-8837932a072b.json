@@ -1,0 +1,14 @@
+{
+    "uuid": "f28a4f1b-e773-4b88-8199-8837932a072b",
+    "words": [
+        "score",
+        "goal",
+        "point",
+        "win",
+        "game"
+    ],
+    "relationship": "These terms describe actions performed by athletes during a competition to achieve victory.",
+    "elapsed_time": 7.301690340042114,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

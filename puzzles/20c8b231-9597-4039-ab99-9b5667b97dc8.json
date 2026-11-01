@@ -1,0 +1,14 @@
+{
+    "uuid": "20c8b231-9597-4039-ab99-9b5667b97dc8",
+    "words": [
+        "roots",
+        "soil",
+        "fungi",
+        "trees",
+        "leaves"
+    ],
+    "relationship": "These terms all describe elements found in a forest ecosystem. One provides sustenance for another, which in turn supports a third, and the final one is a crucial component for all of their survival and growth.",
+    "elapsed_time": 14.678520441055298,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

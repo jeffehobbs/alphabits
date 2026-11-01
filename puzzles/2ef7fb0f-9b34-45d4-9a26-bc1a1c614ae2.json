@@ -1,0 +1,14 @@
+{
+    "uuid": "2ef7fb0f-9b34-45d4-9a26-bc1a1c614ae2",
+    "words": [
+        "imagination",
+        "narrative",
+        "allegory",
+        "characterization",
+        "metapner"
+    ],
+    "relationship": "In this context, these five words are all related to different aspects of literature - its themes, genres, styles or elements.",
+    "elapsed_time": 13.558027744293213,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

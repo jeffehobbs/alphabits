@@ -1,0 +1,14 @@
+{
+    "uuid": "2a36e29c-3868-4a27-8103-5eee5d7cd789",
+    "words": [
+        "Dada",
+        "Surrealism",
+        "Marcel Duchamp",
+        "Fountain",
+        "Readymades"
+    ],
+    "relationship": "The connection among these terms is their involvement or association within a specific artistic movement that originated during World War II and lasted until approximately the early 1950s, characterized by its use of everyday objects as subjects.",
+    "elapsed_time": 16.018221855163574,
+    "model": "phi3:latest",
+    "topic": "art"
+}

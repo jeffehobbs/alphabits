@@ -1,0 +1,12 @@
+{
+    "uuid": "579f173c-177e-42f4-84a9-71aab675a49e",
+    "words": [
+        "impressionism",
+        "cubism",
+        "surrealism"
+    ],
+    "relationship": "'creativity', 'expression', 'emotion' lead to 'artistic process', which is enhanced by understanding of different cultures and history",
+    "elapsed_time": 13.117926597595215,
+    "model": "phi3:latest",
+    "topic": "art"
+}

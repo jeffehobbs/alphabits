@@ -1,0 +1,14 @@
+{
+    "uuid": "bc55fd33-a7ed-4adc-9224-4037480cb162",
+    "words": [
+        "Revolution",
+        "Empire",
+        "Kingdom",
+        "Dynasty",
+        "Rebellion"
+    ],
+    "relationship": "These concepts often arise during periods of significant societal upheaval and transformation, frequently involving power struggles and shifts in governance. They are crucial for understanding how societies evolve and adapt to new realities.",
+    "elapsed_time": 15.823952913284302,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

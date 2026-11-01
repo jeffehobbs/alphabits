@@ -1,0 +1,14 @@
+{
+    "uuid": "66371d31-ae23-4f3c-8ca8-03df265b99af",
+    "words": [
+        "Thermodynamics",
+        "Entropy",
+        "Heat",
+        "Energy",
+        "Kinetic"
+    ],
+    "relationship": "These terms all describe processes that involve the transformation of energy from one form to another, often with the goal of creating something new or changing a system.",
+    "elapsed_time": 13.334480285644531,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d287a373-0fcc-42c8-92fe-de349a65e736",
+    "words": [
+        "Plot Twist",
+        "Symbolism",
+        "Foreshadowing",
+        "Subtext",
+        "Character Arc"
+    ],
+    "relationship": "author's creation, narrative device, literary element, plot point, character trait",
+    "elapsed_time": 5.487543106079102,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

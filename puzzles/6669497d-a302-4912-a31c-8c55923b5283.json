@@ -1,0 +1,14 @@
+{
+    "uuid": "6669497d-a302-4912-a31c-8c55923b5283",
+    "words": [
+        "pass",
+        "shoot",
+        "dribble",
+        "score",
+        "rebound"
+    ],
+    "relationship": "The words all describe actions performed during a game where a player attempts to move a ball across a designated area to score points.",
+    "elapsed_time": 21.23254895210266,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

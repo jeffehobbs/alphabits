@@ -1,0 +1,14 @@
+{
+    "uuid": "6f3e32ec-e525-4b0d-b6ac-0c9881bf3dd6",
+    "words": [
+        "script",
+        "actor",
+        "stage",
+        "audience",
+        "drama"
+    ],
+    "relationship": "These terms all describe aspects of a captivating and immersive experience, often involving a narrative or performance that draws the audience into a different world or perspective.",
+    "elapsed_time": 13.780251264572144,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

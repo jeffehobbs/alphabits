@@ -1,0 +1,14 @@
+{
+    "uuid": "6894a9c3-143a-42c2-ba98-7155d8e4f330",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "tones"
+    ],
+    "relationship": "The connection or interaction among different elements of something.",
+    "elapsed_time": 11.995171546936035,
+    "model": "phi3:latest",
+    "topic": "music"
+}

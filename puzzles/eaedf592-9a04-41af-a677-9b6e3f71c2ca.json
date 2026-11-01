@@ -1,0 +1,14 @@
+{
+    "uuid": "eaedf592-9a04-41af-a677-9b6e3f71c2ca",
+    "words": [
+        "composer",
+        "lyricist",
+        "singer",
+        "pianist",
+        "guitarist"
+    ],
+    "relationship": "instrumentalists often write and perform these pieces",
+    "elapsed_time": 5.640106201171875,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

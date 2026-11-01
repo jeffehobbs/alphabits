@@ -1,0 +1,14 @@
+{
+    "uuid": "5f0f507a-253e-4bb3-82e4-ce5e3562b1de",
+    "words": [
+        "pass",
+        "shoot",
+        "kick",
+        "dribble",
+        "tackle"
+    ],
+    "relationship": "These are all actions performed by athletes during a game to advance the ball or score points.",
+    "elapsed_time": 20.945327520370483,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

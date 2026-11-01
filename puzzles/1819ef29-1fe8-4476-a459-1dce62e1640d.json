@@ -1,0 +1,14 @@
+{
+    "uuid": "1819ef29-1fe8-4476-a459-1dce62e1640d",
+    "words": [
+        "map",
+        "globe",
+        "satellite",
+        "terrain",
+        "elevation"
+    ],
+    "relationship": "These concepts all describe different ways to represent and understand the Earth's surface, from flat depictions to three-dimensional models.",
+    "elapsed_time": 20.11576271057129,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

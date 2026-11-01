@@ -1,0 +1,14 @@
+{
+    "uuid": "e5a89160-5371-4027-bdaf-6b9e01b88abe",
+    "words": [
+        "plants",
+        "bacteria",
+        "nitrogen fixation",
+        "soil fertility",
+        "legumes"
+    ],
+    "relationship": "A group of plants can form symbiotic relationships to help them grow better.",
+    "elapsed_time": 14.220518350601196,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

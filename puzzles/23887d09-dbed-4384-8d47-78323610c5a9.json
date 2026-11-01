@@ -1,0 +1,14 @@
+{
+    "uuid": "23887d09-dbed-4384-8d47-78323610c5a9",
+    "words": [
+        "Imagery",
+        "Symbolism",
+        "Tone",
+        "Narrative",
+        "Setting"
+    ],
+    "relationship": "These terms all describe elements that contribute to creating a vivid and immersive experience for a reader, focusing on how a story\u2019s details and techniques can powerfully evoke emotions and reactions within the audience.",
+    "elapsed_time": 16.953836679458618,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

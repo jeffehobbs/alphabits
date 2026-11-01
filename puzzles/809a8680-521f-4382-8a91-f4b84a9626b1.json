@@ -1,0 +1,14 @@
+{
+    "uuid": "809a8680-521f-4382-8a91-f4b84a9626b1",
+    "words": [
+        "flora",
+        "fauna",
+        "habitat",
+        "ecosystem",
+        "biodiversity"
+    ],
+    "relationship": "A group of plants live together",
+    "elapsed_time": 10.572526216506958,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

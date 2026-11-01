@@ -1,0 +1,14 @@
+{
+    "uuid": "4c5df3df-1bf6-40b4-9664-aa2e5f45edaa",
+    "words": [
+        "forest",
+        "river",
+        "soil",
+        "sun",
+        "rain"
+    ],
+    "relationship": "These concepts are all interconnected aspects of the Earth's systems, influencing each other in complex ways. Changes in one often have ripple effects on the others, creating a delicate balance.",
+    "elapsed_time": 22.649068593978882,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

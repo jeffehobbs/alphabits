@@ -1,0 +1,14 @@
+{
+    "uuid": "d44fe8f3-2d09-4397-9d93-8867a67f0010",
+    "words": [
+        "archaeology",
+        "primary",
+        "sources",
+        "interpretation",
+        "evidence"
+    ],
+    "relationship": "These terms all describe the process of studying and interpreting the past, often involving analysis of primary sources and considering multiple perspectives to understand events and their significance over time.",
+    "elapsed_time": 13.922731876373291,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

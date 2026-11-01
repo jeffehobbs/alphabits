@@ -1,0 +1,14 @@
+{
+    "uuid": "9effd29f-5664-43b5-9d9c-b56d0ce7cffb",
+    "words": [
+        "series",
+        "reality show",
+        "game show",
+        "podcast",
+        "miniseries"
+    ],
+    "relationship": "You can watch these things on TV or at the movies.",
+    "elapsed_time": 8.047667026519775,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

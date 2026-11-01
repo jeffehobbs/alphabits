@@ -1,0 +1,14 @@
+{
+    "uuid": "14fbe8a8-9559-48d6-8eb8-414925ced198",
+    "words": [
+        "urbanization",
+        "climate",
+        "population",
+        "infrastructure",
+        "resource"
+    ],
+    "relationship": "These concepts are all interconnected and describe different ways humans interact with and shape the Earth's surface. They involve understanding patterns, systems, and the impact of activity on the environment.",
+    "elapsed_time": 18.946109771728516,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "7c8adb49-0148-4bff-bdae-731bf42c374c",
+    "words": [
+        "microscope",
+        "cells",
+        "molecules",
+        "atoms",
+        "chemistry"
+    ],
+    "relationship": "The process of examining something closely to understand its composition and structure, often involving tools and techniques to reveal details not visible to the naked eye. This can lead to the identification of building blocks and how they are arranged.",
+    "elapsed_time": 26.705286264419556,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

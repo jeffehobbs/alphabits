@@ -1,0 +1,13 @@
+{
+    "uuid": "7dee7e57-f123-4782-8f68-a56931d973fd",
+    "words": [
+        "fire",
+        "agriculture",
+        "urbanization",
+        "writing system"
+    ],
+    "relationship": "The discovery of fire was pivotal to human evolution as it led to significant cultural advancements like agriculture, urbanization and writing systems.",
+    "elapsed_time": 15.789316892623901,
+    "model": "phi3:latest",
+    "topic": "history"
+}

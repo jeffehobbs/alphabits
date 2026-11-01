@@ -1,0 +1,14 @@
+{
+    "uuid": "11d6c176-5572-485e-b434-341aa14e2b1e",
+    "words": [
+        "painter",
+        "sculpture",
+        "mural",
+        "collage artist",
+        "installation"
+    ],
+    "relationship": "A group of artists collaborate on an installation piece that explores themes of identity and cultural heritage.",
+    "elapsed_time": 11.810665845870972,
+    "model": "phi3:latest",
+    "topic": "art"
+}

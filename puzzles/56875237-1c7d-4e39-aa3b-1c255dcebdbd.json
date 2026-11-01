@@ -1,0 +1,14 @@
+{
+    "uuid": "56875237-1c7d-4e39-aa3b-1c255dcebdbd",
+    "words": [
+        "erosion",
+        "valley",
+        "river",
+        "landscape",
+        "delta"
+    ],
+    "relationship": "These terms all describe features of the Earth\u2019s surface that are shaped by the continuous movement of water, often over very long periods.",
+    "elapsed_time": 13.212666988372803,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

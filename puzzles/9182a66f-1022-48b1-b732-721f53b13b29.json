@@ -1,0 +1,14 @@
+{
+    "uuid": "9182a66f-1022-48b1-b732-721f53b13b29",
+    "words": [
+        "team",
+        "leader",
+        "coach",
+        "captain",
+        "player"
+    ],
+    "relationship": "team, leader, coach, captain, player",
+    "elapsed_time": 7.664510488510132,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

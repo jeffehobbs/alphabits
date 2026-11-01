@@ -1,0 +1,14 @@
+{
+    "uuid": "fec70b9e-6977-47a1-aef1-9b21b5e139ae",
+    "words": [
+        "evaporation",
+        "condensation",
+        "precipitation",
+        "transpiration",
+        "runoff"
+    ],
+    "relationship": "This group of elements represents different stages or aspects of water's life cycle from evaporation to precipitation.",
+    "elapsed_time": 12.527952194213867,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

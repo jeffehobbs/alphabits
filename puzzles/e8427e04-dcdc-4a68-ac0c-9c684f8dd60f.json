@@ -1,0 +1,14 @@
+{
+    "uuid": "e8427e04-dcdc-4a68-ac0c-9c684f8dd60f",
+    "words": [
+        "Basketball",
+        "Soccer",
+        "Football",
+        "Volleyball",
+        "Tennis"
+    ],
+    "relationship": "Teamwork",
+    "elapsed_time": 9.901366233825684,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

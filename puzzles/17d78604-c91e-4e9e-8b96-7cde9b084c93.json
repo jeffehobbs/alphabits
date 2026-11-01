@@ -1,0 +1,14 @@
+{
+    "uuid": "17d78604-c91e-4e9e-8b96-7cde9b084c93",
+    "words": [
+        "forest",
+        "river",
+        "plants",
+        "animals",
+        "soil"
+    ],
+    "relationship": "These concepts are all interconnected aspects of a thriving ecosystem, where one influences the others in a delicate balance. The health of one directly impacts the well-being of the rest.",
+    "elapsed_time": 20.94844079017639,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

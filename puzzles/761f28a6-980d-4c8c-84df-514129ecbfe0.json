@@ -1,0 +1,14 @@
+{
+    "uuid": "761f28a6-980d-4c8c-84df-514129ecbfe0",
+    "words": [
+        "basketball",
+        "team",
+        "players",
+        "scoring",
+        "opponent"
+    ],
+    "relationship": "A basketball team consists of players who work together to score points by throwing a ball into an opposing hoop.",
+    "elapsed_time": 14.775302648544312,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

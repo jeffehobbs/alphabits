@@ -1,0 +1,14 @@
+{
+    "uuid": "a1f3e6b7-b35a-403f-8160-97b3f5c32748",
+    "words": [
+        "reggae",
+        "jazz",
+        "blues",
+        "soul",
+        "folk"
+    ],
+    "relationship": "These 5 words are all types of musical genres or styles that originated from specific cultures or regions.",
+    "elapsed_time": 8.557962417602539,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

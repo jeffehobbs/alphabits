@@ -1,0 +1,14 @@
+{
+    "uuid": "af4c283b-9e21-456e-8db8-19f54652be43",
+    "words": [
+        "urbanization",
+        "deforestation",
+        "agriculture",
+        "erosion",
+        "conservation"
+    ],
+    "relationship": "These concepts all describe ways humans interact with and modify the natural world, often leading to changes in landscapes and ecosystems.",
+    "elapsed_time": 13.51931118965149,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

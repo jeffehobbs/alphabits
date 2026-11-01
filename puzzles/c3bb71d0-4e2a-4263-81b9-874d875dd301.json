@@ -1,0 +1,14 @@
+{
+    "uuid": "c3bb71d0-4e2a-4263-81b9-874d875dd301",
+    "words": [
+        "radiation",
+        "conduction",
+        "convection",
+        "evaporation",
+        "clothing"
+    ],
+    "relationship": "The first four terms are all forms of energy transfer methods used by living organisms to maintain their internal temperature, while the fifth term is a common device that uses one or more of these processes.",
+    "elapsed_time": 28.376940488815308,
+    "model": "phi3:latest",
+    "topic": "science"
+}

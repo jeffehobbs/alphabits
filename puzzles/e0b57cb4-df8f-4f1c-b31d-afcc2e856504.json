@@ -1,0 +1,14 @@
+{
+    "uuid": "e0b57cb4-df8f-4f1c-b31d-afcc2e856504",
+    "words": [
+        "mountain",
+        "hill",
+        "plateau",
+        "valley",
+        "plain"
+    ],
+    "relationship": "These words describe different types of physical features found on Earth's surface.",
+    "elapsed_time": 14.627238988876343,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

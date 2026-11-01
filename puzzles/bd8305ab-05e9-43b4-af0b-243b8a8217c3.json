@@ -1,0 +1,14 @@
+{
+    "uuid": "bd8305ab-05e9-43b4-af0b-243b8a8217c3",
+    "words": [
+        "Plot",
+        "Character",
+        "Setting",
+        "Theme",
+        "Author"
+    ],
+    "relationship": "These five words are connected through their meanings in relation to storytelling.",
+    "elapsed_time": 8.174662590026855,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

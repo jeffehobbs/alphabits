@@ -1,0 +1,14 @@
+{
+    "uuid": "9757b01b-2f07-4265-a8fd-4c84debd7a16",
+    "words": [
+        "colonialism",
+        "empire",
+        "resources",
+        "exploitation",
+        "trade"
+    ],
+    "relationship": "During colonial times, European powers established colonies around the world to exploit resources such as gold, silver, spices and slaves",
+    "elapsed_time": 12.854065179824829,
+    "model": "phi3:latest",
+    "topic": "history"
+}

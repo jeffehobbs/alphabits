@@ -1,0 +1,14 @@
+{
+    "uuid": "4a84106e-f109-4cb2-8b55-08d6f84c18aa",
+    "words": [
+        "Evolution",
+        "Adaptation",
+        "Mutation",
+        "Genetics",
+        "Species"
+    ],
+    "relationship": "These 5 words are all concepts that describe or relate to how things change over time.",
+    "elapsed_time": 8.860769510269165,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

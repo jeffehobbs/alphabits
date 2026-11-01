@@ -1,0 +1,14 @@
+{
+    "uuid": "c6cb27d0-fd47-46ba-8114-98ff69fabbc7",
+    "words": [
+        "iconography",
+        "sacred geometry",
+        "liturgical vestments",
+        "devotional painting",
+        "ritual mask"
+    ],
+    "relationship": "There is a spiritual connection present among these elements as they often inspire or depict religious themes.",
+    "elapsed_time": 16.12636685371399,
+    "model": "phi3:latest",
+    "topic": "art"
+}

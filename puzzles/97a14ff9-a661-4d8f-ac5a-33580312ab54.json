@@ -1,0 +1,14 @@
+{
+    "uuid": "97a14ff9-a661-4d8f-ac5a-33580312ab54",
+    "words": [
+        "palette",
+        "hue",
+        "tone",
+        "shade",
+        "value"
+    ],
+    "relationship": "These terms all describe different ways a visual work can evoke a feeling or emotional response in the viewer, often through careful arrangement and use of color and form.",
+    "elapsed_time": 10.345248222351074,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6fb94591-7b1c-4109-8eaa-b8f48c00e307",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "The following terms all describe aspects of creating a sound or a musical piece. They relate to the process of organizing and shaping auditory elements to evoke emotion or tell a story.",
+    "elapsed_time": 22.164194345474243,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

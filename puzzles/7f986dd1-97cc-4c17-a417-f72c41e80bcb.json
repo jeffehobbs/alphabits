@@ -1,0 +1,14 @@
+{
+    "uuid": "7f986dd1-97cc-4c17-a417-f72c41e80bcb",
+    "words": [
+        "novel",
+        "short story",
+        "poem",
+        "essay",
+        "screenplay"
+    ],
+    "relationship": "These five words are connected through their meanings, where one word is a characteristic of another, and they all relate to human emotions or behaviors.",
+    "elapsed_time": 9.469141006469727,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "66f342db-97e0-4bfa-b198-f55765550c7f",
+    "words": [
+        "piano",
+        "accompaniment",
+        "song",
+        "orchestra",
+        "score"
+    ],
+    "relationship": "instrumental accompaniment melody composition",
+    "elapsed_time": 7.343716382980347,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8e8c375a-4b6b-4dec-aff7-2bb0cb3df847",
+    "words": [
+        "teamwork",
+        "competition",
+        "performance",
+        "training",
+        "tournament"
+    ],
+    "relationship": "a close association or connection",
+    "elapsed_time": 9.66696548461914,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

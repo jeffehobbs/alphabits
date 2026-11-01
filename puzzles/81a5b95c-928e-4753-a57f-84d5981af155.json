@@ -1,0 +1,14 @@
+{
+    "uuid": "81a5b95c-928e-4753-a57f-84d5981af155",
+    "words": [
+        "evaporation",
+        "condensation",
+        "precipitation",
+        "runoff",
+        "infiltration"
+    ],
+    "relationship": "All these words are related as they describe different aspects of the same natural process.",
+    "elapsed_time": 7.907024145126343,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

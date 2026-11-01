@@ -1,0 +1,14 @@
+{
+    "uuid": "a6ebf6ea-f710-4aa6-ac91-69988a647077",
+    "words": [
+        "screen",
+        "plot",
+        "actor",
+        "scene",
+        "film"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story through a visual medium, often involving actors and a narrative arc.",
+    "elapsed_time": 8.348098993301392,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

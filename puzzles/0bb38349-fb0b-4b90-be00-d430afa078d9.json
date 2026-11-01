@@ -1,0 +1,14 @@
+{
+    "uuid": "0bb38349-fb0b-4b90-be00-d430afa078d9",
+    "words": [
+        "Ancient",
+        "Medieval",
+        "Early Modern",
+        "Industrial",
+        "Postmodern"
+    ],
+    "relationship": "all are periods of time",
+    "elapsed_time": 6.585638999938965,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "2a7572f5-d771-439a-ba39-77091afa8f08",
+    "words": [
+        "Plot",
+        "Characterization",
+        "Conflict",
+        "Resolution",
+        "Point of View"
+    ],
+    "relationship": "These are all literary terms associated with narrative structure.",
+    "elapsed_time": 11.751583814620972,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

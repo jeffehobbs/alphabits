@@ -1,0 +1,13 @@
+{
+    "uuid": "107202c1-b272-4141-b004-c3228fe8fdc8",
+    "words": [
+        "Industrial revolution",
+        "urbanization",
+        "demand increase",
+        "mass production"
+    ],
+    "relationship": ". The Industrial Revolution led to urbanization which increased demand for goods leading to mass production methods like assembly line.",
+    "elapsed_time": 15.476203918457031,
+    "model": "phi3:latest",
+    "topic": "history"
+}

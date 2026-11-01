@@ -1,0 +1,14 @@
+{
+    "uuid": "f6feb8bd-112c-425f-b4fa-bd726f4c9eba",
+    "words": [
+        "actor",
+        "stage",
+        "audience",
+        "drama",
+        "performance"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing enjoyment and excitement through a performance or creative work.",
+    "elapsed_time": 11.730522155761719,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

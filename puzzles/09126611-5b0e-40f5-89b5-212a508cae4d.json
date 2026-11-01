@@ -1,0 +1,14 @@
+{
+    "uuid": "09126611-5b0e-40f5-89b5-212a508cae4d",
+    "words": [
+        "Narrative",
+        "Theme",
+        "Plot",
+        "Symbolism",
+        "Character"
+    ],
+    "relationship": "These terms all describe aspects of how a story is constructed and experienced, focusing on the deliberate choices made by the author and the way a reader interprets those choices to create meaning.",
+    "elapsed_time": 17.301674127578735,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

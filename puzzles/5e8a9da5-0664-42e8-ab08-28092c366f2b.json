@@ -1,0 +1,14 @@
+{
+    "uuid": "5e8a9da5-0664-42e8-ab08-28092c366f2b",
+    "words": [
+        "movies",
+        "music",
+        "books",
+        "games",
+        "comics"
+    ],
+    "relationship": "They are all types of media consumed by people.",
+    "elapsed_time": 7.0086669921875,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

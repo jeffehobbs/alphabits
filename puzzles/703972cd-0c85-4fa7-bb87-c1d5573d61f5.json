@@ -1,0 +1,14 @@
+{
+    "uuid": "703972cd-0c85-4fa7-bb87-c1d5573d61f5",
+    "words": [
+        "bay",
+        "gulf",
+        "strait",
+        "fjord",
+        "bight"
+    ],
+    "relationship": "a body of water is typically surrounded by land, which can be a continent, island, or country",
+    "elapsed_time": 8.33073616027832,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

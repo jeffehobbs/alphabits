@@ -1,0 +1,14 @@
+{
+    "uuid": "366b8961-399a-40b5-8e60-451d3c44af47",
+    "words": [
+        "latitude",
+        "longitude",
+        "altitude",
+        "elevation",
+        "depth"
+    ],
+    "relationship": "The terms are all interconnected as they refer to different types of measurements used for understanding geographic features.",
+    "elapsed_time": 15.659537076950073,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

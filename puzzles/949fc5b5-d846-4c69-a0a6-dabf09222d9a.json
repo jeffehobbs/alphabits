@@ -1,0 +1,14 @@
+{
+    "uuid": "949fc5b5-d846-4c69-a0a6-dabf09222d9a",
+    "words": [
+        "melody",
+        "harmony",
+        "composition",
+        "performance",
+        "arrangement"
+    ],
+    "relationship": "These terms all describe different aspects of the process of creating a song, from the initial idea to the final, polished product. One represents the building blocks, another the overall structure, a third the emotional impact, a fourth the technical refinement, and the last is the act of bringing it to life through performance.",
+    "elapsed_time": 18.140297889709473,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

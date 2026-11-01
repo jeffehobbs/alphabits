@@ -1,0 +1,14 @@
+{
+    "uuid": "66111648-4005-408d-9396-f7e7441f7028",
+    "words": [
+        "Screenplay",
+        "Director",
+        "Actor",
+        "Audience",
+        "Cinematography"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story through a visual medium, often involving a narrative and characters designed to evoke emotion and immersion.",
+    "elapsed_time": 15.191237449645996,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

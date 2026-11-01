@@ -1,0 +1,14 @@
+{
+    "uuid": "3b99ff7b-09ca-454c-a81f-a67632f2bce1",
+    "words": [
+        "Colonization",
+        "Exploitation",
+        "Oppression",
+        "Discovery",
+        "Freedom"
+    ],
+    "relationship": "A period of time when these events occurred: discovery, colonization, exploitation, oppression, and eventual freedom.",
+    "elapsed_time": 8.542660236358643,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

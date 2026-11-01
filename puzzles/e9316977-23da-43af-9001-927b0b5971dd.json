@@ -1,0 +1,14 @@
+{
+    "uuid": "e9316977-23da-43af-9001-927b0b5971dd",
+    "words": [
+        "movie",
+        "medium",
+        "story",
+        "screen",
+        "audience"
+    ],
+    "relationship": "A movie is often used as a medium for sharing stories.",
+    "elapsed_time": 7.724334239959717,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

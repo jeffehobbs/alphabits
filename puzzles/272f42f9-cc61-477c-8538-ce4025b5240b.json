@@ -1,0 +1,14 @@
+{
+    "uuid": "272f42f9-cc61-477c-8538-ce4025b5240b",
+    "words": [
+        "painter",
+        "sculptor",
+        "muralist",
+        "graphic designer",
+        "illustrator"
+    ],
+    "relationship": "A group of artists working together on a collaborative art project",
+    "elapsed_time": 11.625589609146118,
+    "model": "phi3:latest",
+    "topic": "art"
+}

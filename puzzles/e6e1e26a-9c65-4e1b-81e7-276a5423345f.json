@@ -1,0 +1,14 @@
+{
+    "uuid": "e6e1e26a-9c65-4e1b-81e7-276a5423345f",
+    "words": [
+        "plot",
+        "character",
+        "setting",
+        "theme",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear together when discussing how stories are structured and how they unfold for the audience. They describe elements that contribute to the overall narrative arc and the way a tale captivates a reader.",
+    "elapsed_time": 23.31820297241211,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

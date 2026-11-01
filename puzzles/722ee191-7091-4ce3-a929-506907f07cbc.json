@@ -1,0 +1,14 @@
+{
+    "uuid": "722ee191-7091-4ce3-a929-506907f07cbc",
+    "words": [
+        "script",
+        "actor",
+        "stage",
+        "audience",
+        "drama"
+    ],
+    "relationship": "These terms all describe aspects of a live performance, from the creation of the story to the audience's experience of it.",
+    "elapsed_time": 12.18873119354248,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f824e09d-d36d-4f1b-9a57-4eea099a32ad",
+    "words": [
+        "Coach",
+        "Player",
+        "Game",
+        "Field",
+        "Referee"
+    ],
+    "relationship": "Team",
+    "elapsed_time": 5.982196569442749,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

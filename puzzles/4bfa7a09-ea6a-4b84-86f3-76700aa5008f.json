@@ -1,0 +1,14 @@
+{
+    "uuid": "4bfa7a09-ea6a-4b84-86f3-76700aa5008f",
+    "words": [
+        "continental drift",
+        "plate tectonics",
+        "erosion",
+        "geomorphology",
+        "altitudinal"
+    ],
+    "relationship": "These terms describe the process of landmasses shifting over immense periods, driven by forces like plate movement and erosion, ultimately reshaping continents and oceans.",
+    "elapsed_time": 11.283130645751953,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

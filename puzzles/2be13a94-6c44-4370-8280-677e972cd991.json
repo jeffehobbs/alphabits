@@ -1,0 +1,14 @@
+{
+    "uuid": "2be13a94-6c44-4370-8280-677e972cd991",
+    "words": [
+        "Soccer",
+        "Basketball",
+        "Football",
+        "Rugby",
+        "Volleyball"
+    ],
+    "relationship": "A group of players working together towards common goals.",
+    "elapsed_time": 14.4874107837677,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ea4693a6-82be-4c17-a0fd-ef2e5e5ebf70",
+    "words": [
+        "narrative",
+        "interpretation",
+        "theme",
+        "symbolism",
+        "analysis"
+    ],
+    "relationship": "These terms all describe different ways a reader can engage with a text, moving from a broad understanding to a deeply personal and imaginative one.",
+    "elapsed_time": 16.01321268081665,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

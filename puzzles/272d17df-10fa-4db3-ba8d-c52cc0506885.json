@@ -1,0 +1,13 @@
+{
+    "uuid": "272d17df-10fa-4db3-ba8d-c52cc0506885",
+    "words": [
+        "painting",
+        "impressionist",
+        "canvas",
+        "acrylic paints"
+    ],
+    "relationship": "The first word represents an activity or style of creating art while the second is a characteristic often associated with it. The third and fourth are materials that can be used to create this type of art, respectively, representing traditional and modern techniques.",
+    "elapsed_time": 19.054036378860474,
+    "model": "phi3:latest",
+    "topic": "art"
+}

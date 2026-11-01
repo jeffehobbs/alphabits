@@ -1,0 +1,14 @@
+{
+    "uuid": "77d66960-9efa-4375-80dd-25a7c6a20229",
+    "words": [
+        "empire",
+        "dynasty",
+        "revolution",
+        "conquest",
+        "legacy"
+    ],
+    "relationship": "These terms all describe significant shifts in power and control that occurred over extended periods, often driven by competition and the rise and fall of various groups and empires.",
+    "elapsed_time": 13.696283102035522,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "6fa66ab9-4b3c-4911-8158-2bc03e09c555",
+    "words": [
+        "river",
+        "water cycle",
+        "ocean",
+        "rainforest",
+        "ecosystem"
+    ],
+    "relationship": "A river flows into an ocean",
+    "elapsed_time": 12.603615522384644,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

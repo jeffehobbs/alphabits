@@ -1,0 +1,14 @@
+{
+    "uuid": "cb86320f-7bd2-462b-b6a5-f8c2fce4eec8",
+    "words": [
+        "stage",
+        "performance",
+        "audience",
+        "spotlight",
+        "applause"
+    ],
+    "relationship": "The following words are all commonly found in the context of live performances where an audience gathers to watch a skilled individual or group showcase their abilities. They describe aspects of the experience, from the setting to the skill displayed.",
+    "elapsed_time": 16.111974239349365,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

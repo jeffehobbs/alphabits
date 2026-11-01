@@ -1,0 +1,13 @@
+{
+    "uuid": "2acbd101-2eb6-440a-8d90-62f91cb529fb",
+    "words": [
+        "batting average",
+        "home run",
+        "baseball field",
+        "strikeout count"
+    ],
+    "relationship": "scoreboard player field result",
+    "elapsed_time": 6.609064102172852,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

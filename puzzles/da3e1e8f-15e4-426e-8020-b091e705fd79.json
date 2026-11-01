@@ -1,0 +1,14 @@
+{
+    "uuid": "da3e1e8f-15e4-426e-8020-b091e705fd79",
+    "words": [
+        "painter",
+        "canvas",
+        "brushes",
+        "colors",
+        "expression"
+    ],
+    "relationship": "Artists create visual representations of emotions through their chosen mediums.",
+    "elapsed_time": 14.148007869720459,
+    "model": "phi3:latest",
+    "topic": "art"
+}

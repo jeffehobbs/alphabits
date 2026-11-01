@@ -1,0 +1,14 @@
+{
+    "uuid": "ddf0fe08-a329-4dab-baa6-b47a7397a8d0",
+    "words": [
+        "victory",
+        "dominance",
+        "performance",
+        "achievement",
+        "success"
+    ],
+    "relationship": "It describes a situation where a player or team consistently performs exceptionally well, often dominating their competition and achieving a high level of success and triumph.",
+    "elapsed_time": 12.007750034332275,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

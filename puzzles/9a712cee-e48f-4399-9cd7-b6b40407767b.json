@@ -1,0 +1,14 @@
+{
+    "uuid": "9a712cee-e48f-4399-9cd7-b6b40407767b",
+    "words": [
+        "chemist",
+        "laboratory",
+        "experimentation",
+        "elements",
+        "compounds"
+    ],
+    "relationship": "A chemist studies chemical reactions",
+    "elapsed_time": 17.391529083251953,
+    "model": "phi3:latest",
+    "topic": "science"
+}

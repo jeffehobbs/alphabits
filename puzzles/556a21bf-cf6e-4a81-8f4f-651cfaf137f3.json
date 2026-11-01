@@ -1,0 +1,14 @@
+{
+    "uuid": "556a21bf-cf6e-4a81-8f4f-651cfaf137f3",
+    "words": [
+        "shoot",
+        "pass",
+        "score",
+        "dribble",
+        "kick"
+    ],
+    "relationship": "These are all actions performed by athletes during a game to score points or gain an advantage.",
+    "elapsed_time": 12.99854826927185,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "c903c19d-7d79-4d8d-8cc7-1e6def679b4c",
+    "words": [
+        "Dynasty",
+        "Empire",
+        "Mongol",
+        "Conquest",
+        "Feudalism"
+    ],
+    "relationship": "Causes lead to effects which can be good or bad",
+    "elapsed_time": 8.510491847991943,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

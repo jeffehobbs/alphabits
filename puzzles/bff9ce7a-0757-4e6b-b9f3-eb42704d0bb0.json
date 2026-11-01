@@ -1,0 +1,14 @@
+{
+    "uuid": "bff9ce7a-0757-4e6b-b9f3-eb42704d0bb0",
+    "words": [
+        "Effort",
+        "Strategy",
+        "Outcome",
+        "Performance",
+        "Victory"
+    ],
+    "relationship": "These terms all describe different aspects of a team's performance and strategy during a competitive game. One focuses on the physical exertion required, another on the tactical decisions made, a third on the overall outcome, a fourth on the individual player\u2019s contribution, and the final describes the process of achieving victory.",
+    "elapsed_time": 22.632479190826416,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "aa0bcfbb-d3e3-49b9-b3eb-f79e8147ed6e",
+    "words": [
+        "observation",
+        "experiment",
+        "data",
+        "analysis",
+        "theory"
+    ],
+    "relationship": "These terms all describe the process of observing, measuring, and recording data to understand how something works and to test a hypothesis about it.",
+    "elapsed_time": 21.60202693939209,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

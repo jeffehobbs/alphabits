@@ -1,0 +1,14 @@
+{
+    "uuid": "bec2cf3c-bc15-4d35-90ff-f14b5f53f820",
+    "words": [
+        "wind",
+        "trees",
+        "autumn",
+        "ground",
+        "fall"
+    ],
+    "relationship": "[Wind] moves [leaves], which then fall to the ground due to gravity.",
+    "elapsed_time": 13.300102472305298,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

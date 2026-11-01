@@ -1,0 +1,13 @@
+{
+    "uuid": "c063bb60-29ec-4bfe-8d29-d4e4fe6a3d00",
+    "words": [
+        "ecosystem",
+        "species",
+        "pollution",
+        "conservation"
+    ],
+    "relationship": "One word represents an ecosystem while another is its inhabitinant; a third symbolizes human impact on nature, and two others indicate elements that contribute to or are affected by this relationship.",
+    "elapsed_time": 13.877785921096802,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

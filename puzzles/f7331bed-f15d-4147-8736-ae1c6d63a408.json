@@ -1,0 +1,14 @@
+{
+    "uuid": "f7331bed-f15d-4147-8736-ae1c6d63a408",
+    "words": [
+        "Setting",
+        "Character",
+        "Plot",
+        "Theme",
+        "Imagery"
+    ],
+    "relationship": "These terms all describe elements that contribute to creating a believable and immersive experience for a reader, often involving a careful construction of detail and emotional impact.",
+    "elapsed_time": 15.890969514846802,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

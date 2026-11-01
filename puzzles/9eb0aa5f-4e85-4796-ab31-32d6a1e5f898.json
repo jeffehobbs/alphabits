@@ -1,0 +1,14 @@
+{
+    "uuid": "9eb0aa5f-4e85-4796-ab31-32d6a1e5f898",
+    "words": [
+        "script",
+        "director",
+        "actor",
+        "scene",
+        "performance"
+    ],
+    "relationship": "These terms all describe aspects of creating and experiencing stories, particularly those told through visual media, and the emotional impact they have on an audience.",
+    "elapsed_time": 12.239799499511719,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

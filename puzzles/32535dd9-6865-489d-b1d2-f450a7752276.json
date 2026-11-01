@@ -1,0 +1,14 @@
+{
+    "uuid": "32535dd9-6865-489d-b1d2-f450a7752276",
+    "words": [
+        "Impressionism",
+        "Expressionism",
+        "Fauvism",
+        "Cubism",
+        "Surrealism"
+    ],
+    "relationship": "style",
+    "elapsed_time": 7.145086288452148,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

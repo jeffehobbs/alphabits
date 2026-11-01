@@ -1,0 +1,14 @@
+{
+    "uuid": "545cdc30-505a-46ed-b003-54980c6fbf63",
+    "words": [
+        "film",
+        "video",
+        "game",
+        "music",
+        "book"
+    ],
+    "relationship": "These words are all types of media that people consume for leisure.",
+    "elapsed_time": 3.9126055240631104,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "0449833d-c6e8-467b-b4b6-7a4fe136fbfb",
+    "words": [
+        "series",
+        "novels",
+        "writers",
+        "collaboration"
+    ],
+    "relationship": "A set of interconnected literary works often sharing common themes or settings that are created by multiple authors.",
+    "elapsed_time": 15.047050476074219,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "4d492c06-98f9-4187-b855-7cc12786e1f9",
+    "words": [
+        "Strategy",
+        "Tactics",
+        "Execution",
+        "Performance",
+        "Competition"
+    ],
+    "relationship": "These terms all describe aspects of a competition where an athlete attempts to overcome obstacles and achieve a superior position relative to their rivals, often involving strategic planning and physical exertion to gain an advantage.",
+    "elapsed_time": 16.540051698684692,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

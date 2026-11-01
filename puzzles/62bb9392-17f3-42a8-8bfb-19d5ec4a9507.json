@@ -1,0 +1,14 @@
+{
+    "uuid": "62bb9392-17f3-42a8-8bfb-19d5ec4a9507",
+    "words": [
+        "Decomposition",
+        "Nutrient",
+        "Bacteria",
+        "Organic",
+        "Soil"
+    ],
+    "relationship": "These terms all describe processes involved in the gradual transformation of organic matter into soil, contributing to the fertility and health of the ground.",
+    "elapsed_time": 13.301464557647705,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

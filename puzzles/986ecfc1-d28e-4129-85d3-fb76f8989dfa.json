@@ -1,0 +1,14 @@
+{
+    "uuid": "986ecfc1-d28e-4129-85d3-fb76f8989dfa",
+    "words": [
+        "canvas",
+        "sculpture",
+        "printmaking",
+        "carving",
+        "painting"
+    ],
+    "relationship": "A medium used for creating a 2D image is often created from a 3D object.",
+    "elapsed_time": 8.820932865142822,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

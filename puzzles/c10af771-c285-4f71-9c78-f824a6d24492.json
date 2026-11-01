@@ -1,0 +1,14 @@
+{
+    "uuid": "c10af771-c285-4f71-9c78-f824a6d24492",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "setting",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear together when discussing storytelling and the way narratives are constructed. They relate to the process of crafting a compelling and meaningful account.",
+    "elapsed_time": 20.575680017471313,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

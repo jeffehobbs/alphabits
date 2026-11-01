@@ -1,0 +1,14 @@
+{
+    "uuid": "cbbe849d-a505-4b83-8d81-f077ad672a78",
+    "words": [
+        "canvas",
+        "paint",
+        "brush",
+        "ink",
+        "paper"
+    ],
+    "relationship": "A painter uses these materials to create their work.",
+    "elapsed_time": 7.663746356964111,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

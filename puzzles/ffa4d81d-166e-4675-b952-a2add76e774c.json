@@ -1,0 +1,14 @@
+{
+    "uuid": "ffa4d81d-166e-4675-b952-a2add76e774c",
+    "words": [
+        "stream",
+        "river",
+        "brook",
+        "creek",
+        "waterfall"
+    ],
+    "relationship": "They all describe different aspects of water flow.",
+    "elapsed_time": 10.25215768814087,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

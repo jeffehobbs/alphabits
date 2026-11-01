@@ -1,0 +1,14 @@
+{
+    "uuid": "ef95d3d7-026e-4021-83c8-a7f83e639971",
+    "words": [
+        "mountain",
+        "valley",
+        "plateau",
+        "canal",
+        "river"
+    ],
+    "relationship": "All are features of landforms.",
+    "elapsed_time": 7.236470460891724,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

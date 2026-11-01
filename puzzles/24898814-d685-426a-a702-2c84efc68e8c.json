@@ -1,0 +1,14 @@
+{
+    "uuid": "24898814-d685-426a-a702-2c84efc68e8c",
+    "words": [
+        "shoot",
+        "pass",
+        "dribble",
+        "kick",
+        "slam"
+    ],
+    "relationship": "These are all actions performed by athletes during a competition to achieve victory.",
+    "elapsed_time": 17.78634762763977,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

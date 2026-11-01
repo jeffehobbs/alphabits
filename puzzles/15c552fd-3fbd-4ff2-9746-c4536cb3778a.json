@@ -1,0 +1,14 @@
+{
+    "uuid": "15c552fd-3fbd-4ff2-9746-c4536cb3778a",
+    "words": [
+        "mutation",
+        "genetics",
+        "heredity",
+        "variation",
+        "evolution"
+    ],
+    "relationship": "These terms all describe processes involved in understanding how living organisms change over time, often through inherited traits and adaptations to their environments.",
+    "elapsed_time": 13.85967230796814,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "eab16da4-a1d8-481f-b3f8-05e78510a941",
+    "words": [
+        "observation",
+        "experiment",
+        "data",
+        "model",
+        "theory"
+    ],
+    "relationship": "The process of observing and analyzing data to understand the natural world often involves using tools and techniques to measure and quantify phenomena. This can lead to the development of models that explain how things work and make predictions about future events.  These predictions can then be tested through further observation and experimentation.",
+    "elapsed_time": 22.166074752807617,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

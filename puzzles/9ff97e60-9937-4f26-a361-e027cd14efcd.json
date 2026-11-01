@@ -1,0 +1,13 @@
+{
+    "uuid": "9ff97e60-9937-4f26-a361-e027cd14efcd",
+    "words": [
+        "observation",
+        "hypothesis",
+        "experiment",
+        "analysis"
+    ],
+    "relationship": "The process of scientific inquiry often involves observation, hypothesis formulation based on those observations, conducting experiments to test these hypotheses and analyzing results.",
+    "elapsed_time": 12.694087266921997,
+    "model": "phi3:latest",
+    "topic": "science"
+}

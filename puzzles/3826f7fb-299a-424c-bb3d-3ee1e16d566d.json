@@ -1,0 +1,14 @@
+{
+    "uuid": "3826f7fb-299a-424c-bb3d-3ee1e16d566d",
+    "words": [
+        "narrative",
+        "character",
+        "theme",
+        "plot",
+        "symbolism"
+    ],
+    "relationship": "These concepts are often explored by writers to examine the complexities of human experience, particularly concerning morality, identity, and the search for meaning. They frequently appear in narratives dealing with personal growth and societal critique.",
+    "elapsed_time": 16.14228391647339,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

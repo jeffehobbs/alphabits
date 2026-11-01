@@ -1,0 +1,14 @@
+{
+    "uuid": "897c1586-1d63-4c4c-8a47-e63fc4dd3b60",
+    "words": [
+        "plot",
+        "character",
+        "setting",
+        "theme",
+        "narrative"
+    ],
+    "relationship": "These terms all describe elements that contribute to the overall meaning and impact of a written narrative. They help shape the reader's understanding of characters, setting, and the underlying message.",
+    "elapsed_time": 22.511988639831543,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

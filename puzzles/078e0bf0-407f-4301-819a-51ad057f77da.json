@@ -1,0 +1,14 @@
+{
+    "uuid": "078e0bf0-407f-4301-819a-51ad057f77da",
+    "words": [
+        "forest",
+        "river",
+        "sunlight",
+        "plants",
+        "animals"
+    ],
+    "relationship": "The words are all interconnected parts of a larger system that supports life and is essential for the survival of many living things. They often occur together and influence each other.",
+    "elapsed_time": 14.384140729904175,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

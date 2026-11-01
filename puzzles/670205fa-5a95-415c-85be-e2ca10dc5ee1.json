@@ -1,0 +1,14 @@
+{
+    "uuid": "670205fa-5a95-415c-85be-e2ca10dc5ee1",
+    "words": [
+        "composer",
+        "movies",
+        "soundtracks",
+        "audienclist",
+        "iconic"
+    ],
+    "relationship": "A famous musical composer has created original songs for several movies that have become iconic soundtracks loved by audiences worldwide.",
+    "elapsed_time": 17.07054615020752,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

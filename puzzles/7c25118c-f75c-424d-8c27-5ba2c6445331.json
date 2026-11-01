@@ -1,0 +1,14 @@
+{
+    "uuid": "7c25118c-f75c-424d-8c27-5ba2c6445331",
+    "words": [
+        "Painter",
+        "Canvas",
+        "Brush",
+        "Color palette",
+        "Sculpture"
+    ],
+    "relationship": "An artist creates visual representations of emotions or concepts through various mediums.",
+    "elapsed_time": 14.547101736068726,
+    "model": "phi3:latest",
+    "topic": "art"
+}

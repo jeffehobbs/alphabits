@@ -1,0 +1,14 @@
+{
+    "uuid": "401bc0a3-980d-41db-84b4-7ef18724d14c",
+    "words": [
+        "river",
+        "waterfall",
+        "stream",
+        "lake",
+        "ocean"
+    ],
+    "relationship": "A river flows into an ocean.",
+    "elapsed_time": 10.348169326782227,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

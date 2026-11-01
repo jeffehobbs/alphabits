@@ -1,0 +1,14 @@
+{
+    "uuid": "e3c6e200-5a6c-4ba1-813f-cfb8cd05cbda",
+    "words": [
+        "harmony",
+        "tempo",
+        "melody",
+        "texture",
+        "dynamics"
+    ],
+    "relationship": "These terms all describe different aspects of how a piece of music is constructed and how it evokes an emotional response in a listener. One focuses on the structure of the piece, another on the specific sound qualities, a third on the way it is organized in time, a fourth on the overall feeling it generates, and the final one describes the arrangement of instruments to create a specific effect.",
+    "elapsed_time": 25.578691005706787,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

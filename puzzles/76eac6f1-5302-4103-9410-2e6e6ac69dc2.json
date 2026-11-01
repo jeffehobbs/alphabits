@@ -1,0 +1,14 @@
+{
+    "uuid": "76eac6f1-5302-4103-9410-2e6e6ac69dc2",
+    "words": [
+        "Timbre",
+        "Harmony",
+        "Dynamics",
+        "Mixing",
+        "Arrangement"
+    ],
+    "relationship": "These terms all describe different aspects of how a piece of audio is created and experienced, from the initial sound design to the final, polished result. One focuses on the raw building blocks, another on the overall structure, a third on the emotional impact, a fourth on the technical adjustments, and the last on the final, presented form.",
+    "elapsed_time": 26.807893991470337,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

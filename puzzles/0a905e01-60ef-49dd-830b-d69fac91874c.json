@@ -1,0 +1,14 @@
+{
+    "uuid": "0a905e01-60ef-49dd-830b-d69fac91874c",
+    "words": [
+        "forest",
+        "river",
+        "sunlight",
+        "plants",
+        "animals"
+    ],
+    "relationship": "The words all describe aspects of a thriving, interconnected ecosystem where living things depend on each other and their surroundings for survival and growth.",
+    "elapsed_time": 20.572213888168335,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

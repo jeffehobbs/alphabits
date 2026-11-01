@@ -1,0 +1,14 @@
+{
+    "uuid": "fcba9267-daa1-4a65-b2db-40e989d21b36",
+    "words": [
+        "mountain",
+        "valley",
+        "plateau",
+        "basin",
+        "ridge"
+    ],
+    "relationship": "These terms all describe different aspects of the shape and features of the Earth\u2019s surface, particularly focusing on how landforms are formed and how they relate to elevation and water.",
+    "elapsed_time": 13.645785093307495,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

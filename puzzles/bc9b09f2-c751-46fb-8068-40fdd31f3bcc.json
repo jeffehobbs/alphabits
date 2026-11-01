@@ -1,0 +1,14 @@
+{
+    "uuid": "bc9b09f2-c751-46fb-8068-40fdd31f3bcc",
+    "words": [
+        "painting",
+        "sculpture",
+        "drawing",
+        "photography",
+        "ceramics"
+    ],
+    "relationship": "The terms all describe aspects of creating a visual representation, often involving skill and imagination, and frequently found in museums or galleries.",
+    "elapsed_time": 19.411311388015747,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

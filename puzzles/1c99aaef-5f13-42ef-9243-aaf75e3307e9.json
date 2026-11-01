@@ -1,0 +1,14 @@
+{
+    "uuid": "1c99aaef-5f13-42ef-9243-aaf75e3307e9",
+    "words": [
+        "melody",
+        "rhythm",
+        "harmony",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "These concepts all describe aspects of how sound is organized and structured over time.",
+    "elapsed_time": 22.310389518737793,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

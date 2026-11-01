@@ -1,0 +1,14 @@
+{
+    "uuid": "39fc9c38-33a5-4dd9-a8ec-f4560e5028e4",
+    "words": [
+        "Rock",
+        "Emo",
+        "Punk",
+        "Alternative",
+        "Grunge"
+    ],
+    "relationship": "A genre of music characterized by its strong emotional intensity",
+    "elapsed_time": 8.231797218322754,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "66137f2d-b4e4-4e83-9fc4-2551fde20a49",
+    "words": [
+        "drama",
+        "music",
+        "comedy",
+        "movies",
+        "theater"
+    ],
+    "relationship": "These are all activities that provide amusement and enjoyment to an audience, often involving performance or skillful execution.",
+    "elapsed_time": 19.103882789611816,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

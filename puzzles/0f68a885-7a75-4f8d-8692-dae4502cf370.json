@@ -1,0 +1,14 @@
+{
+    "uuid": "0f68a885-7a75-4f8d-8692-dae4502cf370",
+    "words": [
+        "French Revolution",
+        "American Civil War",
+        "Russian Revolution",
+        "World Wars I and II",
+        "March on Rome"
+    ],
+    "relationship": "These events are all pivotal moments of significant change or transformation that have had a lasting impact on European history.",
+    "elapsed_time": 13.17006778717041,
+    "model": "phi3:latest",
+    "topic": "history"
+}

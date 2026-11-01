@@ -1,0 +1,14 @@
+{
+    "uuid": "8dc3b54a-2895-4b8e-a0e1-d40c9d13df95",
+    "words": [
+        "golf",
+        "tennis",
+        "basketball",
+        "football",
+        "boxing"
+    ],
+    "relationship": "involving competition for physical skill",
+    "elapsed_time": 7.062580108642578,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

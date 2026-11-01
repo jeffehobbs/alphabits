@@ -1,0 +1,14 @@
+{
+    "uuid": "9515af47-be93-498d-b918-1d3e25e0f5b2",
+    "words": [
+        "Ocean",
+        "Lake",
+        "River",
+        "Sea",
+        "Bay"
+    ],
+    "relationship": "All are bodies of water",
+    "elapsed_time": 6.88130784034729,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

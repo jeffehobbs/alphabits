@@ -1,0 +1,14 @@
+{
+    "uuid": "220d0c31-750e-45c2-a2c4-b93b7a9a9997",
+    "words": [
+        "population",
+        "urbanization",
+        "settlement",
+        "density",
+        "distribution"
+    ],
+    "relationship": "These concepts are all interconnected and describe different aspects of how people and things are distributed across the Earth's surface. They often influence each other and are used to understand patterns in human and environmental systems.",
+    "elapsed_time": 17.30883526802063,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "b56f60e9-806d-4451-8728-d0fde0b8bf7c",
+    "words": [
+        "forest",
+        "habitats",
+        "pollination",
+        "animals",
+        "bees"
+    ],
+    "relationship": "(A forest ecosystem) is interconnected when (plants), which provide habitats for various species like small mammals and insects, rely on pollination by animals such as bees to reproduce.",
+    "elapsed_time": 11.484002351760864,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

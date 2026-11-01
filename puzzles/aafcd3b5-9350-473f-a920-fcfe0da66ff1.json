@@ -1,0 +1,14 @@
+{
+    "uuid": "aafcd3b5-9350-473f-a920-fcfe0da66ff1",
+    "words": [
+        "sample",
+        "variable",
+        "hypothesis",
+        "control",
+        "experiment"
+    ],
+    "relationship": "These are all terms associated with scientific research methods.",
+    "elapsed_time": 13.749341487884521,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "650c33b5-680a-477b-972c-9d9e95456186",
+    "words": [
+        "live concerts",
+        "Broadway shows",
+        "jazz clubs",
+        "symphony orchestras",
+        "karaoke bars"
+    ],
+    "relationship": "The following five words are all related to different forms of entertainment that involve music or performances: live concerts, Broadway shows, jazz clubs, symphony orchestras, and karaoke bars.",
+    "elapsed_time": 16.02153491973877,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

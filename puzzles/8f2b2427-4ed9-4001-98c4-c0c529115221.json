@@ -1,0 +1,14 @@
+{
+    "uuid": "8f2b2427-4ed9-4001-98c4-c0c529115221",
+    "words": [
+        "trees",
+        "fungi",
+        "soil",
+        "air",
+        "animals"
+    ],
+    "relationship": "These are all things that are often found together in a forest ecosystem, supporting a complex web of life. One provides shelter, another is a food source, a third helps with decomposition, a fourth is a vital part of the air, and the last is a key component of the soil.",
+    "elapsed_time": 19.483274936676025,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

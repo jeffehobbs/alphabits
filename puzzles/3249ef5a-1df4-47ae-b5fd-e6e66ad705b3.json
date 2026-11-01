@@ -1,0 +1,14 @@
+{
+    "uuid": "3249ef5a-1df4-47ae-b5fd-e6e66ad705b3",
+    "words": [
+        "sketch",
+        "painting",
+        "collage",
+        "mural",
+        "sculpture"
+    ],
+    "relationship": "an artist creates an original piece from scratch, while a second person builds upon that piece by adding their own unique elements.",
+    "elapsed_time": 9.341692686080933,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

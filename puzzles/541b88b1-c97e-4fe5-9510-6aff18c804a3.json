@@ -1,0 +1,14 @@
+{
+    "uuid": "541b88b1-c97e-4fe5-9510-6aff18c804a3",
+    "words": [
+        "Empire",
+        "Monarch",
+        "Expansion",
+        "Conquest",
+        "Dissolution"
+    ],
+    "relationship": "The first word is associated with the last word through the concept of 'empire' or large territorial control. The second word refers to a person who often holds power within an empire, and the third word describes the process of creating such empires. The fourth word is an event that often led to the rise of these powerful entities, while the fifth word is a common result of their dominance.",
+    "elapsed_time": 14.311731815338135,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "0c4bcd46-f0a7-433d-8b64-c204bd3b7778",
+    "words": [
+        "premise",
+        "narrative",
+        "plot",
+        "resolution",
+        "impact"
+    ],
+    "relationship": "These terms all describe different stages or aspects of experiencing a captivating performance, from the initial excitement of anticipation to the lingering impact after the show is over.",
+    "elapsed_time": 16.165022134780884,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

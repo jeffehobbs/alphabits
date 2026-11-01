@@ -1,0 +1,14 @@
+{
+    "uuid": "a1a8c814-6722-40b9-8f8f-5a19fdb2f6dc",
+    "words": [
+        "team",
+        "player",
+        "coach",
+        "scoring",
+        "tournament"
+    ],
+    "relationship": "A set of rules or guidelines for how to play a particular sport.",
+    "elapsed_time": 15.114205360412598,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "70fe3583-f570-40d3-a8e7-98f4ef7a5b6f",
+    "words": [
+        "Chronology",
+        "Analysis",
+        "Evidence",
+        "Interpretation",
+        "Context"
+    ],
+    "relationship": "These terms all describe the process of examining the past to understand how events unfolded, often focusing on the motivations and consequences of actions taken by individuals and groups within a particular time period.",
+    "elapsed_time": 19.30060577392578,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

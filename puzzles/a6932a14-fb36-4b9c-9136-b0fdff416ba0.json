@@ -1,0 +1,14 @@
+{
+    "uuid": "a6932a14-fb36-4b9c-9136-b0fdff416ba0",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "narrative",
+        "conflict"
+    ],
+    "relationship": "These concepts often appear in stories, especially those exploring human nature and morality. They frequently drive plot and character development, creating conflict and resolution.  They are fundamental building blocks for crafting compelling narratives.",
+    "elapsed_time": 25.24616289138794,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

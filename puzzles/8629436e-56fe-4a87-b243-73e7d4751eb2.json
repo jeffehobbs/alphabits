@@ -1,0 +1,14 @@
+{
+    "uuid": "8629436e-56fe-4a87-b243-73e7d4751eb2",
+    "words": [
+        "Lombardy",
+        "Sicilian Cuisine",
+        "Morocco",
+        "Paris",
+        "Brussels"
+    ],
+    "relationship": "The first word is a region within this country where people speak multiple languages due to historical migrations; it's known for its diverse culture and cuisine, while the second term describes these regional dishes that are unique in taste and preparation. The third element refers to an island nation off the African coast with similar multicultural influences on food. Next is a city within this country famed worldwide as a hub of arts, fashion, gastronomy, and design; finally, it's another French-speaking region in Africa known for its own distinctive culture blend.",
+    "elapsed_time": 27.093448400497437,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

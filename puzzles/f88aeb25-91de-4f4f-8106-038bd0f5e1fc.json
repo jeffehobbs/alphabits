@@ -1,0 +1,14 @@
+{
+    "uuid": "f88aeb25-91de-4f4f-8106-038bd0f5e1fc",
+    "words": [
+        "Revolution",
+        "Conflict",
+        "Empire",
+        "Reform",
+        "Legacy"
+    ],
+    "relationship": "These terms all describe aspects of significant events that shaped societies and often involved considerable conflict, power struggles, and shifts in governance over extended periods.",
+    "elapsed_time": 15.068150520324707,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

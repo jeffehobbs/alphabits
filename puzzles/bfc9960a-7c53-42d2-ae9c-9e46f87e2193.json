@@ -1,0 +1,14 @@
+{
+    "uuid": "bfc9960a-7c53-42d2-ae9c-9e46f87e2193",
+    "words": [
+        "experiment",
+        "observation",
+        "data",
+        "analysis",
+        "hypothesis"
+    ],
+    "relationship": "These terms all describe the process of observing and recording data to understand how things change over time, often involving measurements and analysis to identify patterns and trends.",
+    "elapsed_time": 14.263203144073486,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

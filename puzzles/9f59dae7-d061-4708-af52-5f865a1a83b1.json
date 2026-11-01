@@ -1,0 +1,14 @@
+{
+    "uuid": "9f59dae7-d061-4708-af52-5f865a1a83b1",
+    "words": [
+        "comprehension",
+        "criticism",
+        "literary devices",
+        "interpretation",
+        ","
+    ],
+    "relationship": "These are all different aspects of reading or writing that contribute to a person's understanding and appreciation of literature.",
+    "elapsed_time": 18.323896169662476,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "258c3b32-5d30-4b97-a523-22d6484411a2",
+    "words": [
+        "Basketball",
+        "Player",
+        "Team",
+        "Game",
+        "Championship"
+    ],
+    "relationship": "A basketball player competes for their team during games to win championships.",
+    "elapsed_time": 11.277891874313354,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

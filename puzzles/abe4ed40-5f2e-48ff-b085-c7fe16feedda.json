@@ -1,0 +1,14 @@
+{
+    "uuid": "abe4ed40-5f2e-48ff-b085-c7fe16feedda",
+    "words": [
+        "Revolution",
+        "Consequence",
+        "Regime",
+        "Overthrow",
+        "Transition"
+    ],
+    "relationship": "These terms all describe significant shifts in power and control, often driven by conflict and leading to alterations in societal structures and established norms. One event precipitates another, creating a cascade of change across different levels of governance and influence.",
+    "elapsed_time": 19.033366918563843,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

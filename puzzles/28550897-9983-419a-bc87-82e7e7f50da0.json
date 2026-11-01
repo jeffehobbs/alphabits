@@ -1,0 +1,14 @@
+{
+    "uuid": "28550897-9983-419a-bc87-82e7e7f50da0",
+    "words": [
+        "agility",
+        "momentum",
+        "positioning",
+        "speed",
+        "strategy"
+    ],
+    "relationship": "These terms all describe a key element in a competitive game where a player attempts to gain an advantage by skillfully maneuvering around an opponent, often involving bursts of speed and strategic positioning.",
+    "elapsed_time": 16.316800594329834,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

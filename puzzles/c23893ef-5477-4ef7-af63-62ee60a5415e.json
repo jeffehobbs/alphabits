@@ -1,0 +1,14 @@
+{
+    "uuid": "c23893ef-5477-4ef7-af63-62ee60a5415e",
+    "words": [
+        "rugby",
+        "football",
+        "cricket",
+        "hurling",
+        "gaelic football"
+    ],
+    "relationship": "all are played on an oval field",
+    "elapsed_time": 6.682565927505493,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

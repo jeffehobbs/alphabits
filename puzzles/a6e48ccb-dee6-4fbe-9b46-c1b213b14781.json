@@ -1,0 +1,14 @@
+{
+    "uuid": "a6e48ccb-dee6-4fbe-9b46-c1b213b14781",
+    "words": [
+        "author",
+        "book",
+        "reader",
+        "story",
+        "plot"
+    ],
+    "relationship": "author, book, reader, story, plot",
+    "elapsed_time": 7.135738134384155,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

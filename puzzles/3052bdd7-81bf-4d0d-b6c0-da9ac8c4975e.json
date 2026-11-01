@@ -1,0 +1,14 @@
+{
+    "uuid": "3052bdd7-81bf-4d0d-b6c0-da9ac8c4975e",
+    "words": [
+        "protagonist",
+        "antagonist",
+        "plot",
+        "narrative voice",
+        "setting"
+    ],
+    "relationship": "A story is told through characters while capturing emotions to convey a message or theme.",
+    "elapsed_time": 15.219816446304321,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

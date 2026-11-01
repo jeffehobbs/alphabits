@@ -1,0 +1,14 @@
+{
+    "uuid": "d847fb9c-c383-497f-9c8c-d5d26273f546",
+    "words": [
+        "fusion",
+        "catalysts",
+        "kinetic",
+        "entropy",
+        "temperature"
+    ],
+    "relationship": "These elements are all part of an ongoing scientific debate or theory that involves energy transfer.",
+    "elapsed_time": 23.54854989051819,
+    "model": "phi3:latest",
+    "topic": "science"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "64dc80c6-ff4c-4227-b367-b8d84c19db1d",
+    "words": [
+        "drama",
+        "music",
+        "film",
+        "theater",
+        "comedy"
+    ],
+    "relationship": "The items in this list are all ways to present stories or performances to an audience, often for enjoyment and to evoke an emotional response.",
+    "elapsed_time": 20.123098850250244,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

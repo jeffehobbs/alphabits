@@ -1,0 +1,14 @@
+{
+    "uuid": "17e75e51-32b4-463d-92f4-9c696b4a6fca",
+    "words": [
+        "delta",
+        "estuary",
+        "mudflat",
+        "fjord",
+        "bucht"
+    ],
+    "relationship": "These geographical features are all connected by water.",
+    "elapsed_time": 7.095104932785034,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

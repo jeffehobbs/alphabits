@@ -1,0 +1,14 @@
+{
+    "uuid": "b2edb1f4-43f9-4ccd-acf5-70d36a7b68bd",
+    "words": [
+        "Composition",
+        "Palette",
+        "Texture",
+        "Mood",
+        "Imagery"
+    ],
+    "relationship": "These terms all describe aspects of how a viewer interprets and experiences a piece of creative work, focusing on the emotional and psychological impact it has on the observer.",
+    "elapsed_time": 16.504955530166626,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

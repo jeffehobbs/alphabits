@@ -1,0 +1,14 @@
+{
+    "uuid": "8874ebca-edb7-4a1d-8154-50bb33c3ffc0",
+    "words": [
+        "band",
+        "guitar",
+        "hip hop",
+        "dancer",
+        "melody"
+    ],
+    "relationship": "A group of people who play musical instruments together, an instrument used to create sound when played by a person, a genre of music characterized by strong rhythmic patterns and often associated with dance, a style of performance that emphasizes visual effects, a way of expressing emotions through sound",
+    "elapsed_time": 9.810428380966187,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

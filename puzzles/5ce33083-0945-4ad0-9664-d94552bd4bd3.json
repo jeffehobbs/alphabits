@@ -1,0 +1,14 @@
+{
+    "uuid": "5ce33083-0945-4ad0-9664-d94552bd4bd3",
+    "words": [
+        "novel",
+        "character",
+        "setting",
+        "theme",
+        "plot"
+    ],
+    "relationship": "A story is composed of characters who interact within a setting to convey themes or messages.",
+    "elapsed_time": 10.358416080474854,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

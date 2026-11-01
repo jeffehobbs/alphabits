@@ -1,0 +1,14 @@
+{
+    "uuid": "0481a12f-15b1-4cc0-8862-d828c102ae9a",
+    "words": [
+        "script",
+        "casting",
+        "rehearsal",
+        "performance",
+        "audience"
+    ],
+    "relationship": "A group of actors perform together on stage to tell a story.",
+    "elapsed_time": 12.123384952545166,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

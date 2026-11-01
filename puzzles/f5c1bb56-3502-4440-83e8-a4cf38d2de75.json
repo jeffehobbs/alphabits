@@ -1,0 +1,14 @@
+{
+    "uuid": "f5c1bb56-3502-4440-83e8-a4cf38d2de75",
+    "words": [
+        "roots",
+        "stem",
+        "leaves",
+        "branches",
+        "sunlight"
+    ],
+    "relationship": "These terms describe the process of a plant growing taller and stronger by absorbing sunlight, water, and nutrients from its environment, ultimately reaching for the sky and becoming a dominant feature of the landscape.",
+    "elapsed_time": 14.556605815887451,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

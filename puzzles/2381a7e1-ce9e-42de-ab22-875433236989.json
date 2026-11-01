@@ -1,0 +1,14 @@
+{
+    "uuid": "2381a7e1-ce9e-42de-ab22-875433236989",
+    "words": [
+        "paintbrush",
+        "canvas",
+        "colors",
+        "artist",
+        "technique"
+    ],
+    "relationship": "A group of brushes is essential for an artist to create detailed artwork.",
+    "elapsed_time": 12.451812028884888,
+    "model": "phi3:latest",
+    "topic": "art"
+}

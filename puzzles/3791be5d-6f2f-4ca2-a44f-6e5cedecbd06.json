@@ -1,0 +1,14 @@
+{
+    "uuid": "3791be5d-6f2f-4ca2-a44f-6e5cedecbd06",
+    "words": [
+        "painting",
+        "sculpture",
+        "landscape",
+        "impressionism",
+        "nature"
+    ],
+    "relationship": "Artistic expressions are often inspired by nature.",
+    "elapsed_time": 10.908464670181274,
+    "model": "phi3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "d8019b43-8114-4638-a1af-77344f058d09",
+    "words": [
+        "ant",
+        "bee",
+        "butterfly",
+        "caterpider",
+        "honey"
+    ],
+    "relationship": "A group of animals live together for mutual protection.",
+    "elapsed_time": 14.612829208374023,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

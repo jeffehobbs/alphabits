@@ -1,0 +1,14 @@
+{
+    "uuid": "d5fa89ed-f952-42f8-ac44-5e5d35508152",
+    "words": [
+        "hue",
+        "shade",
+        "saturation",
+        "value",
+        "chroma"
+    ],
+    "relationship": "The words are all concepts used to describe the visual qualities of a piece of artwork, focusing on how light and color are perceived and used to create an effect.",
+    "elapsed_time": 21.643338680267334,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

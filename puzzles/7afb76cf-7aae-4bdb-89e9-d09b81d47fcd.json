@@ -1,0 +1,14 @@
+{
+    "uuid": "7afb76cf-7aae-4bdb-89e9-d09b81d47fcd",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "tempo",
+        "meter"
+    ],
+    "relationship": "The given music-related terms are connected through various aspects of musical composition.",
+    "elapsed_time": 11.139958143234253,
+    "model": "phi3:latest",
+    "topic": "music"
+}

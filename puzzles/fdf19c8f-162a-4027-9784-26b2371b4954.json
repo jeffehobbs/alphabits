@@ -1,0 +1,14 @@
+{
+    "uuid": "fdf19c8f-162a-4027-9784-26b2371b4954",
+    "words": [
+        "Plateau",
+        "Mountain range",
+        "Valley",
+        "Tectonic plates",
+        "Foothills"
+    ],
+    "relationship": "Mountain ranges are formed by tectonic plate movement and can be divided into smaller units called",
+    "elapsed_time": 8.85616421699524,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

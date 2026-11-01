@@ -1,0 +1,14 @@
+{
+    "uuid": "67b65bc6-dc8f-4d76-a243-fed130d53ae7",
+    "words": [
+        "tree",
+        "mushroom",
+        "sunlight",
+        "soil",
+        "deer"
+    ],
+    "relationship": "These are all things that are often found together in a forest ecosystem, supporting a complex web of life. One provides shelter, another is a food source, a third helps with nutrient cycling, a fourth is a vital component of the atmosphere, and the last is a key part of the food chain.",
+    "elapsed_time": 19.70370364189148,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

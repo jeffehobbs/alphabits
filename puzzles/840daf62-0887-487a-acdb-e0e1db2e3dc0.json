@@ -1,0 +1,14 @@
+{
+    "uuid": "840daf62-0887-487a-acdb-e0e1db2e3dc0",
+    "words": [
+        "novel",
+        "genre",
+        "narrative technique",
+        "characterization",
+        "point of view"
+    ],
+    "relationship": "A novel is often classified as fiction or non-fiction based on whether it tells a story that could have happened, and both genres typically use narrative techniques like characterization, plot development, point of view, and setting to engage the reader.",
+    "elapsed_time": 20.4350643157959,
+    "model": "phi3:latest",
+    "topic": "literature"
+}

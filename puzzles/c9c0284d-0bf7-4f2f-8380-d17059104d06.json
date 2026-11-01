@@ -1,0 +1,14 @@
+{
+    "uuid": "c9c0284d-0bf7-4f2f-8380-d17059104d06",
+    "words": [
+        "start",
+        "run",
+        "jump",
+        "touch",
+        "finish"
+    ],
+    "relationship": "(Words form a sequence of actions within an athletic event)",
+    "elapsed_time": 13.849161624908447,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

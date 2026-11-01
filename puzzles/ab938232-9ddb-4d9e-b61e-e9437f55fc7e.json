@@ -1,0 +1,14 @@
+{
+    "uuid": "ab938232-9ddb-4d9e-b61e-e9437f55fc7e",
+    "words": [
+        "latitude",
+        "longitude",
+        "map",
+        "grid",
+        "coordinate"
+    ],
+    "relationship": "These concepts all describe how people and things are located and organized on the Earth's surface, often involving systems of measurement and understanding spatial patterns.",
+    "elapsed_time": 25.52878212928772,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

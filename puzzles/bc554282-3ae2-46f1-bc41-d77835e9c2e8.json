@@ -1,0 +1,14 @@
+{
+    "uuid": "bc554282-3ae2-46f1-bc41-d77835e9c2e8",
+    "words": [
+        "painting",
+        "canvas",
+        "brushes",
+        "colors",
+        "creativity"
+    ],
+    "relationship": "An artist creates visual representations using various mediums to express emotions or ideas",
+    "elapsed_time": 14.855453968048096,
+    "model": "phi3:latest",
+    "topic": "art"
+}

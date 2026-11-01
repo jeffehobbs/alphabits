@@ -1,0 +1,14 @@
+{
+    "uuid": "e349c4e4-a26e-4039-8012-2b6b8795b84a",
+    "words": [
+        "Plot",
+        "Theme",
+        "Style",
+        "Imagery",
+        "Narrative"
+    ],
+    "relationship": "These terms all describe elements that contribute to the overall impact and emotional resonance a narrative creates within a reader\u2019s experience. One focuses on the deliberate arrangement of events, another on the feelings evoked, a third on the style of presentation, a fourth on the imaginative world constructed, and finally, it\u2019s the overarching quality that makes a piece memorable and significant.",
+    "elapsed_time": 22.560489177703857,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

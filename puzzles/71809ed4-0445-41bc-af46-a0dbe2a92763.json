@@ -1,0 +1,14 @@
+{
+    "uuid": "71809ed4-0445-41bc-af46-a0dbe2a92763",
+    "words": [
+        "hypothesis",
+        "experiment",
+        "observation",
+        "data",
+        "prediction"
+    ],
+    "relationship": "The process of observing and analyzing data to understand the natural world often involves making predictions about future events or outcomes.",
+    "elapsed_time": 16.69737148284912,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

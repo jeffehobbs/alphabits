@@ -1,0 +1,14 @@
+{
+    "uuid": "2ff86cdc-58d1-4173-9579-2f21e2e12b13",
+    "words": [
+        "valley",
+        "slope",
+        "erosion",
+        "landscape",
+        "formation"
+    ],
+    "relationship": "These terms all describe features of the land\u2019s surface, specifically how it changes over time due to natural processes like erosion and weathering, and the resulting patterns of movement of materials.",
+    "elapsed_time": 14.536087036132812,
+    "model": "gemma3:latest",
+    "topic": "geography"
+}

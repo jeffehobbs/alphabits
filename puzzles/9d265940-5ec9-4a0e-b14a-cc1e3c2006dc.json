@@ -1,0 +1,14 @@
+{
+    "uuid": "9d265940-5ec9-4a0e-b14a-cc1e3c2006dc",
+    "words": [
+        "latitude",
+        "longitude",
+        "coordinate",
+        "map",
+        "grid"
+    ],
+    "relationship": "These terms all describe different ways to determine a location on Earth.",
+    "elapsed_time": 11.257472276687622,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

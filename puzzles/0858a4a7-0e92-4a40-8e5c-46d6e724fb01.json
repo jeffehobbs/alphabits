@@ -1,0 +1,14 @@
+{
+    "uuid": "0858a4a7-0e92-4a40-8e5c-46d6e724fb01",
+    "words": [
+        "photosynthesis",
+        "chlorophyll",
+        "leaves",
+        "sunlight",
+        "roots"
+    ],
+    "relationship": "These terms describe the process of a plant taking in sunlight, water, and nutrients from the earth to grow and thrive.",
+    "elapsed_time": 13.07184386253357,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

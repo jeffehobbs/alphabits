@@ -1,0 +1,14 @@
+{
+    "uuid": "7260057a-2e72-4df5-92fe-dede6d107935",
+    "words": [
+        "photosynthesis",
+        "respiration",
+        "oxidation",
+        "decomposition",
+        "fermentation"
+    ],
+    "relationship": "All are processes",
+    "elapsed_time": 6.915616750717163,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

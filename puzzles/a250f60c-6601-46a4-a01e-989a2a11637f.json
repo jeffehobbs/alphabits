@@ -1,0 +1,14 @@
+{
+    "uuid": "a250f60c-6601-46a4-a01e-989a2a11637f",
+    "words": [
+        "empire",
+        "monarchy",
+        "innovation",
+        "legacy",
+        "decline"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large, complex societies, often involving power struggles, innovation, and lasting cultural impacts.",
+    "elapsed_time": 21.464715480804443,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

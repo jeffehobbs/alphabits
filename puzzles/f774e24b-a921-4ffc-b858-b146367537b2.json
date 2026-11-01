@@ -1,0 +1,14 @@
+{
+    "uuid": "f774e24b-a921-4ffc-b858-b146367537b2",
+    "words": [
+        "Sprint",
+        "Athlete",
+        "Competition",
+        "Victory",
+        "Performance"
+    ],
+    "relationship": "These terms all describe aspects of a competition where athletes strive to outperform their rivals, often with a focus on speed and precision to achieve a desired outcome.",
+    "elapsed_time": 9.990444421768188,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

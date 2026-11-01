@@ -1,0 +1,14 @@
+{
+    "uuid": "c59e0d49-9995-48d1-8a12-a961556e3540",
+    "words": [
+        "plot",
+        "theme",
+        "character",
+        "setting",
+        "symbolism"
+    ],
+    "relationship": "These terms all describe elements that contribute to the overall meaning and impact of a written work, often working together to create a deeper understanding or emotional response in the reader.",
+    "elapsed_time": 21.085901975631714,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

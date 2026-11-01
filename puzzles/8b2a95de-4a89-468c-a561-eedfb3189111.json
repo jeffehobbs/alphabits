@@ -1,0 +1,14 @@
+{
+    "uuid": "8b2a95de-4a89-468c-a561-eedfb3189111",
+    "words": [
+        "erosion",
+        "uplift",
+        "deposition",
+        "plate tectonics",
+        "weathering"
+    ],
+    "relationship": "These concepts all describe features of the Earth's surface that are shaped by natural processes over long periods of time. They often appear in landscapes and can be studied to understand the history of a region.",
+    "elapsed_time": 27.323176860809326,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

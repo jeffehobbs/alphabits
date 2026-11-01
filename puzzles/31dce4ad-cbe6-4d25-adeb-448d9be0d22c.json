@@ -1,0 +1,14 @@
+{
+    "uuid": "31dce4ad-cbe6-4d25-adeb-448d9be0d22c",
+    "words": [
+        "team",
+        "competition",
+        "players",
+        "victory",
+        "coach"
+    ],
+    "relationship": "A team of players compete against another team to achieve victory.",
+    "elapsed_time": 14.611483097076416,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

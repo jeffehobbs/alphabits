@@ -1,0 +1,14 @@
+{
+    "uuid": "2e8a7fa8-c524-47e3-ac64-967aaffa97eb",
+    "words": [
+        "pitch",
+        "rhythm",
+        "harmony",
+        "melody",
+        "timbre"
+    ],
+    "relationship": "The words all describe aspects of creating a sound, often involving manipulating vibrations to produce a pleasing auditory experience. They are fundamental to the process of making and shaping melodies and harmonies.",
+    "elapsed_time": 22.052822828292847,
+    "model": "gemma3n:latest",
+    "topic": "music"
+}

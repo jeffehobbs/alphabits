@@ -1,0 +1,14 @@
+{
+    "uuid": "b73ace34-c5e3-4e8c-86c2-8b91aa1cc951",
+    "words": [
+        "DNA",
+        "gene",
+        "chromosome",
+        "genotype",
+        "phenotype"
+    ],
+    "relationship": "These scientific terms are all related to genetics.",
+    "elapsed_time": 16.13277530670166,
+    "model": "phi3:latest",
+    "topic": "science"
+}

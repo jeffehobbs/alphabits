@@ -1,0 +1,14 @@
+{
+    "uuid": "f8b24608-4e04-45c1-8bb4-f643fe24aa00",
+    "words": [
+        "ecology",
+        "biotic interactions",
+        "biodiversity",
+        "population dynamics",
+        "symbiosis"
+    ],
+    "relationship": "These are all concepts involved in studying how organisms interact within their environment.",
+    "elapsed_time": 12.090912818908691,
+    "model": "phi3:latest",
+    "topic": "science"
+}

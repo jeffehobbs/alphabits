@@ -1,0 +1,14 @@
+{
+    "uuid": "f4c7a1f8-9dab-41d4-89e8-650afb9b87c0",
+    "words": [
+        "river",
+        "erosion",
+        "sedimentation",
+        "topography",
+        "slope"
+    ],
+    "relationship": "These are all elements of physical landscapes that interact to shape river valleys.",
+    "elapsed_time": 15.386802434921265,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

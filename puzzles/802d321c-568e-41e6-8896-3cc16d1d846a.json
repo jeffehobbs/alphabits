@@ -1,0 +1,14 @@
+{
+    "uuid": "802d321c-568e-41e6-8896-3cc16d1d846a",
+    "words": [
+        "script",
+        "narrative",
+        "plot",
+        "character",
+        "setting"
+    ],
+    "relationship": "These terms all describe aspects of experiencing a captivating story, often involving vivid imagery and emotional impact.",
+    "elapsed_time": 11.08958387374878,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

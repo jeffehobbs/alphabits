@@ -1,0 +1,14 @@
+{
+    "uuid": "21f2915f-1d31-44e2-8ebc-f3ff53c2ead0",
+    "words": [
+        "strategy",
+        "tactics",
+        "formation",
+        "discipline",
+        "coordination"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and strategy, particularly when aiming for a successful outcome through coordinated effort and skillful execution.",
+    "elapsed_time": 13.757585763931274,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

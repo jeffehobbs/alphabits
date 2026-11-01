@@ -1,0 +1,14 @@
+{
+    "uuid": "7498dff1-d40d-42e7-8e01-8928a498d67d",
+    "words": [
+        "color",
+        "shade",
+        "hue",
+        "tint",
+        "saturation"
+    ],
+    "relationship": "A method used by an artist to create a sense of connection or unity among different parts of a composition.",
+    "elapsed_time": 8.416511297225952,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

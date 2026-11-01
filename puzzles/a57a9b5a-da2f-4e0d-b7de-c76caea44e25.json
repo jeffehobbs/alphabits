@@ -1,0 +1,14 @@
+{
+    "uuid": "a57a9b5a-da2f-4e0d-b7de-c76caea44e25",
+    "words": [
+        "forest",
+        "mountain",
+        "river",
+        "cloud",
+        "weather"
+    ],
+    "relationship": "These 5 words are connected by their ability to describe something that can be found or seen in a natural environment. Four of them are physical attributes, while one is an action or process that occurs within nature.",
+    "elapsed_time": 10.31011414527893,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

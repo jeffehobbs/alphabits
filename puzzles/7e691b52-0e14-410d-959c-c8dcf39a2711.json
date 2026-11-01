@@ -1,0 +1,14 @@
+{
+    "uuid": "7e691b52-0e14-410d-959c-c8dcf39a2711",
+    "words": [
+        "continent",
+        "country",
+        "state",
+        "province",
+        "region"
+    ],
+    "relationship": "{The first word is an area of land while it has different types which are categorized by a specific characteristic such as being forested, desert or grassland.}",
+    "elapsed_time": 12.987618207931519,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

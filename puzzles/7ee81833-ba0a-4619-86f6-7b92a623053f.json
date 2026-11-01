@@ -1,0 +1,14 @@
+{
+    "uuid": "7ee81833-ba0a-4619-86f6-7b92a623053f",
+    "words": [
+        "fox",
+        "rabbit",
+        "grass",
+        "hawk",
+        "soil"
+    ],
+    "relationship": "In this natural setting, some creatures rely on others for survival.",
+    "elapsed_time": 14.976298332214355,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

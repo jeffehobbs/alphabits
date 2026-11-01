@@ -1,0 +1,14 @@
+{
+    "uuid": "71a393cc-fb3b-4576-ae12-5b73f6a55452",
+    "words": [
+        "Sketch",
+        "Study",
+        "Draft",
+        "Refine",
+        "Final"
+    ],
+    "relationship": "These terms all describe different stages or aspects of bringing an idea from the mind to a tangible visual representation, involving careful planning, execution, and refinement.",
+    "elapsed_time": 12.611785888671875,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

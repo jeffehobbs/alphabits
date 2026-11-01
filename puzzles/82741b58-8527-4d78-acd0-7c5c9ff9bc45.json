@@ -1,0 +1,14 @@
+{
+    "uuid": "82741b58-8527-4d78-acd0-7c5c9ff9bc45",
+    "words": [
+        "strategy",
+        "teamwork",
+        "tactics",
+        "coordination",
+        "execution"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and strategic advantage, focusing on how well a group works together to achieve a common objective, often involving skillful execution and minimizing mistakes.",
+    "elapsed_time": 16.94848346710205,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

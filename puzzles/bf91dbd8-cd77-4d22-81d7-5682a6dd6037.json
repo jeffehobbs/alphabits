@@ -1,0 +1,14 @@
+{
+    "uuid": "bf91dbd8-cd77-4d22-81d7-5682a6dd6037",
+    "words": [
+        "lake",
+        "river",
+        "ocean",
+        "dam",
+        "canal"
+    ],
+    "relationship": "These 5 words are associated with water bodies of varying sizes and shapes. One is a natural feature, while the others are man-made structures used for different purposes.",
+    "elapsed_time": 12.852965116500854,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

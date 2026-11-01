@@ -1,0 +1,14 @@
+{
+    "uuid": "0fd87825-ea29-4b96-938f-6fa7c907c0dd",
+    "words": [
+        "instrument",
+        "melody",
+        "rhythm",
+        "performance",
+        "rehearsal"
+    ],
+    "relationship": "A band is composed of musicians who contribute their musical talents to create harmonious compositions.",
+    "elapsed_time": 12.438419103622437,
+    "model": "phi3:latest",
+    "topic": "music"
+}

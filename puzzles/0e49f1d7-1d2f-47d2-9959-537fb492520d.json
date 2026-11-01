@@ -1,0 +1,14 @@
+{
+    "uuid": "0e49f1d7-1d2f-47d2-9959-537fb492520d",
+    "words": [
+        "sculpture",
+        "carving",
+        "casting",
+        "modeling",
+        "molding"
+    ],
+    "relationship": "a medium used for creating a work of art is often chosen based on its ability to be easily shaped or molded into the desired form, and this process can involve adding material to create texture or depth.",
+    "elapsed_time": 10.066449403762817,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

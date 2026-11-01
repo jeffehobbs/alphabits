@@ -1,0 +1,14 @@
+{
+    "uuid": "b862651b-ae9f-4ae2-b66b-b9528721cb21",
+    "words": [
+        "agriculture",
+        "irrigation",
+        "farming",
+        "crops",
+        "livestock"
+    ],
+    "relationship": "These terms all describe different ways humans interact with and utilize the natural world for sustenance and survival.",
+    "elapsed_time": 20.54290008544922,
+    "model": "gemma3n:latest",
+    "topic": "geography"
+}

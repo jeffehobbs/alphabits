@@ -1,0 +1,14 @@
+{
+    "uuid": "f0d6fe1c-f448-4670-aae7-9c5a36c5f20e",
+    "words": [
+        "drama",
+        "music",
+        "storytelling",
+        "comedy",
+        "performance"
+    ],
+    "relationship": "The words all describe ways to captivate an audience and evoke strong feelings, often through skillful performance and narrative.",
+    "elapsed_time": 13.122164249420166,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

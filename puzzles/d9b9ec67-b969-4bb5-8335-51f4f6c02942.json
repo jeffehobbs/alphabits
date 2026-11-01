@@ -1,0 +1,14 @@
+{
+    "uuid": "d9b9ec67-b969-4bb5-8335-51f4f6c02942",
+    "words": [
+        "band",
+        "musician",
+        "instrument",
+        "harmony",
+        "sound"
+    ],
+    "relationship": "A band is made up of various instruments played by musicians who create harmonious sounds.",
+    "elapsed_time": 15.055550336837769,
+    "model": "phi3:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "148ba301-f65c-428c-aa80-91ae3be72ae8",
+    "words": [
+        "Alps",
+        "Rocky Mountains",
+        "Andes",
+        "Himalayas",
+        "Caucasus"
+    ],
+    "relationship": "They are all names of famous mountain ranges.",
+    "elapsed_time": 7.400004148483276,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

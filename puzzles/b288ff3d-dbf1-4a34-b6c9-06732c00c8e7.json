@@ -1,0 +1,14 @@
+{
+    "uuid": "b288ff3d-dbf1-4a34-b6c9-06732c00c8e7",
+    "words": [
+        "teamwork",
+        "training",
+        "strategy",
+        "competition",
+        "tournament"
+    ],
+    "relationship": "A team's performance depends on their unity and communication.",
+    "elapsed_time": 14.654407978057861,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

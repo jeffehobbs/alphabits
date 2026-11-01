@@ -1,0 +1,14 @@
+{
+    "uuid": "93366026-3eb3-4a53-9b6e-4fe1b3b0b352",
+    "words": [
+        "basketball",
+        "teammates",
+        "scoring",
+        "dribbling",
+        "referee"
+    ],
+    "relationship": "[Sport] involves [team or individual]s competing against one another to achieve a specific goal.",
+    "elapsed_time": 12.39705491065979,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

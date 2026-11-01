@@ -1,0 +1,14 @@
+{
+    "uuid": "59b3c1e9-6dab-4415-b935-4a43de0bffc3",
+    "words": [
+        "stage",
+        "screen",
+        "spotlight",
+        "audience",
+        "performance"
+    ],
+    "relationship": "A group of activities",
+    "elapsed_time": 7.105332136154175,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

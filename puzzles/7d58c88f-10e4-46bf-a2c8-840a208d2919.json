@@ -1,0 +1,14 @@
+{
+    "uuid": "7d58c88f-10e4-46bf-a2c8-840a208d2919",
+    "words": [
+        "pioneer",
+        "settlement",
+        "colonial",
+        "exploitation",
+        "empire"
+    ],
+    "relationship": "cause-and-effect",
+    "elapsed_time": 7.611812353134155,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

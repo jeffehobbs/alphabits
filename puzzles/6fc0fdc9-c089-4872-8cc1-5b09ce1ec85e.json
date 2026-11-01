@@ -1,0 +1,14 @@
+{
+    "uuid": "6fc0fdc9-c089-4872-8cc1-5b09ce1ec85e",
+    "words": [
+        "French Revolution",
+        "American Revolution",
+        "Russian Revolution",
+        "Mexican War of Independence",
+        "Suffragette Movement"
+    ],
+    "relationship": "These historical events led to significant changes in political systems.",
+    "elapsed_time": 15.370011329650879,
+    "model": "phi3:latest",
+    "topic": "history"
+}

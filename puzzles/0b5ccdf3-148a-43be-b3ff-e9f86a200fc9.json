@@ -1,0 +1,14 @@
+{
+    "uuid": "0b5ccdf3-148a-43be-b3ff-e9f86a200fc9",
+    "words": [
+        "harmonics",
+        "resonance",
+        "vibration",
+        "strings",
+        "music"
+    ],
+    "relationship": "a sound is created by vibrating strings",
+    "elapsed_time": 7.73644757270813,
+    "model": "llama3.2:latest",
+    "topic": "music"
+}

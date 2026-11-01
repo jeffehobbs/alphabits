@@ -1,0 +1,14 @@
+{
+    "uuid": "25e01c86-ba07-4ecd-8b6f-c81cbe09bb63",
+    "words": [
+        "football",
+        "goalkeeper",
+        "defender",
+        "midfielder",
+        "forward"
+    ],
+    "relationship": "A football team consists of various positions like goalkeeper, defender, midfielder, attacker and forward who work together to score goals against their opponents.",
+    "elapsed_time": 16.88893485069275,
+    "model": "phi3:latest",
+    "topic": "sports"
+}

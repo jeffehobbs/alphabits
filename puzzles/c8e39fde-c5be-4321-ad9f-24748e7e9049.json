@@ -1,0 +1,14 @@
+{
+    "uuid": "c8e39fde-c5be-4321-ad9f-24748e7e9049",
+    "words": [
+        "empire",
+        "revolution",
+        "dynasty",
+        "conquest",
+        "republic"
+    ],
+    "relationship": "These concepts often arise in discussions about power shifts and societal transformations, frequently involving conflict and the establishment of new governing structures.",
+    "elapsed_time": 16.994460344314575,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

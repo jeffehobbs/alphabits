@@ -1,0 +1,14 @@
+{
+    "uuid": "4b36ac65-454f-4726-9f3a-f00e4092d62e",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "setting",
+        "narrative"
+    ],
+    "relationship": "These terms all describe aspects of crafting a narrative and shaping meaning for an audience.",
+    "elapsed_time": 12.147160530090332,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

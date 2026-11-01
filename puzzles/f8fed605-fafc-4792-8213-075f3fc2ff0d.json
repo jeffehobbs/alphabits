@@ -1,0 +1,14 @@
+{
+    "uuid": "f8fed605-fafc-4792-8213-075f3fc2ff0d",
+    "words": [
+        "sprint",
+        "pass",
+        "shoot",
+        "kick",
+        "vault"
+    ],
+    "relationship": "These are all actions performed by athletes during a competition to achieve victory.",
+    "elapsed_time": 18.234403371810913,
+    "model": "gemma3n:latest",
+    "topic": "sports"
+}

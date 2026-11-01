@@ -1,0 +1,13 @@
+{
+    "uuid": "f83580d4-eb0f-4180-aa9e-909b15891bbe",
+    "words": [
+        "mountain",
+        "valley",
+        "river",
+        "plateau"
+    ],
+    "relationship": "These terms are all used when discussing physical features on Earth.",
+    "elapsed_time": 10.243144512176514,
+    "model": "phi3:latest",
+    "topic": "geography"
+}

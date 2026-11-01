@@ -1,0 +1,14 @@
+{
+    "uuid": "503d479c-40bb-41d8-8838-454d2d5724d2",
+    "words": [
+        "conflict",
+        "character",
+        "narrative",
+        "theme",
+        "plot"
+    ],
+    "relationship": "These concepts are often explored by authors to depict internal struggles and character development, frequently involving difficult choices and emotional turmoil.",
+    "elapsed_time": 20.165062189102173,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "8c683dff-396c-45d1-92cf-e08e7c8f4b42",
+    "words": [
+        "thermometer",
+        "barometer",
+        "galvanometer",
+        "spectrometer",
+        "microscope"
+    ],
+    "relationship": "These words are all types of scientific tools used to measure or test something.",
+    "elapsed_time": 7.776824951171875,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

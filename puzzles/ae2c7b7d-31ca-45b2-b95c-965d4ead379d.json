@@ -1,0 +1,14 @@
+{
+    "uuid": "ae2c7b7d-31ca-45b2-b95c-965d4ead379d",
+    "words": [
+        "thermometer",
+        "barometer",
+        "hygrometer",
+        "psychrometer",
+        "pneumometer"
+    ],
+    "relationship": "These words are all types of scientific instruments used to measure different aspects of physical phenomena.",
+    "elapsed_time": 11.71063232421875,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

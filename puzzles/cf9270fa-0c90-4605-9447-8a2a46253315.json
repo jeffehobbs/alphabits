@@ -1,0 +1,14 @@
+{
+    "uuid": "cf9270fa-0c90-4605-9447-8a2a46253315",
+    "words": [
+        "decay",
+        "compost",
+        "soil",
+        "roots",
+        "leaves"
+    ],
+    "relationship": "These terms all describe processes involved in the gradual transformation of a living organism as it ages and returns to the earth, ultimately becoming part of a larger ecosystem.",
+    "elapsed_time": 14.307471513748169,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

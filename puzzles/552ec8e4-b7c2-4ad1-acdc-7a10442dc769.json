@@ -1,0 +1,14 @@
+{
+    "uuid": "552ec8e4-b7c2-4ad1-acdc-7a10442dc769",
+    "words": [
+        "Sketch",
+        "Layer",
+        "Refine",
+        "Detail",
+        "Finish"
+    ],
+    "relationship": "These terms all describe different stages or aspects of bringing an image from an initial concept to a finished, visually compelling work. One represents the foundational idea, another the initial mark-making, a third the building up of layers, a fourth the refinement and detail, and finally, the completed, polished result.",
+    "elapsed_time": 19.772659301757812,
+    "model": "gemma3:latest",
+    "topic": "art"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "a5ef89d3-3f2e-44d7-be82-86402772344e",
+    "words": [
+        "effort",
+        "strategy",
+        "dominance",
+        "scoring",
+        "momentum"
+    ],
+    "relationship": "These terms all describe aspects of a team\u2019s performance and strategic advantage on the field. One focuses on the physical exertion of individuals, another on the overall tactical positioning, a third on the ability to maintain control of the game, a fourth on the importance of scoring, and the last on the continuous effort to gain a beneficial result.",
+    "elapsed_time": 22.244022607803345,
+    "model": "gemma3:latest",
+    "topic": "sports"
+}

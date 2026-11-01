@@ -1,0 +1,14 @@
+{
+    "uuid": "c2b9321e-b36d-4c23-8e15-50d327021d41",
+    "words": [
+        "stage",
+        "script",
+        "lighting",
+        "audience",
+        "actor"
+    ],
+    "relationship": "The words are all components or aspects of creating a spectacle for an audience, often involving performance and captivating attention.",
+    "elapsed_time": 18.929014682769775,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

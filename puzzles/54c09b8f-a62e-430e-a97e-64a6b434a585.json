@@ -1,0 +1,14 @@
+{
+    "uuid": "54c09b8f-a62e-430e-a97e-64a6b434a585",
+    "words": [
+        "ecosystem",
+        "microorganism",
+        "evolutionary",
+        "genetic",
+        "adaptation"
+    ],
+    "relationship": "biology",
+    "elapsed_time": 8.53184723854065,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

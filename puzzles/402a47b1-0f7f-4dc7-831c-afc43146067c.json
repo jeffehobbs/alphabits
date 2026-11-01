@@ -1,0 +1,14 @@
+{
+    "uuid": "402a47b1-0f7f-4dc7-831c-afc43146067c",
+    "words": [
+        "experiment",
+        "data",
+        "hypothesis",
+        "observation",
+        "analysis"
+    ],
+    "relationship": "These terms all describe the process of observing and measuring the natural world to understand its fundamental properties and how it changes over time.",
+    "elapsed_time": 11.870020389556885,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

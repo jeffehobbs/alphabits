@@ -1,0 +1,14 @@
+{
+    "uuid": "156a2b94-3c7f-435d-8f9b-979423553247",
+    "words": [
+        "script",
+        "actor",
+        "stage",
+        "audience",
+        "drama"
+    ],
+    "relationship": "These terms all describe aspects of creating and experiencing stories, particularly those that involve performances and audience engagement.",
+    "elapsed_time": 11.190441608428955,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

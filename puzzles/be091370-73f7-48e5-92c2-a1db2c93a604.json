@@ -1,0 +1,14 @@
+{
+    "uuid": "be091370-73f7-48e5-92c2-a1db2c93a604",
+    "words": [
+        "script",
+        "director",
+        "cinematography",
+        "narrative",
+        "performance"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating story through a visual medium, from the initial concept to the final emotional impact.",
+    "elapsed_time": 12.644315958023071,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

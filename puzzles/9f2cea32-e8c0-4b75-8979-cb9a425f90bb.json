@@ -1,0 +1,14 @@
+{
+    "uuid": "9f2cea32-e8c0-4b75-8979-cb9a425f90bb",
+    "words": [
+        "melody",
+        "harmony",
+        "rhythm",
+        "composition",
+        "performance"
+    ],
+    "relationship": "These terms all describe different aspects of how a piece of music is created and experienced, from the initial ideas to the final, impactful sound.",
+    "elapsed_time": 16.417079210281372,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

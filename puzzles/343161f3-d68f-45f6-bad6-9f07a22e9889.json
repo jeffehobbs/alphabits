@@ -1,0 +1,14 @@
+{
+    "uuid": "343161f3-d68f-45f6-bad6-9f07a22e9889",
+    "words": [
+        "sunlight",
+        "shade",
+        "roots",
+        "leaves",
+        "forest"
+    ],
+    "relationship": "These terms all describe different aspects of a forest ecosystem. One provides the energy, another the shelter, a third the sustenance, a fourth the protection, and the last the means of dispersal for new growth.",
+    "elapsed_time": 14.168768405914307,
+    "model": "gemma3:latest",
+    "topic": "nature"
+}

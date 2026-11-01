@@ -1,0 +1,14 @@
+{
+    "uuid": "f55454c0-13ea-4f77-905d-048349b29fc7",
+    "words": [
+        "movie",
+        "theater",
+        "concert",
+        "game",
+        "book"
+    ],
+    "relationship": "The items in this list are all common ways people spend leisure time and find amusement. They often involve storytelling, performance, or imaginative engagement.",
+    "elapsed_time": 21.270860195159912,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

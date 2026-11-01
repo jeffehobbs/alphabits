@@ -1,0 +1,14 @@
+{
+    "uuid": "f033864a-c858-4d59-9864-6dd54767451c",
+    "words": [
+        "Ancient Egypt",
+        "Renaissance art",
+        "Industrial Revolution",
+        "French monarchy",
+        "Maya civilization"
+    ],
+    "relationship": "These terms are all aspects of historical periods.",
+    "elapsed_time": 15.446786642074585,
+    "model": "phi3:latest",
+    "topic": "history"
+}

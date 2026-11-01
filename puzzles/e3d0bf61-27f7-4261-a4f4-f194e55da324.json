@@ -1,0 +1,14 @@
+{
+    "uuid": "e3d0bf61-27f7-4261-a4f4-f194e55da324",
+    "words": [
+        "narrator",
+        "character",
+        "plot",
+        "setting",
+        "theme"
+    ],
+    "relationship": "author's perspective",
+    "elapsed_time": 6.42940878868103,
+    "model": "llama3.2:latest",
+    "topic": "literature"
+}

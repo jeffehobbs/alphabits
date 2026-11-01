@@ -1,0 +1,14 @@
+{
+    "uuid": "e875730e-428b-4698-94e7-287edb3059ae",
+    "words": [
+        "Imperialism",
+        "Colonization",
+        "Occupation",
+        "Domination",
+        "Authoritarianism"
+    ],
+    "relationship": "All these concepts are connected to the idea of power and its impact on societies.",
+    "elapsed_time": 7.73225998878479,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "f873aa49-cc60-4ed0-898f-1218b19867e2",
+    "words": [
+        "physics",
+        "theory",
+        "discovery",
+        "exploration"
+    ],
+    "relationship": "The discovery of one scientific theory often leads to further exploration into related phenomena",
+    "elapsed_time": 10.737237215042114,
+    "model": "phi3:latest",
+    "topic": "science"
+}

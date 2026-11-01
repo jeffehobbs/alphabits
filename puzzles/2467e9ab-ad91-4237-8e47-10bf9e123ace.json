@@ -1,0 +1,14 @@
+{
+    "uuid": "2467e9ab-ad91-4237-8e47-10bf9e123ace",
+    "words": [
+        "astronomy",
+        "observation",
+        "data",
+        "analysis",
+        "prediction"
+    ],
+    "relationship": "The study of the universe involves observing celestial bodies, analyzing their movements, and developing models to predict their future positions based on established physical laws. It\u2019s a process of gathering data, forming hypotheses, and testing those ideas through observation and experimentation.",
+    "elapsed_time": 16.379119396209717,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

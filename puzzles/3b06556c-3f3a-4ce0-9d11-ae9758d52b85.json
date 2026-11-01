@@ -1,0 +1,14 @@
+{
+    "uuid": "3b06556c-3f3a-4ce0-9d11-ae9758d52b85",
+    "words": [
+        "trees",
+        "soil",
+        "sunlight",
+        "rain",
+        "plants"
+    ],
+    "relationship": "These terms all describe elements found in a forest ecosystem, often interacting with each other to support life.",
+    "elapsed_time": 22.164332628250122,
+    "model": "gemma3n:latest",
+    "topic": "nature"
+}

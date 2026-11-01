@@ -1,0 +1,14 @@
+{
+    "uuid": "628bc1bd-102b-4032-b4aa-3a59171342a5",
+    "words": [
+        "Caesar",
+        "Napoleon",
+        "Mao",
+        "Genghis Khan",
+        "Alexander the Great"
+    ],
+    "relationship": "Roman Empire",
+    "elapsed_time": 7.4937825202941895,
+    "model": "llama3.2:latest",
+    "topic": "history"
+}

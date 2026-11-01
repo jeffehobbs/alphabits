@@ -1,0 +1,14 @@
+{
+    "uuid": "79e9388c-08e6-4952-9a5b-7d8d5f598d8d",
+    "words": [
+        "perspective",
+        "shading",
+        "chiaroscuro",
+        "atmospheric haze",
+        "sfumato"
+    ],
+    "relationship": "The words all describe techniques used to create illusions of depth and space on a flat surface, often employing variations in tone and color to achieve a three-dimensional effect.",
+    "elapsed_time": 15.93982219696045,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

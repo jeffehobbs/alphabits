@@ -1,0 +1,14 @@
+{
+    "uuid": "68b87115-b6aa-4cc7-a97c-f35074b48182",
+    "words": [
+        "harmony",
+        "melody",
+        "rhythm",
+        "tempo",
+        "dynamics"
+    ],
+    "relationship": "These terms all describe aspects of how a piece of music is created and perceived, from the initial building blocks to the overall emotional impact on a listener.",
+    "elapsed_time": 12.22091794013977,
+    "model": "gemma3:latest",
+    "topic": "music"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "f367d3d1-67fc-4bcf-9041-b02431481410",
+    "words": [
+        "Frog",
+        "Pond",
+        "Water",
+        "River",
+        "Stream"
+    ],
+    "relationship": "They are all connected through a common source",
+    "elapsed_time": 6.2546546459198,
+    "model": "llama3.2:latest",
+    "topic": "nature"
+}

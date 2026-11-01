@@ -1,0 +1,14 @@
+{
+    "uuid": "e1bb80e8-cc01-4d83-8836-9bd908e85ce4",
+    "words": [
+        "painting",
+        "printmaking",
+        "sculpture",
+        "pottery",
+        "carving"
+    ],
+    "relationship": "all are mediums used for creative expression",
+    "elapsed_time": 4.072159767150879,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

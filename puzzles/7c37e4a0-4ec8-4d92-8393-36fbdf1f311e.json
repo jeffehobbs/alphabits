@@ -1,0 +1,14 @@
+{
+    "uuid": "7c37e4a0-4ec8-4d92-8393-36fbdf1f311e",
+    "words": [
+        "drama",
+        "music",
+        "stage",
+        "audience",
+        "narrative"
+    ],
+    "relationship": "The words all describe aspects of creating and delivering performances for an audience, often involving storytelling and captivating attention.",
+    "elapsed_time": 19.267398357391357,
+    "model": "gemma3n:latest",
+    "topic": "entertainment"
+}

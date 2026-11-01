@@ -1,0 +1,14 @@
+{
+    "uuid": "244ae3b4-392a-488e-8ac8-4c7d175268f5",
+    "words": [
+        "mutation",
+        "genetics",
+        "heredity",
+        "variation",
+        "evolution"
+    ],
+    "relationship": "These terms all describe different aspects of how living things change and adapt over time, often driven by inherited traits and environmental pressures.",
+    "elapsed_time": 13.328791379928589,
+    "model": "gemma3:latest",
+    "topic": "science"
+}

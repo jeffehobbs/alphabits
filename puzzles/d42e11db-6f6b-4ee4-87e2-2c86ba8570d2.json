@@ -1,0 +1,14 @@
+{
+    "uuid": "d42e11db-6f6b-4ee4-87e2-2c86ba8570d2",
+    "words": [
+        "plot",
+        "character",
+        "theme",
+        "setting",
+        "narrative"
+    ],
+    "relationship": "These concepts often appear together in stories, particularly those exploring human nature and societal structures. They contribute to the development of plot, character, and thematic depth.",
+    "elapsed_time": 22.930760145187378,
+    "model": "gemma3n:latest",
+    "topic": "literature"
+}

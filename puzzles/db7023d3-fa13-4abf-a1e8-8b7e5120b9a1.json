@@ -1,0 +1,14 @@
+{
+    "uuid": "db7023d3-fa13-4abf-a1e8-8b7e5120b9a1",
+    "words": [
+        "coach",
+        "player",
+        "field",
+        "game",
+        "match"
+    ],
+    "relationship": "team",
+    "elapsed_time": 6.114089727401733,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

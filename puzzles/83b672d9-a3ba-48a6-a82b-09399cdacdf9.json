@@ -1,0 +1,14 @@
+{
+    "uuid": "83b672d9-a3ba-48a6-a82b-09399cdacdf9",
+    "words": [
+        "observe",
+        "experiment",
+        "data",
+        "analyze",
+        "theory"
+    ],
+    "relationship": "The process of analyzing data to identify patterns and draw conclusions, often involving statistical methods and hypothesis testing.",
+    "elapsed_time": 20.119194507598877,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

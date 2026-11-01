@@ -1,0 +1,14 @@
+{
+    "uuid": "9ac17beb-55c8-4df3-8f97-743597ab7a72",
+    "words": [
+        "Moon",
+        "Planet",
+        "Star",
+        "Asteroid",
+        "Comet"
+    ],
+    "relationship": "The words are all types of celestial bodies that can be found in our solar system.",
+    "elapsed_time": 8.373005628585815,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

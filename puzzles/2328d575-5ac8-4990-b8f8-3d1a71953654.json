@@ -1,0 +1,13 @@
+{
+    "uuid": "2328d575-5ac8-4990-b8f8-3d1a71953654",
+    "words": [
+        "musician",
+        "performance",
+        "live concert",
+        "audience"
+    ],
+    "relationship": "A musician's performance can captivate an audience at a live concert.",
+    "elapsed_time": 14.073082685470581,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

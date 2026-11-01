@@ -1,0 +1,14 @@
+{
+    "uuid": "85047aea-d0e1-4b58-a3ed-d918d37f3446",
+    "words": [
+        "comedian",
+        "laughter",
+        "jester",
+        "theater",
+        "audience"
+    ],
+    "relationship": "The first word is used by performers to interact with an audience during a live show; it often evokes strong emotions and requires quick thinking, while another one serves as a place where these interactions happen frequently.",
+    "elapsed_time": 18.024304628372192,
+    "model": "phi3:latest",
+    "topic": "entertainment"
+}

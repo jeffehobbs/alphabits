@@ -1,0 +1,14 @@
+{
+    "uuid": "ca27c5b8-fb1a-459d-bcb8-1a38b79281f0",
+    "words": [
+        "Mountain",
+        "Valley",
+        "Plateau",
+        "Canyon",
+        "Delta"
+    ],
+    "relationship": "These geographic terms are all associated with natural features found on land.",
+    "elapsed_time": 4.803346395492554,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "bd042ee3-529d-412f-a2b0-2d0cfcab9c21",
+    "words": [
+        "texture",
+        "composition",
+        "hue",
+        "perspective",
+        "contrast"
+    ],
+    "relationship": "The words are all concepts used to describe the visual qualities of a piece of artwork, focusing on how it affects the viewer's perception and emotional response. They relate to the way light, color, and form are arranged to create a specific feeling or impression.",
+    "elapsed_time": 18.152130842208862,
+    "model": "gemma3n:latest",
+    "topic": "art"
+}

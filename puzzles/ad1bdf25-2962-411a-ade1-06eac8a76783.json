@@ -1,0 +1,14 @@
+{
+    "uuid": "ad1bdf25-2962-411a-ade1-06eac8a76783",
+    "words": [
+        "Revolution",
+        "Conflict",
+        "Regime",
+        "Transition",
+        "Ideology"
+    ],
+    "relationship": "These terms all describe significant shifts in power and control within a society, often driven by conflict or change, and ultimately shaping the course of events and the lives of people within that society.",
+    "elapsed_time": 17.258190393447876,
+    "model": "gemma3:latest",
+    "topic": "history"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "ecb02461-a94f-4b51-9d07-cda575c1dda9",
+    "words": [
+        "empire",
+        "dynasty",
+        "conquest",
+        "legacy",
+        "civilization"
+    ],
+    "relationship": "These concepts are all connected to the rise and fall of large, complex societies over time. They often appear in accounts of political power, social structures, and cultural development.",
+    "elapsed_time": 22.512763738632202,
+    "model": "gemma3n:latest",
+    "topic": "history"
+}

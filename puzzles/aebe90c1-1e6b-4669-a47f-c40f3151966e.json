@@ -1,0 +1,14 @@
+{
+    "uuid": "aebe90c1-1e6b-4669-a47f-c40f3151966e",
+    "words": [
+        "screen",
+        "plot",
+        "actor",
+        "audience",
+        "scene"
+    ],
+    "relationship": "These terms all describe different aspects of experiencing a captivating and immersive narrative, often involving a story unfolding before an audience's eyes, whether it's through a visual medium or a performance.",
+    "elapsed_time": 14.85303807258606,
+    "model": "gemma3:latest",
+    "topic": "entertainment"
+}

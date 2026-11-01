@@ -1,0 +1,14 @@
+{
+    "uuid": "56b05f8c-0367-4144-84b7-f3a8e9e33b65",
+    "words": [
+        "pitcher",
+        "batman",
+        "umpire",
+        "ballpark",
+        "fan"
+    ],
+    "relationship": "team",
+    "elapsed_time": 7.221951484680176,
+    "model": "llama3.2:latest",
+    "topic": "sports"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "76da47cd-3fb8-4c7b-b24a-b2bf41e2e54f",
+    "words": [
+        "kinetic",
+        "thermodynamics",
+        "mechanical",
+        "potential",
+        "conservation"
+    ],
+    "relationship": "These are all terms used within physics to describe different aspects of energy.",
+    "elapsed_time": 11.599321126937866,
+    "model": "phi3:latest",
+    "topic": "science"
+}

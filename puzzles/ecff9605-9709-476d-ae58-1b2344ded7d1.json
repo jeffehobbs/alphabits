@@ -1,0 +1,14 @@
+{
+    "uuid": "ecff9605-9709-476d-ae58-1b2344ded7d1",
+    "words": [
+        "bacteria",
+        "fungi",
+        "algae",
+        "protozoa",
+        "archaea"
+    ],
+    "relationship": "All of these words are types of organisms",
+    "elapsed_time": 6.541043043136597,
+    "model": "llama3.2:latest",
+    "topic": "science"
+}

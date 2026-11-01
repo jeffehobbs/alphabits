@@ -1,0 +1,14 @@
+{
+    "uuid": "7bc2d310-34e3-4cd8-a57c-43469da98265",
+    "words": [
+        "Theme",
+        "Symbolism",
+        "Imagery",
+        "Narrative",
+        "Tone"
+    ],
+    "relationship": "These terms all describe elements that contribute to the overall impact and meaning of a written work, often focusing on how a reader interprets and experiences the story.",
+    "elapsed_time": 17.306981801986694,
+    "model": "gemma3:latest",
+    "topic": "literature"
+}

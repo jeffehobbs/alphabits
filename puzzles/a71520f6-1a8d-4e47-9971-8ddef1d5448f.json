@@ -1,0 +1,14 @@
+{
+    "uuid": "a71520f6-1a8d-4e47-9971-8ddef1d5448f",
+    "words": [
+        "atom",
+        "molecule",
+        "element",
+        "compound",
+        "isotope"
+    ],
+    "relationship": "These concepts are all fundamental to understanding the composition and behavior of matter, especially at a microscopic level. They describe the building blocks of everything around us and how they interact.",
+    "elapsed_time": 22.19538187980652,
+    "model": "gemma3n:latest",
+    "topic": "science"
+}

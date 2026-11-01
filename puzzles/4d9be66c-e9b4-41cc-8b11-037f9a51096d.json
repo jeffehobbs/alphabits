@@ -1,0 +1,14 @@
+{
+    "uuid": "4d9be66c-e9b4-41cc-8b11-037f9a51096d",
+    "words": [
+        "Mountain",
+        "Valley",
+        "River",
+        "Lake",
+        "Delta"
+    ],
+    "relationship": "All these words are connected through a common concept of natural features, where one is a result of the other.",
+    "elapsed_time": 8.152353048324585,
+    "model": "llama3.2:latest",
+    "topic": "geography"
+}

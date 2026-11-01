@@ -1,0 +1,14 @@
+{
+    "uuid": "5c379a2e-d8f6-49c6-88d0-da4eed5c5af7",
+    "words": [
+        "painting",
+        "canvas",
+        "brush",
+        "colors",
+        "paint"
+    ],
+    "relationship": "artist uses a tool to create a piece of art using different materials and colors.",
+    "elapsed_time": 7.823686361312866,
+    "model": "llama3.2:latest",
+    "topic": "art"
+}

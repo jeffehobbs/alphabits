@@ -1,0 +1,13 @@
+{
+    "uuid": "57c757f4-ee9a-4c9f-9711-9ca121c9c313",
+    "words": [
+        "river",
+        "ocean",
+        "sunlight",
+        "water cycle"
+    ],
+    "relationship": "A river flows into an ocean where its water evaporates due to sunlight.",
+    "elapsed_time": 12.182526111602783,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "00f26ad7-2a85-4bd9-a346-2b5eb0f01014",
+    "words": [
+        "plants",
+        "photosynthesis",
+        "chlorophyll",
+        "starches",
+        "sunlight"
+    ],
+    "relationship": "In this group of words, one represents organisms that produce oxygen through a process called photosynthesis, which also release glucose as food for themselves and others; these are essential to life on earth because they provide breathable air and nutrition. The second word refers to the part where plants store excess energy in this form of sugar during times when it's abundant.",
+    "elapsed_time": 18.117708444595337,
+    "model": "phi3:latest",
+    "topic": "nature"
+}

@@ -1,0 +1,14 @@
+{
+    "uuid": "eee12641-2c94-4b52-8312-f306b8b3217c",
+    "words": [
+        "stage",
+        "audience",
+        "actor",
+        "director",
+        "producer"
+    ],
+    "relationship": "These entertainment-related words are all associated with live performances or events.",
+    "elapsed_time": 6.97870397567749,
+    "model": "llama3.2:latest",
+    "topic": "entertainment"
+}

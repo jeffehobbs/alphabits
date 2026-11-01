@@ -1,0 +1,14 @@
+{
+    "uuid": "d94f4423-4abf-44bf-bc7b-ac74167c98c7",
+    "words": [
+        "Player",
+        "Coach",
+        "Training",
+        "Strategy",
+        "Competition"
+    ],
+    "relationship": "A team's performance is significantly influenced by their coach.",
+    "elapsed_time": 13.71301531791687,
+    "model": "phi3:latest",
+    "topic": "sports"
+}
